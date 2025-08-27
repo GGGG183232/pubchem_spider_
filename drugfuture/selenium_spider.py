@@ -3,8 +3,7 @@ import os
 import pandas
 import csv
 from selenium.common.exceptions import TimeoutException # 需要导入这个异常类
-# 创建一个WebDriver对象来控制浏览器的行为
-# 创建Chrome WebDriver对象
+
 driver = webdriver.Chrome()
 save_dir = r"E:\PROJECT\25_71_Robinagent\drugfuture_html"
 input_dir = r"E:\PROJECT\25_71_Robinagent\spider\drugfuture\chemical_substances.csv"
@@ -87,8 +86,10 @@ def process_drug(driver, name, save_dir):
 
 if __name__ == '__main__':
     # 使用WebDriver对象的get()方法加载目标动态网页
+    # 创建一个WebDriver对象来控制浏览器的行为
+    # 创建Chrome WebDriver对象
     url = "https://www.drugfuture.com/synth/synth_query.asp"  # 目标动态网页的URL
-    driver.get(url)
+    driver.get(url) # todo:构建driver对象，将这个对象传入方法中用于遍历，这样就不用每次重新加载浏览器
 
     with open(input_dir, mode='r', encoding='utf-8-sig') as csvfile:  # 使用 'utf-8-sig' 避免BOM问题
         reader = csv.DictReader(csvfile)
@@ -99,4 +100,4 @@ if __name__ == '__main__':
     # 循环处理每个药品
     for name in drug_names:
         process_drug(driver, name.strip(), save_dir)
-        driver.get(url)  # <-- 核心修复：每次循环都重新访问搜索页面
+        driver.get(url)  # todo: <-- 核心修复：每次循环都重新访问搜索页面,不然的话从一个网页退出就找不到下一个网页了
