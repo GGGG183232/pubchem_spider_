@@ -6,6 +6,30 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
+import random
+
+# 随机生成一个user-agent
+def get_random_user():
+    # userAgent可用列表
+    user_list = [
+        'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.163 Safari/535.1',
+
+        'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:6.0) Gecko/20100101 Firefox/6.0',
+
+        'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50',
+
+        'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C; Tablet PC 2.0; .NET4.0E)',
+
+        'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.0)',
+
+        'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41 Safari/535.1 QQBrowser/6.9.11079.201',
+
+        'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)',
+
+        'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; .NET4.0C; .NET4.0E) QQBrowser/6.9.11079.201',
+        ]
+    return random.choice(user_list)
+    pass
 
 
 def search_nmpa_drug():
@@ -30,7 +54,20 @@ def search_nmpa_drug():
 
     # ------------------ 初始化 WebDriver ------------------
     # 如果已将 ChromeDriver 路径添加到系统环境变量，可以这样初始化
-    driver = webdriver.Chrome(options=chrome_options)
+    # 设置浏览器
+
+
+    
+    options = webdriver.ChromeOptions()
+    # 修改window.navigator.webdriver为undefined，防机器人识别机制，selenium自动登陆判别机制
+    options.add_experimental_option('excludeSwitches', ['enable-automation'])
+    options.add_argument("--disable-blink-features=AutomationControlled")
+    # 更换头部
+    a_user = get_random_user()  # 自定义函数用来更改user-agent,避免爬虫被识别
+    options.add_argument('user-agent=' + a_user)
+    driver = webdriver.Chrome(options=options)
+
+    # driver = webdriver.Chrome(options=chrome_options)
     # driver.
     # 如果没有，请使用 Service 对象
     # service = Service('your_chromedriver_path_here')
@@ -40,6 +77,8 @@ def search_nmpa_drug():
     url = "https://www.nmpa.gov.cn/datasearch/home-index.html#category=yp"
     print(f"正在访问：{url}")
     driver.get(url)
+    # 设置浏览器
+
 
     # print(driver.page_source)
 
@@ -64,8 +103,6 @@ def search_nmpa_drug():
         search_icon = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "i.el-icon-search")))
         print("找到搜索图标...")
         search_icon.click()
-
-
 
         print("搜索已完成。")
 
