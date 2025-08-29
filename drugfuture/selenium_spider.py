@@ -8,10 +8,6 @@ driver = webdriver.Chrome()
 save_dir = r"E:\PROJECT\25_71_Robinagent\drugfuture_html"
 input_dir = r"E:\PROJECT\25_71_Robinagent\spider\drugfuture\chemical_substances.csv"
 
-
-
-
-
 def process_drug(driver, name, save_dir):
 
 
@@ -82,13 +78,23 @@ def process_drug(driver, name, save_dir):
         f.write(driver.page_source)
 
 
-
-
+from selenium.webdriver.chrome.options import Options # 1. 首先，导入 Options 类
+from selenium.webdriver.chrome.service import Service as ChromeService
+from webdriver_manager.chrome import ChromeDriverManager
 if __name__ == '__main__':
     # 使用WebDriver对象的get()方法加载目标动态网页
     # 创建一个WebDriver对象来控制浏览器的行为
     # 创建Chrome WebDriver对象
     url = "https://www.drugfuture.com/synth/synth_query.asp"  # 目标动态网页的URL
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--window-size=1920,1080")
+
+    service = ChromeService(ChromeDriverManager().install())
+    # 我们将 driver 的创建放在 try...finally 结构之外
+    driver = webdriver.Chrome(service=service, options=chrome_options)
+    print("Driver启动成功。")
     driver.get(url) # todo:构建driver对象，将这个对象传入方法中用于遍历，这样就不用每次重新加载浏览器
 
     with open(input_dir, mode='r', encoding='utf-8-sig') as csvfile:  # 使用 'utf-8-sig' 避免BOM问题
