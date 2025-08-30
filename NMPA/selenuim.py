@@ -57,7 +57,7 @@ def search_nmpa_drug():
     # 设置浏览器
 
 
-    
+
     options = webdriver.ChromeOptions()
     # 修改window.navigator.webdriver为undefined，防机器人识别机制，selenium自动登陆判别机制
     options.add_experimental_option('excludeSwitches', ['enable-automation'])
