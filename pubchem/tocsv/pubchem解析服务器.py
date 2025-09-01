@@ -16,13 +16,13 @@ target_fields = [
     "European Community (EC) Number",
     "ChEBI ID",
     "Color / Form",
-    "Drug Indication",
-    "Drug Classes",
-    "Clinical Trials",
-    "Therapeutic area",
-    "INN/Common name",
-    "Melting point",
-    "Boiling point",
+    #     "Drug Indication",
+    #      "Drug Classes",      # todo:问题字段
+    #     "Clinical Trials",
+    #     "Therapeutic area",
+    #     "INN/Common name",
+    #     "Melting point",
+    #     "Boiling point",
     "Flash Point",
     "Density",
     "Solubility",
@@ -36,44 +36,23 @@ target_fields = [
     "Heavy Atom Count",
     "Topological Polar Surface Area"
 ]
-input_folder = r"E:\PROJECT\25_71_Robinagent\pubchem_drugs_raw_json"
-output_csv = r"E:\PROJECT\25_71_Robinagent\spider\pubchem\7.1理化性质表.csv"
+input_folder = r"E:\PROJECT\25_71_Robinagent\spider\data"
+output_csv = r"E:\PROJECT\25_71_Robinagent\spider\pubchem\7.11理化性质表.csv"
 paths_file = r"E:\PROJECT\25_71_Robinagent\spider\pubchem\field_paths.json"  # 保存字段路径
+
 
 # ========================= 工具函数 =========================
 def load_paths():
     if os.path.exists(paths_file):
         with open(paths_file, "r", encoding="utf-8") as f:
-            return json.load(f)     # 将json转化为python字典
+            return json.load(f)  # 将json转化为python字典
     return {}
+
 
 def save_paths(paths):
     with open(paths_file, "w", encoding="utf-8") as f:
         json.dump(paths, f, ensure_ascii=False, indent=2)
 
-# def parse_value_from_json(json_file_path, json_paths_list):
-#     """根据路径列表依次尝试提取值"""
-#     try:
-#         with open(json_file_path, 'r', encoding='utf-8') as f:
-#             data = json.load(f)     # 把药物json转为字典
-#
-#         for path in json_paths_list:    # 给出字段路径列表，有多条路径逐个遍历
-#             current_data = data
-#             found = True
-#             for key in path:
-#                 if isinstance(current_data, dict) and key in current_data:
-#                     current_data = current_data[key]
-#                 elif isinstance(current_data, list) and isinstance(key, int) and 0 <= key < len(current_data):
-#                     current_data = current_data[key]
-#                 else:
-#                     found = False
-#                     break
-#             if found:
-#                 return current_data
-#         return None
-#     except Exception as e:
-#         print(f"[错误] {json_file_path} 解析失败: {e}")
-#         return None
 
 import json
 import os
@@ -129,65 +108,6 @@ def parse_value_from_json(json_file_path, json_paths_list, field):
     except Exception as e:
         print(f"[错误] {json_file_path} 解析失败: {e}")
         return None
-
-
-# def find_field_paths(json_data, target_fields):
-#     """
-#     增强版寻路：找到字段名路径后，继续向下寻找 "Value" 或 "StringWithMarkup"
-#     返回：{字段名: [路径列表]}
-#     """
-#     lowercase_target_fields = {f.lower(): f for f in target_fields}
-#     found_paths = {field: [] for field in target_fields}
-#
-#     def _traverse(data, current_path):
-#         if all(found_paths[f] for f in target_fields):
-#             return
-#
-#         if isinstance(data, str):
-#             lower_data = data.lower()
-#             if lower_data in lowercase_target_fields:
-#                 original_field_name = lowercase_target_fields[lower_data]
-#
-#                 # 搜索父节点的 value 路径
-#                 parent_path = current_path[:-1]
-#                 parent_node = json_data
-#                 for p in parent_path:
-#                     parent_node = parent_node[p]
-#
-#                 value_paths = []
-#
-#                 def _find_value(node, path_prefix):
-#                     if isinstance(node, dict):
-#                         for k, v in node.items():
-#                             new_path = path_prefix + [k]
-#                             if k in ("String", "Number"):
-#                                 value_paths.append(new_path)
-#                             _find_value(v, new_path)
-#                     elif isinstance(node, list):
-#                         for idx, item in enumerate(node):
-#                             _find_value(item, path_prefix + [idx])
-#
-#                 _find_value(parent_node, parent_path)
-#
-#                 if value_paths:
-#                     for vp in value_paths:
-#                         if vp not in found_paths[original_field_name]:
-#                             found_paths[original_field_name].append(vp)
-#                 else:
-#                     # 如果没找到 value，存字段路径
-#                     if current_path not in found_paths[original_field_name]:
-#                         found_paths[original_field_name].append(current_path)
-#             return
-#
-#         if isinstance(data, dict):
-#             for k, v in data.items():       # .item()把字典处理成元组，然后遍历元组
-#                 _traverse(v, current_path + [k])
-#         elif isinstance(data, list):
-#             for idx, item in enumerate(data):
-#                 _traverse(item, current_path + [idx])
-#
-#     _traverse(json_data, [])
-#     return found_paths
 
 
 def find_field_paths(json_data, target_fields):
@@ -255,60 +175,71 @@ def find_field_paths(json_data, target_fields):
 
     _traverse(json_data, [])
     return found_paths
+
+
 # ========================= 主逻辑 =========================
 def main():
-    stored_paths = load_paths()     # 读取路径文件，返回字典（每个字段的路径）
+    stored_paths = load_paths()  # 读取路径文件，返回字典（每个字段的路径）
 
     for field in target_fields:
-        stored_paths.setdefault(field, [])      # 将字段路径文件没有的字段添加到字典中，对应的路径存为空
+        stored_paths.setdefault(field, [])  # 将字段路径文件没有的字段添加到字典中，对应的路径存为空
         # 相当于  字段路径字典.get()获取值，如果target_filed(目标字段列表)有但stored_paths没有，那么加入stored_paths中，并标记路径为空，方便后面添加。
 
     os.makedirs(os.path.dirname(output_csv), exist_ok=True)
     with open(output_csv, 'w', newline='', encoding='utf-8') as csvfile:
-        writer = csv.writer(csvfile)    # 创建一个 CSV 写入器
-        writer.writerow(["文件名"] + target_fields)    # 写入 CSV 文件的第一行，也就是文件头
+        writer = csv.writer(csvfile)  # 创建一个 CSV 写入器
+        writer.writerow(["文件名"] + target_fields)  # 写入 CSV 文件的第一行，也就是文件头
 
-        for filename in os.listdir(input_folder):
-            if not filename.lower().endswith(".json"):      # 检查文件名是否以 .json 结尾（不区分大小写），如果不是，则跳过本次循环
-                continue
+        for entry in os.listdir(input_folder):
+            # 只需要把文件名作为参数，自动构建完整路径
+            # data/4400/
+            entry_path = os.path.join(input_folder, entry)
 
-            file_path = os.path.join(input_folder, filename)
+            # 在子文件夹中寻找 JSON 文件
+            # data/4400/4400.json
+            for filename in os.listdir(entry_path):
+                # 检查文件是否以 d.json 结尾
+                if not filename.endswith('d.json'):
+                    json_file_path = os.path.join(entry_path, filename)
+                    print(f"  正在读取文件: {json_file_path}")
 
-            try:
-                with open(file_path, "r", encoding="utf-8") as f:
-                    json_data = json.load(f)    # json.load:读成字典
-            except Exception as e:
-                print(f"[跳过] {filename} 读取失败: {e}")
-                continue
+                    try:
+                        # 以 UTF-8 编码打开并读取 JSON 文件
+                        with open(json_file_path, 'r', encoding='utf-8') as f:
+                            data = json.load(f)
+                            print("  文件读取成功！")
 
-            row = [filename]
-            updated = False
+                            row = [filename]
+                            updated = False
 
-            for field in target_fields:  # 逐个字段提取值
-                value = None
+                            for field in target_fields:  # 逐个字段提取值
+                                value = None
 
-                # 先尝试已有路径
-                if stored_paths[field]:
-                    value = parse_value_from_json(file_path, stored_paths[field], field)
+                                # 先尝试已有路径
+                                if stored_paths[field]:
+                                    value = parse_value_from_json(json_file_path, stored_paths[field], field)
 
-                # 如果没取到，寻路补充
-                if value is None:
-                    new_paths = find_field_paths(json_data, [field])
-                    if new_paths[field]:
-                        for p in new_paths[field]:
-                            if p not in stored_paths[field]:
-                                stored_paths[field].append(p)
-                                updated = True
-                        value = parse_value_from_json(file_path, new_paths[field], field)
+                                # 如果没取到，寻路补充
+                                if value is None:
+                                    new_paths = find_field_paths(data, [field])
+                                    if new_paths[field]:
+                                        for p in new_paths[field]:
+                                            if p not in stored_paths[field]:
+                                                stored_paths[field].append(p)
+                                                updated = True
+                                        value = parse_value_from_json(json_file_path, new_paths[field], field)
 
-                row.append(value if value is not None else "")
+                                row.append(value if value is not None else "")
 
-            writer.writerow(row)
+                            writer.writerow(row)
 
-            if updated:
-                save_paths(stored_paths)
+                            if updated:
+                                save_paths(stored_paths)
 
-            print(f"[完成] {filename} 解析完成")
+                            print(f"[完成] {filename} 解析完成")
+                    except:
+                        print(f"[失败] {filename} 解析失败")
+
 
 if __name__ == "__main__":
     main()
