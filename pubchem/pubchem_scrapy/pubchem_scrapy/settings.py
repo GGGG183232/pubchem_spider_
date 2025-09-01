@@ -6,7 +6,6 @@
 #     https://docs.scrapy.org/en/latest/topics/settings.html
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
-
 BOT_NAME = "pubchem_scrapy"
 
 SPIDER_MODULES = ["pubchem_scrapy.spiders"]
@@ -17,6 +16,12 @@ ADDONS = {}
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "pubchem_scrapy (+http://www.yourdomain.com)"
+import datetime
+timestamp = datetime.datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
+# LOG_FILE = f"E:\\PROJECT\\25_71_Robinagent\\spider\\pubchem\\pubchem_scrapy\\log\\pubchem_{timestamp}.log"
+# LOG_FILE = r"E:\PROJECT\25_71_Robinagent\spider\pubchem\pubchem_scrapy\pubchem.log"
+LOG_LEVEL = 'INFO'
+LOG_FILE_APPEND = False
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False

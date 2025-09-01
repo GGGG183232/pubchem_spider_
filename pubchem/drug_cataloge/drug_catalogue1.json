@@ -1,0 +1,212 @@
+[
+{
+    "classification_path": [
+        "Analgesic",
+        "DG01484 5-HT1B-receptor agonist",
+        "DG00835 Methysergide"
+    ],
+    "disease": "DG01484 5-HT1B-receptor agonist",
+    "target": "DG00835 Methysergide",
+    "drug_name": "Methysergide",
+    "english_name_from_pubchem": "Methysergide",
+    "pubchem_cid": 9681,
+    "inn": null,
+    "cas_number": null
+},
+{
+    "classification_path": [
+        "Analgesic",
+        "DG01484 5-HT1B-receptor agonist",
+        "DG00835 Methysergide"
+    ],
+    "disease": "DG01484 5-HT1B-receptor agonist",
+    "target": "DG00835 Methysergide",
+    "drug_name": "Methysergide maleate",
+    "english_name_from_pubchem": "Methysergide Maleate",
+    "pubchem_cid": 5281073,
+    "inn": null,
+    "cas_number": null
+},
+{
+    "classification_path": [
+        "Analgesic",
+        "DG01484 5-HT1B-receptor agonist",
+        "DG00836 Sumatriptan"
+    ],
+    "disease": "DG01484 5-HT1B-receptor agonist",
+    "target": "DG00836 Sumatriptan",
+    "drug_name": "Sumatriptan",
+    "english_name_from_pubchem": "Sumatriptan",
+    "pubchem_cid": 5358,
+    "inn": null,
+    "cas_number": null
+},
+{
+    "classification_path": [
+        "Analgesic",
+        "DG01484 5-HT1B-receptor agonist",
+        "DG00836 Sumatriptan"
+    ],
+    "disease": "DG01484 5-HT1B-receptor agonist",
+    "target": "DG00836 Sumatriptan",
+    "drug_name": "Sumatriptan succinate",
+    "english_name_from_pubchem": "Sumatriptan Succinate",
+    "pubchem_cid": 59772,
+    "inn": null,
+    "cas_number": null
+},
+{
+    "classification_path": [
+        "Analgesic",
+        "DG01484 5-HT1B-receptor agonist",
+        "DG00837 Naratriptan"
+    ],
+    "disease": "DG01484 5-HT1B-receptor agonist",
+    "target": "DG00837 Naratriptan",
+    "drug_name": "Naratriptan",
+    "english_name_from_pubchem": "Naratriptan",
+    "pubchem_cid": 4440,
+    "inn": null,
+    "cas_number": null
+},
+{
+    "classification_path": [
+        "Analgesic",
+        "DG01484 5-HT1B-receptor agonist",
+        "DG00837 Naratriptan"
+    ],
+    "disease": "DG01484 5-HT1B-receptor agonist",
+    "target": "DG00837 Naratriptan",
+    "drug_name": "Naratriptan hydrochloride",
+    "english_name_from_pubchem": "Naratriptan Hydrochloride",
+    "pubchem_cid": 60875,
+    "inn": null,
+    "cas_number": null
+},
+{
+    "classification_path": [
+        "Analgesic",
+        "DG01484 5-HT1B-receptor agonist",
+        "DG00838 Rizatriptan"
+    ],
+    "disease": "DG01484 5-HT1B-receptor agonist",
+    "target": "DG00838 Rizatriptan",
+    "drug_name": "Rizatriptan",
+    "english_name_from_pubchem": "Rizatriptan",
+    "pubchem_cid": 5078,
+    "inn": null,
+    "cas_number": null
+},
+{
+    "classification_path": [
+        "Analgesic",
+        "DG01484 5-HT1B-receptor agonist",
+        "DG00838 Rizatriptan"
+    ],
+    "disease": "DG01484 5-HT1B-receptor agonist",
+    "target": "DG00838 Rizatriptan",
+    "drug_name": "Rizatriptan benzoate",
+    "english_name_from_pubchem": "Rizatriptan Benzoate",
+    "pubchem_cid": 77997,
+    "inn": null,
+    "cas_number": null
+},
+{
+    "classification_path": [
+        "Analgesic",
+        "DG01484 5-HT1B-receptor agonist",
+        "DG00839 Almotriptan"
+    ],
+    "disease": "DG01484 5-HT1B-receptor agonist",
+    "target": "DG00839 Almotriptan",
+    "drug_name": "Almotriptan",
+    "english_name_from_pubchem": "Almotriptan",
+    "pubchem_cid": 123606,
+    "inn": null,
+    "cas_number": null
+},
+{
+    "classification_path": [
+        "Analgesic",
+        "DG01484 5-HT1B-receptor agonist",
+        "DG00839 Almotriptan"
+    ],
+    "disease": "DG01484 5-HT1B-receptor agonist",
+    "target": "DG00839 Almotriptan",
+    "drug_name": "Almotriptan malate",
+    "english_name_from_pubchem": "Almotriptan Malate",
+    "pubchem_cid": 123607,
+    "inn": null,
+    "cas_number": null
+},
+{
+    "classification_path": [
+        "Analgesic",
+        "DG01484 5-HT1B-receptor agonist",
+        "DG00840 Eletriptan"
+    ],
+    "disease": "DG01484 5-HT1B-receptor agonist",
+    "target": "DG00840 Eletriptan",
+    "drug_name": "Eletriptan",
+    "english_name_from_pubchem": "Eletriptan",
+    "pubchem_cid": 77993,
+    "inn": null,
+    "cas_number": null
+},
+{
+    "classification_path": [
+        "Analgesic",
+        "DG01484 5-HT1B-receptor agonist",
+        "DG00840 Eletriptan"
+    ],
+    "disease": "DG01484 5-HT1B-receptor agonist",
+    "target": "DG00840 Eletriptan",
+    "drug_name": "Eletriptan hydrobromide",
+    "english_name_from_pubchem": "Eletriptan Hydrobromide",
+    "pubchem_cid": 656631,
+    "inn": null,
+    "cas_number": null
+},
+{
+    "classification_path": [
+        "Analgesic",
+        "DG01484 5-HT1B-receptor agonist",
+        "DG00840 Eletriptan"
+    ],
+    "disease": "DG01484 5-HT1B-receptor agonist",
+    "target": "DG00840 Eletriptan",
+    "drug_name": "Eletriptan hydrobromide monohydrate",
+    "english_name_from_pubchem": "Eletriptan hydrobromide monohydrate",
+    "pubchem_cid": 9891365,
+    "inn": null,
+    "cas_number": null
+},
+{
+    "classification_path": [
+        "Analgesic",
+        "DG01484 5-HT1B-receptor agonist",
+        "DG00841 Frovatriptan"
+    ],
+    "disease": "DG01484 5-HT1B-receptor agonist",
+    "target": "DG00841 Frovatriptan",
+    "drug_name": "Frovatriptan",
+    "english_name_from_pubchem": "Frovatriptan",
+    "pubchem_cid": 77992,
+    "inn": null,
+    "cas_number": null
+},
+{
+    "classification_path": [
+        "Analgesic",
+        "DG01484 5-HT1B-receptor agonist",
+        "DG00841 Frovatriptan"
+    ],
+    "disease": "DG01484 5-HT1B-receptor agonist",
+    "target": "DG00841 Frovatriptan",
+    "drug_name": "Frovatriptan succinate",
+    "english_name_from_pubchem": "Frovatriptan Succinate",
+    "pubchem_cid": 152944,
+    "inn": null,
+    "cas_number": null
+}
+]
