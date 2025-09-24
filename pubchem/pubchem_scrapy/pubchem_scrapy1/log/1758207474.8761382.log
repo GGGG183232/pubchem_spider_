@@ -1,0 +1,3100 @@
+https://patents.google.com/patent/EP1254251A4/en?oq=EP1254251A4:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>EP1254251A4 - 
+        NEUROSTEROIDS AS A MARKER FOR ALZHEIMER'S DISEASE
+       
+        - Google Patents</title>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta charset="utf-8"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<link href="https://patents.google.com/patent/EP1254251A4/en" rel="canonical"/>
+<meta content="
+     One of the major problems with the diagnosis and treatment of neurological diseases is the inability of clinicians to determine the onset of disease. The present invention describes methods and kits whereby the onset of neuropathology is detected by changes in the normal levels of neurosteroids, and particularly DHEA and its metabolic precursors, in the brain and serum. 
+   
+   " name="description"/>
+<meta content="patent" name="DC.type"/>
+<meta content="
+        NEUROSTEROIDS AS A MARKER FOR ALZHEIMER'S DISEASE
+       
+       " name="DC.title"/>
+<meta content="2001-01-26" name="DC.date" scheme="dateSubmitted"/>
+<meta content="
+     One of the major problems with the diagnosis and treatment of neurological diseases is the inability of clinicians to determine the onset of disease. The present invention describes methods and kits whereby the onset of neuropathology is detected by changes in the normal levels of neurosteroids, and particularly DHEA and its metabolic precursors, in the brain and serum. 
+   
+   " name="DC.description"/>
+<meta content="EP:01903310A" name="citation_patent_application_number"/>
+<meta content="EP:1254251:A4" name="citation_patent_publication_number"/>
+<meta content="2004-07-21" name="DC.date"/>
+<meta content="Vassilios Papadopoulos" name="DC.contributor" scheme="inventor"/>
+<meta content="Rachel C Brown" name="DC.contributor" scheme="inventor"/>
+<meta content="Caterina Cascio" name="DC.contributor" scheme="inventor"/>
+<meta content="Georgetown University Medical Center" name="DC.contributor" scheme="assignee"/>
+<meta content="US:5162198" name="DC.relation" scheme="references"/>
+<meta content="AISEN P S ET AL: &quot;GLUCOCORTICOIDS IN ALZHEIMER'S DISEASE THE STORY SO FAR&quot;, DRUGS AND AGING, ADIS INTERNATIONAL LTD, NZ, vol. 12, no. 1, January 1998 (1998-01-01), pages 1 - 6, XP001079609, ISSN: 1170-229X" name="citation_reference" scheme="references"/>
+<meta content="BROWN RACHEL C ET AL: &quot;Oxidative stress-mediated DHEA formation in Alzheimer's disease pathology.&quot;, NEUROBIOLOGY OF AGING, vol. 24, no. 1, 2003, pages 57 - 65, XP002280553, ISSN: 0197-4580" name="citation_reference" scheme="references"/>
+<meta content='CASCIO C ET AL: "Detection of P450c17-independent pathways for dehydroepiandrosterone (DHEA) biosynthesis in brain glial tumor cells", PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES, vol. 95, no. 6, 17 March 1998 (1998-03-17), March 17, 1998, pages 2862 - 2867, XP002280552, ISSN: 0027-8424' name="citation_reference" scheme="references"/>
+<meta content="DATABASE BIOSIS [online] BIOSCIENCES INFORMATION SERVICE, PHILADELPHIA, PA, US; 1996, YANASE TOSHIHIKO ET AL: &quot;Serum dehydroepiandrosterone (DHEA) and DHEA-sulfate (DHEA-S) in Alzheimer's disease and in cerebrovascular dementia&quot;, XP002280554, Database accession no. PREV199698779408" name="citation_reference" scheme="references"/>
+<meta content="ENDOCRINE JOURNAL, vol. 43, no. 1, 1996, pages 119 - 123, ISSN: 0918-8959" name="citation_reference" scheme="references"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Product+Sans" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700" rel="stylesheet"/>
+<style>
+      
+      #gb { top: 15px; left: auto; right: 0; width: auto; min-width: 135px !important; }   
+      body { transition: none; }
+    </style>
+<script></script>
+<script>
+      window.version = 'patent-search.search_20250707_RC00';
+
+      function sendFeedback() {
+        userfeedback.api.startFeedback({
+          'productId': '713680',
+          'bucket': 'patent-search-web',
+          'productVersion': window.version,
+        });
+      }
+
+      window.experiments = {};
+      window.experiments.patentCountries = "ae,ag,al,am,ao,ap,ar,at,au,aw,az,ba,bb,bd,be,bf,bg,bh,bj,bn,bo,br,bw,bx,by,bz,ca,cf,cg,ch,ci,cl,cm,cn,co,cr,cs,cu,cy,cz,dd,de,dj,dk,dm,do,dz,ea,ec,ee,eg,em,ep,es,fi,fr,ga,gb,gc,gd,ge,gh,gm,gn,gq,gr,gt,gw,hk,hn,hr,hu,ib,id,ie,il,in,ir,is,it,jo,jp,ke,kg,kh,km,kn,kp,kr,kw,kz,la,lc,li,lk,lr,ls,lt,lu,lv,ly,ma,mc,md,me,mg,mk,ml,mn,mo,mr,mt,mw,mx,my,mz,na,ne,ng,ni,nl,no,nz,oa,om,pa,pe,pg,ph,pl,pt,py,qa,ro,rs,ru,rw,sa,sc,sd,se,sg,si,sk,sl,sm,sn,st,su,sv,sy,sz,td,tg,th,tj,tm,tn,tr,tt,tw,tz,ua,ug,us,uy,uz,vc,ve,vn,wo,yu,za,zm,zw";
+      
+      
+      window.experiments.keywordWizard = true;
+      
+      
+      
+      window.experiments.definitions = true;
+      window.experiments.plogs = true;
+
+      window.Polymer = {
+        dom: 'shady',
+        lazyRegister: true,
+      };
+    </script>
+<script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20250707_RC00/scs/compiled_dir/webcomponentsjs/webcomponents-lite.min.js"></script>
+<link href="//www.gstatic.com/patent-search/frontend/patent-search.search_20250707_RC00/scs/compiled_dir/search-app-vulcanized.html" rel="import"/>
+</head>
+<body unresolved="">
+<script></script>
+<script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20250707_RC00/scs/compiled_dir/search-app-vulcanized.js"></script>
+<search-app>
+<article class="result" itemscope="" itemtype="http://schema.org/ScholarlyArticle">
+<h1 itemprop="pageTitle">EP1254251A4 - 
+        NEUROSTEROIDS AS A MARKER FOR ALZHEIMER'S DISEASE
+       
+        - Google Patents</h1>
+<span itemprop="title">
+        NEUROSTEROIDS AS A MARKER FOR ALZHEIMER'S DISEASE
+       
+       </span>
+<meta content="patent" itemprop="type"/>
+<h2>Info</h2>
+<dl>
+<dt>Publication number</dt>
+<dd itemprop="publicationNumber">EP1254251A4</dd>
+<meta content="1254251" itemprop="numberWithoutCodes"/>
+<meta content="A4" itemprop="kindCode"/>
+<meta content="Separately published supplemental search report" itemprop="publicationDescription"/>
+<span>EP1254251A4</span>
+<span>EP01903310A</span>
+<span>EP01903310A</span>
+<span>EP1254251A4</span>
+<span>EP 1254251 A4</span>
+<span>EP1254251 A4</span>
+<span>EP 1254251A4</span>
+<span>EP 01903310 A</span>
+<span>EP01903310 A</span>
+<span>EP 01903310A</span>
+<span>EP 01903310 A</span>
+<span>EP01903310 A</span>
+<span>EP 01903310A</span>
+<span>EP 1254251 A4</span>
+<span>EP1254251 A4</span>
+<span>EP 1254251A4</span>
+<dt>Authority</dt>
+<dd itemprop="countryCode">EP</dd>
+<dd itemprop="countryName">European Patent Office</dd>
+<dt>Prior art keywords</dt>
+<dd itemprop="priorArtKeywords" repeat="">neurosteroids</dd>
+<dd itemprop="priorArtKeywords" repeat="">disease</dd>
+<dd itemprop="priorArtKeywords" repeat="">alzheimer</dd>
+<dd itemprop="priorArtKeywords" repeat="">marker</dd>
+<dd itemprop="priorArtKeywords" repeat="">onset</dd>
+<dt>Prior art date</dt>
+<dd><time datetime="2000-01-28" itemprop="priorArtDate">2000-01-28</time></dd>
+<dt>Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)</dt>
+<dd itemprop="legalStatusIfi" itemscope="">
+<span itemprop="status">Granted</span>
+</dd>
+</dl>
+<dt>Application number</dt>
+<dd itemprop="applicationNumber">EP01903310A</dd>
+<dt>Other languages</dt>
+<dd itemprop="otherLanguages" itemscope="" repeat="">
+<a href="/patent/EP1254251A4/de">
+<span itemprop="name">German</span> (<span itemprop="code">de</span>)
+    </a>
+</dd>
+<dd itemprop="otherLanguages" itemscope="" repeat="">
+<a href="/patent/EP1254251A4/fr">
+<span itemprop="name">French</span> (<span itemprop="code">fr</span>)
+    </a>
+</dd>
+<dt>Other versions</dt>
+<dd itemprop="directAssociations" itemscope="" repeat="">
+<a href="/patent/EP1254251A2/en">
+<span itemprop="publicationNumber">EP1254251A2</span>
+      (<span itemprop="primaryLanguage">en</span>
+</a>
+</dd>
+<dd itemprop="directAssociations" itemscope="" repeat="">
+<a href="/patent/EP1254251B1/en">
+<span itemprop="publicationNumber">EP1254251B1</span>
+      (<span itemprop="primaryLanguage">en</span>
+</a>
+</dd>
+<dt>Inventor</dt>
+<dd itemprop="inventor" repeat="">Vassilios Papadopoulos</dd>
+<dd itemprop="inventor" repeat="">Rachel C Brown</dd>
+<dd itemprop="inventor" repeat="">Caterina Cascio</dd>
+<dt>Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)</dt>
+<dd itemprop="assigneeCurrent" repeat="">
+    Georgetown University
+  </dd>
+<dt>Original Assignee</dt>
+<dd itemprop="assigneeOriginal" repeat="">Georgetown University Medical Center</dd>
+<dt>Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)</dt>
+<dd><time datetime="2000-01-28" itemprop="priorityDate">2000-01-28</time></dd>
+<dt>Filing date</dt>
+<dd><time datetime="2001-01-26" itemprop="filingDate">2001-01-26</time></dd>
+<dt>Publication date</dt>
+<dd><time datetime="2004-07-21" itemprop="publicationDate">2004-07-21</time></dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time datetime="2001-01-26" itemprop="date">2001-01-26</time>
+<span itemprop="title">Application filed by Georgetown University Medical Center</span>
+<span itemprop="type">filed</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+<span itemprop="assigneeSearch">Georgetown University Medical Center</span>
+</dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time datetime="2001-01-26" itemprop="date">2001-01-26</time>
+<span itemprop="title">Priority to EP07075646A</span>
+<span itemprop="type">priority</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+<span itemprop="documentId">patent/EP1860442A3/en</span>
+</dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time datetime="2002-11-06" itemprop="date">2002-11-06</time>
+<span itemprop="title">Publication of EP1254251A2</span>
+<span itemprop="type">publication</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+<span itemprop="documentId">patent/EP1254251A2/en</span>
+</dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time datetime="2004-07-21" itemprop="date">2004-07-21</time>
+<span itemprop="title">Publication of EP1254251A4</span>
+<span itemprop="type">publication</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+<span itemprop="documentId">patent/EP1254251A4/en</span>
+</dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time datetime="2007-08-15" itemprop="date">2007-08-15</time>
+<span itemprop="title">Application granted</span>
+<span itemprop="type">granted</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+</dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time datetime="2007-08-15" itemprop="date">2007-08-15</time>
+<span itemprop="title">Publication of EP1254251B1</span>
+<span itemprop="type">publication</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+<span itemprop="documentId">patent/EP1254251B1/en</span>
+</dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time datetime="2021-01-26" itemprop="date">2021-01-26</time>
+<span itemprop="title">Anticipated expiration</span>
+<span itemprop="type">legal-status</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+</dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time itemprop="date">Status</time>
+<span itemprop="title">Expired - Lifetime</span>
+<span itemprop="type">legal-status</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+<span bool="" content="true" itemprop="current">Current</span>
+</dd>
+<h2>Links</h2>
+<ul>
+<li itemprop="links" itemscope="" repeat="">
+<meta content="espacenetLink" itemprop="id"/>
+<a href="https://worldwide.espacenet.com/publicationDetails/biblio?CC=EP&amp;NR=1254251A4&amp;KC=A4&amp;FT=D" itemprop="url" target="_blank"><span itemprop="text">Espacenet</span></a>
+</li>
+<li itemprop="links" itemscope="" repeat="">
+<meta content="gpiLink" itemprop="id"/>
+<a href="https://data.epo.org/gpi/EP1254251A4" itemprop="url" target="_blank"><span itemprop="text">EPO GPI</span></a>
+</li>
+<li itemprop="links" itemscope="" repeat="">
+<meta content="epRegisterLink" itemprop="id"/>
+<a href="https://register.epo.org/espacenet/application?number=EP01903310" itemprop="url" target="_blank"><span itemprop="text">EP Register</span></a>
+</li>
+<li itemprop="links" itemscope="" repeat="">
+<meta content="globalDossierLink" itemprop="id"/>
+<a href="https://globaldossier.uspto.gov/result/application/EP/01903310/1" itemprop="url" target="_blank"><span itemprop="text">Global Dossier</span></a>
+</li>
+<li itemprop="links" itemscope="" repeat="">
+<meta content="stackexchangeLink" itemprop="id"/>
+<a href="https://patents.stackexchange.com/questions/tagged/EP1254251A4" itemprop="url"><span itemprop="text">Discuss</span></a>
+</li>
+</ul>
+<ul itemprop="concept" itemscope="">
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">239000002858</span>
+<span itemprop="name">neurotransmitter agent</span>
+<span itemprop="domain">Substances</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles"></span>
+<span itemprop="inchi_key"></span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">title</span>
+<span itemprop="sections" repeat="">abstract</span>
+<span itemprop="count">2</span>
+</li>
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">208000024827</span>
+<span itemprop="name">Alzheimer disease</span>
+<span itemprop="domain">Diseases</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles"></span>
+<span itemprop="inchi_key"></span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">title</span>
+<span itemprop="count">1</span>
+</li>
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">239000003550</span>
+<span itemprop="name">marker</span>
+<span itemprop="domain">Substances</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles"></span>
+<span itemprop="inchi_key"></span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">title</span>
+<span itemprop="count">1</span>
+</li>
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">208000012902</span>
+<span itemprop="name">Nervous system disease</span>
+<span itemprop="domain">Diseases</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles"></span>
+<span itemprop="inchi_key"></span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">abstract</span>
+<span itemprop="count">1</span>
+</li>
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">208000025966</span>
+<span itemprop="name">Neurological disease</span>
+<span itemprop="domain">Diseases</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles"></span>
+<span itemprop="inchi_key"></span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">abstract</span>
+<span itemprop="count">1</span>
+</li>
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">210000004556</span>
+<span itemprop="name">brain</span>
+<span itemprop="domain">Anatomy</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles"></span>
+<span itemprop="inchi_key"></span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">abstract</span>
+<span itemprop="count">1</span>
+</li>
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">FMGSKLZLMKYGDP-USOAJAOKSA-N</span>
+<span itemprop="name">dehydroepiandrosterone</span>
+<span itemprop="domain">Chemical compound</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles">C1[C@@H](O)CC[C@]2(C)[C@H]3CC[C@](C)(C(CC4)=O)[C@@H]4[C@@H]3CC=C21</span>
+<span itemprop="inchi_key">FMGSKLZLMKYGDP-USOAJAOKSA-N</span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">abstract</span>
+<span itemprop="count">1</span>
+</li>
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">238000003745</span>
+<span itemprop="name">diagnosis</span>
+<span itemprop="domain">Methods</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles"></span>
+<span itemprop="inchi_key"></span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">abstract</span>
+<span itemprop="count">1</span>
+</li>
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">201000010099</span>
+<span itemprop="name">disease</span>
+<span itemprop="domain">Diseases</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles"></span>
+<span itemprop="inchi_key"></span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">abstract</span>
+<span itemprop="count">1</span>
+</li>
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">208000037265</span>
+<span itemprop="name">diseases, disorders, signs and symptoms</span>
+<span itemprop="domain">Diseases</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles"></span>
+<span itemprop="inchi_key"></span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">abstract</span>
+<span itemprop="count">1</span>
+</li>
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">230000002503</span>
+<span itemprop="name">metabolic effect</span>
+<span itemprop="domain">Effects</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles"></span>
+<span itemprop="inchi_key"></span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">abstract</span>
+<span itemprop="count">1</span>
+</li>
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">238000000034</span>
+<span itemprop="name">method</span>
+<span itemprop="domain">Methods</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles"></span>
+<span itemprop="inchi_key"></span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">abstract</span>
+<span itemprop="count">1</span>
+</li>
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">230000007171</span>
+<span itemprop="name">neuropathology</span>
+<span itemprop="domain">Effects</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles"></span>
+<span itemprop="inchi_key"></span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">abstract</span>
+<span itemprop="count">1</span>
+</li>
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">239000002243</span>
+<span itemprop="name">precursor</span>
+<span itemprop="domain">Substances</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles"></span>
+<span itemprop="inchi_key"></span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">abstract</span>
+<span itemprop="count">1</span>
+</li>
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">210000002966</span>
+<span itemprop="name">serum</span>
+<span itemprop="domain">Anatomy</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles"></span>
+<span itemprop="inchi_key"></span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">abstract</span>
+<span itemprop="count">1</span>
+</li>
+</ul>
+<section>
+<h2>Classifications</h2>
+<ul>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G</span>—<span itemprop="Description">PHYSICS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01</span>—<span itemprop="Description">MEASURING; TESTING</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N</span>—<span itemprop="Description">INVESTIGATING OR ANALYSING MATERIALS BY DETERMINING THEIR CHEMICAL OR PHYSICAL PROPERTIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N33/00</span>—<span itemprop="Description">Investigating or analysing materials by specific methods not covered by groups G01N1/00 - G01N31/00</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N33/48</span>—<span itemprop="Description">Biological material, e.g. blood, urine; Haemocytometers</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N33/50</span>—<span itemprop="Description">Chemical analysis of biological material, e.g. blood, urine; Testing involving biospecific ligand binding methods; Immunological testing</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N33/68</span>—<span itemprop="Description">Chemical analysis of biological material, e.g. blood, urine; Testing involving biospecific ligand binding methods; Immunological testing involving proteins, peptides or amino acids</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N33/6893</span>—<span itemprop="Description">Chemical analysis of biological material, e.g. blood, urine; Testing involving biospecific ligand binding methods; Immunological testing involving proteins, peptides or amino acids related to diseases not provided for elsewhere</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N33/6896</span>—<span itemprop="Description">Neurological disorders, e.g. Alzheimer's disease</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="FirstCode"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P</span>—<span itemprop="Description">SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P17/00</span>—<span itemprop="Description">Drugs for dermatological disorders</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P17/02</span>—<span itemprop="Description">Drugs for dermatological disorders for treating wounds, ulcers, burns, scars, keloids, or the like</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P</span>—<span itemprop="Description">SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P21/00</span>—<span itemprop="Description">Drugs for disorders of the muscular or neuromuscular system</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P</span>—<span itemprop="Description">SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P25/00</span>—<span itemprop="Description">Drugs for disorders of the nervous system</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P</span>—<span itemprop="Description">SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P25/00</span>—<span itemprop="Description">Drugs for disorders of the nervous system</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P25/02</span>—<span itemprop="Description">Drugs for disorders of the nervous system for peripheral neuropathies</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P</span>—<span itemprop="Description">SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P25/00</span>—<span itemprop="Description">Drugs for disorders of the nervous system</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P25/14</span>—<span itemprop="Description">Drugs for disorders of the nervous system for treating abnormal movements, e.g. chorea, dyskinesia</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P</span>—<span itemprop="Description">SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P25/00</span>—<span itemprop="Description">Drugs for disorders of the nervous system</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P25/14</span>—<span itemprop="Description">Drugs for disorders of the nervous system for treating abnormal movements, e.g. chorea, dyskinesia</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P25/16</span>—<span itemprop="Description">Anti-Parkinson drugs</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P</span>—<span itemprop="Description">SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P25/00</span>—<span itemprop="Description">Drugs for disorders of the nervous system</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P25/28</span>—<span itemprop="Description">Drugs for disorders of the nervous system for treating neurodegenerative disorders of the central nervous system, e.g. nootropic agents, cognition enhancers, drugs for treating Alzheimer's disease or other forms of dementia</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P</span>—<span itemprop="Description">SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P3/00</span>—<span itemprop="Description">Drugs for disorders of the metabolism</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P</span>—<span itemprop="Description">SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P35/00</span>—<span itemprop="Description">Antineoplastic agents</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P</span>—<span itemprop="Description">SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P43/00</span>—<span itemprop="Description">Drugs for specific purposes, not provided for in groups A61P1/00-A61P41/00</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P</span>—<span itemprop="Description">SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P9/00</span>—<span itemprop="Description">Drugs for disorders of the cardiovascular system</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G</span>—<span itemprop="Description">PHYSICS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01</span>—<span itemprop="Description">MEASURING; TESTING</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N</span>—<span itemprop="Description">INVESTIGATING OR ANALYSING MATERIALS BY DETERMINING THEIR CHEMICAL OR PHYSICAL PROPERTIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N33/00</span>—<span itemprop="Description">Investigating or analysing materials by specific methods not covered by groups G01N1/00 - G01N31/00</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N33/48</span>—<span itemprop="Description">Biological material, e.g. blood, urine; Haemocytometers</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N33/50</span>—<span itemprop="Description">Chemical analysis of biological material, e.g. blood, urine; Testing involving biospecific ligand binding methods; Immunological testing</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N33/74</span>—<span itemprop="Description">Chemical analysis of biological material, e.g. blood, urine; Testing involving biospecific ligand binding methods; Immunological testing involving hormones or other non-cytokine intercellular protein regulatory factors such as growth factors, including receptors to hormones and growth factors</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N33/743</span>—<span itemprop="Description">Steroid hormones</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G</span>—<span itemprop="Description">PHYSICS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01</span>—<span itemprop="Description">MEASURING; TESTING</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N</span>—<span itemprop="Description">INVESTIGATING OR ANALYSING MATERIALS BY DETERMINING THEIR CHEMICAL OR PHYSICAL PROPERTIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N2800/00</span>—<span itemprop="Description">Detection or diagnosis of diseases</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N2800/28</span>—<span itemprop="Description">Neurological disorders</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N2800/2814</span>—<span itemprop="Description">Dementia; Cognitive disorders</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N2800/2821</span>—<span itemprop="Description">Alzheimer</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="Additional"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+</ul>
+</section>
+<section>
+<h2>Landscapes</h2>
+<ul>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Health &amp; Medical Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Life Sciences &amp; Earth Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Engineering &amp; Computer Science</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Chemical &amp; Material Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Medicinal Chemistry</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">General Health &amp; Medical Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Bioinformatics &amp; Cheminformatics</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Biomedical Technology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Organic Chemistry</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Public Health</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Veterinary Medicine</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Pharmacology &amp; Pharmacy</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">General Chemical &amp; Material Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Animal Behavior &amp; Ethology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Chemical Kinetics &amp; Catalysis</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Nuclear Medicine, Radiotherapy &amp; Molecular Imaging</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Neurology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Neurosurgery</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Hematology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Molecular Biology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Urology &amp; Nephrology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Immunology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Biochemistry</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Analytical Chemistry</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Pathology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">General Physics &amp; Mathematics</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Physics &amp; Mathematics</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Food Science &amp; Technology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Biotechnology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Cell Biology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Psychology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Microbiology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Physical Education &amp; Sports Medicine</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Dermatology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Endocrinology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Diabetes</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Cardiology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Obesity</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Psychiatry</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Orthopedic Medicine &amp; Surgery</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+</ul>
+</section>
+<section itemprop="abstract" itemscope="">
+<h2>Abstract</h2>
+<div html="" itemprop="content"><abstract lang="EN" load-source="docdb" mxw-id="PA632995033" source="national office">
+<div class="abstract">One of the major problems with the diagnosis and treatment of neurological diseases is the inability of clinicians to determine the onset of disease. The present invention describes methods and kits whereby the onset of neuropathology is detected by changes in the normal levels of neurosteroids, and particularly DHEA and its metabolic precursors, in the brain and serum.</div>
+</abstract>
+</div>
+</section>
+<section itemprop="application" itemscope="">
+<section itemprop="metadata" itemscope="">
+<span itemprop="applicationNumber">EP01903310A</span>
+<span itemprop="priorityDate">2000-01-28</span>
+<span itemprop="filingDate">2001-01-26</span>
+<span itemprop="title">Neurosteroids as markers for alzheimer's disease 
+       </span>
+<span itemprop="ifiStatus">Expired - Lifetime</span>
+<a href="/patent/EP1254251B1/en">
+<span itemprop="representativePublication">EP1254251B1</span>
+        (<span itemprop="primaryLanguage">en</span>)
+      </a>
+</section>
+<h2>Priority Applications (1)</h2>
+<table>
+<thead>
+<tr>
+<th>Application Number</th>
+<th>Priority Date</th>
+<th>Filing Date</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="priorityApps" itemscope="" repeat="">
+<td>
+<span itemprop="applicationNumber">EP07075646A</span>
+<a href="/patent/EP1860442A3/en">
+<span itemprop="representativePublication">EP1860442A3</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="priorityDate">2000-01-28</td>
+<td itemprop="filingDate">2001-01-26</td>
+<td itemprop="title">Neurosteroids as markers for Alzheimer's disease 
+       </td>
+</tr>
+</tbody>
+</table>
+<h2>Applications Claiming Priority (3)</h2>
+<table>
+<thead>
+<tr>
+<th>Application Number</th>
+<th>Priority Date</th>
+<th>Filing Date</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="appsClaimingPriority" itemscope="" repeat="">
+<td>
+<span itemprop="applicationNumber">US17869800P</span>
+</td>
+<td itemprop="priorityDate">2000-01-28</td>
+<td itemprop="filingDate">2000-01-28</td>
+<td itemprop="title"></td>
+</tr>
+<tr itemprop="appsClaimingPriority" itemscope="" repeat="">
+<td>
+<span itemprop="applicationNumber">US178698P</span>
+</td>
+<td itemprop="priorityDate"></td>
+<td itemprop="filingDate">2000-01-28</td>
+<td itemprop="title"></td>
+</tr>
+<tr itemprop="appsClaimingPriority" itemscope="" repeat="">
+<td>
+<span itemprop="applicationNumber">PCT/US2001/002476</span>
+<a href="/patent/WO2001055692A2/en">
+<span itemprop="representativePublication">WO2001055692A2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="priorityDate">2000-01-28</td>
+<td itemprop="filingDate">2001-01-26</td>
+<td itemprop="title">Neurosteroids as markers for alzheimer's disease 
+       </td>
+</tr>
+</tbody>
+</table>
+<h2>Related Child Applications (1)</h2>
+<table>
+<thead>
+<tr>
+<th>Application Number</th>
+<th>Title</th>
+<th>Priority Date</th>
+<th>Filing Date</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="childApps" itemscope="" repeat="">
+<td>
+<span itemprop="applicationNumber">EP07075646A</span>
+<span itemprop="relationType">Division</span>
+<a href="/patent/EP1860442A3/en">
+<span itemprop="representativePublication">EP1860442A3</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="priorityDate">2000-01-28</td>
+<td itemprop="filingDate">2001-01-26</td>
+<td itemprop="title">Neurosteroids as markers for Alzheimer's disease 
+       </td>
+</tr>
+</tbody>
+</table>
+<h2>Publications (3)</h2>
+<table>
+<thead>
+<tr>
+<th>Publication Number</th>
+<th>Publication Date</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="pubs" itemscope="" repeat="">
+<td>
+<span itemprop="publicationNumber">EP1254251A2</span>
+<a href="/patent/EP1254251A2/en">
+              EP1254251A2
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2002-11-06</td>
+</tr>
+<tr itemprop="pubs" itemscope="" repeat="">
+<td>
+<span itemprop="publicationNumber">EP1254251A4</span>
+<span itemprop="thisPatent">true</span>
+<a href="/patent/EP1254251A4/en">
+              EP1254251A4
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2004-07-21</td>
+</tr>
+<tr itemprop="pubs" itemscope="" repeat="">
+<td>
+<span itemprop="publicationNumber">EP1254251B1</span>
+<a href="/patent/EP1254251B1/en">
+              EP1254251B1
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2007-08-15</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section itemprop="family" itemscope="">
+<h1>Family</h1>
+<h2>ID=22653575</h2>
+<h2>Family Applications (1)</h2>
+<table>
+<thead>
+<tr>
+<th>Application Number</th>
+<th>Title</th>
+<th>Priority Date</th>
+<th>Filing Date</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="applications" itemscope="" repeat="">
+<td>
+<span itemprop="applicationNumber">EP01903310A</span>
+<span itemprop="ifiStatus">Expired - Lifetime</span>
+<a href="/patent/EP1254251B1/en">
+<span itemprop="representativePublication">EP1254251B1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="priorityDate">2000-01-28</td>
+<td itemprop="filingDate">2001-01-26</td>
+<td itemprop="title">Neurosteroids as markers for alzheimer's disease 
+       </td>
+</tr>
+</tbody>
+</table>
+<h2>Country Status (8)</h2>
+<table>
+<thead>
+<tr>
+<th>Country</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">EP</span>
+            (<span itemprop="num">1</span>)
+            <meta content="true" itemprop="thisCountry"/>
+</td>
+<td>
+<a href="/patent/EP1254251B1/en">
+<span itemprop="representativePublication">EP1254251B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">JP</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/JP2004507712A/en">
+<span itemprop="representativePublication">JP2004507712A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">AT</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/ATE370416T1/en">
+<span itemprop="representativePublication">ATE370416T1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">AU</span>
+            (<span itemprop="num">2</span>)
+            
+          </td>
+<td>
+<a href="/patent/AU785364B2/en">
+<span itemprop="representativePublication">AU785364B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">CA</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/CA2398358A1/en">
+<span itemprop="representativePublication">CA2398358A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">DE</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/DE60129932T2/en">
+<span itemprop="representativePublication">DE60129932T2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">ES</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/ES2290111T3/en">
+<span itemprop="representativePublication">ES2290111T3</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">WO</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/WO2001055692A2/en">
+<span itemprop="representativePublication">WO2001055692A2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Families Citing this family (5)</h2>
+<table>
+<caption>* Cited by examiner, † Cited by third party</caption>
+<thead>
+<tr>
+<th>Publication number</th>
+<th>Priority date</th>
+<th>Publication date</th>
+<th>Assignee</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="forwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/AU2003242588A1/en">
+<span itemprop="publicationNumber">AU2003242588A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2002-05-28</td>
+<td itemprop="publicationDate">2003-12-12</td>
+<td><span itemprop="assigneeOriginal">Evotec Neurosciences Gmbh</span></td>
+<td itemprop="title">Diagnostic and therapeutic use of cyp11a1 for neurodegenerative diseases 
+     </td>
+</tr>
+<tr itemprop="forwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/FR2847038B1/en">
+<span itemprop="publicationNumber">FR2847038B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2002-11-07</td>
+<td itemprop="publicationDate">2005-01-07</td>
+<td><span itemprop="assigneeOriginal">Conservatoire Nat Arts</span></td>
+<td itemprop="title">
+        DIAGNOSTIC METHOD FOR NEURODEGENERATIVE DISEASES
+       
+     </td>
+</tr>
+<tr itemprop="forwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/US7576073B2/en">
+<span itemprop="publicationNumber">US7576073B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="priorityDate">2004-05-28</td>
+<td itemprop="publicationDate">2009-08-18</td>
+<td><span itemprop="assigneeOriginal">UNIVERSITé LAVAL</span></td>
+<td itemprop="title">Combined therapy for the treatment of parkinson's disease 
+       </td>
+</tr>
+<tr itemprop="forwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/CN102998464A/en">
+<span itemprop="publicationNumber">CN102998464A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2011-09-16</td>
+<td itemprop="publicationDate">2013-03-27</td>
+<td><span itemprop="assigneeOriginal">武汉优尔生科技股份有限公司</span></td>
+<td itemprop="title">Dehydroepiandrosterone enzyme-linked immunosorbent assay kit development method 
+       </td>
+</tr>
+<tr itemprop="forwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/US11977085B1/en">
+<span itemprop="publicationNumber">US11977085B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="priorityDate">2023-09-05</td>
+<td itemprop="publicationDate">2024-05-07</td>
+<td><span itemprop="assigneeOriginal">Elan Ehrlich</span></td>
+<td itemprop="title">Date rape drug detection device and method of using same 
+       </td>
+</tr>
+</tbody>
+</table>
+<h2>Citations (1)</h2>
+<table>
+<caption>* Cited by examiner, † Cited by third party</caption>
+<thead>
+<tr>
+<th>Publication number</th>
+<th>Priority date</th>
+<th>Publication date</th>
+<th>Assignee</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="backwardReferencesOrig" itemscope="" repeat="">
+<td>
+<a href="/patent/US5162198A/en">
+<span itemprop="publicationNumber">US5162198A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">1991-02-08</td>
+<td itemprop="publicationDate">1992-11-10</td>
+<td>
+<span itemprop="assigneeOriginal">Virginia Commonwealth University</span>
+</td>
+<td itemprop="title">Method of using dehydroepiandrosterone and dehydroepiandrosterone-sulfate as inhibitors of thrombuxane production and platelet aggregation 
+       </td>
+</tr>
+</tbody>
+</table>
+<h2>Family Cites Families (1)</h2>
+<table>
+<caption>* Cited by examiner, † Cited by third party</caption>
+<thead>
+<tr>
+<th>Publication number</th>
+<th>Priority date</th>
+<th>Publication date</th>
+<th>Assignee</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="backwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/US6146836A/en">
+<span itemprop="publicationNumber">US6146836A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">1997-05-19</td>
+<td itemprop="publicationDate">2000-11-14</td>
+<td><span itemprop="assigneeOriginal">Bayer Corporation</span></td>
+<td itemprop="title">Immunoassays using anti-allotypic monoclonal antibodies 
+       </td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li itemprop="applicationsByYear" itemscope="" repeat="">
+<span itemprop="year">2001</span>
+<ul>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2001-01-26</span>
+<span itemprop="countryCode">CA</span>
+<span itemprop="applicationNumber">CA002398358A</span>
+<a href="/patent/CA2398358A1/en"><span itemprop="documentId">patent/CA2398358A1/en</span></a>
+<span itemprop="legalStatusCat">not_active</span>
+<span itemprop="legalStatus">Abandoned</span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2001-01-26</span>
+<span itemprop="countryCode">JP</span>
+<span itemprop="applicationNumber">JP2001555784A</span>
+<a href="/patent/JP2004507712A/en"><span itemprop="documentId">patent/JP2004507712A/en</span></a>
+<span itemprop="legalStatusCat">active</span>
+<span itemprop="legalStatus">Pending</span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2001-01-26</span>
+<span itemprop="countryCode">WO</span>
+<span itemprop="applicationNumber">PCT/US2001/002476</span>
+<a href="/patent/WO2001055692A2/en"><span itemprop="documentId">patent/WO2001055692A2/en</span></a>
+<span itemprop="legalStatusCat">active</span>
+<span itemprop="legalStatus">IP Right Grant</span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2001-01-26</span>
+<span itemprop="countryCode">AU</span>
+<span itemprop="applicationNumber">AU31142/01A</span>
+<a href="/patent/AU785364B2/en"><span itemprop="documentId">patent/AU785364B2/en</span></a>
+<span itemprop="legalStatusCat">not_active</span>
+<span itemprop="legalStatus">Ceased</span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2001-01-26</span>
+<span itemprop="countryCode">DE</span>
+<span itemprop="applicationNumber">DE60129932T</span>
+<a href="/patent/DE60129932T2/en"><span itemprop="documentId">patent/DE60129932T2/en</span></a>
+<span itemprop="legalStatusCat">not_active</span>
+<span itemprop="legalStatus">Expired - Fee Related</span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2001-01-26</span>
+<span itemprop="countryCode">ES</span>
+<span itemprop="applicationNumber">ES01903310T</span>
+<a href="/patent/ES2290111T3/en"><span itemprop="documentId">patent/ES2290111T3/en</span></a>
+<span itemprop="legalStatusCat">not_active</span>
+<span itemprop="legalStatus">Expired - Lifetime</span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2001-01-26</span>
+<span itemprop="countryCode">AT</span>
+<span itemprop="applicationNumber">AT01903310T</span>
+<a href="/patent/ATE370416T1/en"><span itemprop="documentId">patent/ATE370416T1/en</span></a>
+<span itemprop="legalStatusCat">not_active</span>
+<span itemprop="legalStatus">IP Right Cessation</span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2001-01-26</span>
+<span itemprop="countryCode">EP</span>
+<span itemprop="applicationNumber">EP01903310A</span>
+<a href="/patent/EP1254251B1/en"><span itemprop="documentId">patent/EP1254251B1/en</span></a>
+<span itemprop="legalStatusCat">not_active</span>
+<span itemprop="legalStatus">Expired - Lifetime</span>
+<span bool="" content="true" itemprop="thisApp"></span>
+</li>
+</ul>
+</li>
+<li itemprop="applicationsByYear" itemscope="" repeat="">
+<span itemprop="year">2007</span>
+<ul>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2007-04-30</span>
+<span itemprop="countryCode">AU</span>
+<span itemprop="applicationNumber">AU2007201915A</span>
+<a href="/patent/AU2007201915A1/en"><span itemprop="documentId">patent/AU2007201915A1/en</span></a>
+<span itemprop="legalStatusCat">not_active</span>
+<span itemprop="legalStatus">Abandoned</span>
+</li>
+</ul>
+</li>
+</ul>
+</section>
+<section>
+<h2>Patent Citations (1)</h2>
+<table>
+<caption>* Cited by examiner, † Cited by third party</caption>
+<thead>
+<tr>
+<th>Publication number</th>
+<th>Priority date</th>
+<th>Publication date</th>
+<th>Assignee</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="backwardReferences" itemscope="" repeat="">
+<td>
+<a href="/patent/US5162198A/en">
+<span itemprop="publicationNumber">US5162198A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">1991-02-08</td>
+<td itemprop="publicationDate">1992-11-10</td>
+<td><span itemprop="assigneeOriginal">Virginia Commonwealth University</span></td>
+<td itemprop="title">Method of using dehydroepiandrosterone and dehydroepiandrosterone-sulfate as inhibitors of thrombuxane production and platelet aggregation 
+       </td>
+</tr>
+</tbody>
+</table>
+</section>
+<section>
+<h2>Non-Patent Citations (5)</h2>
+<table>
+<caption>* Cited by examiner, † Cited by third party</caption>
+<thead>
+<tr>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="detailedNonPatentLiterature" itemscope="" repeat="">
+<td>
+<span itemprop="title">AISEN P S ET AL: "<a href='http://scholar.google.com/scholar?q="GLUCOCORTICOIDS+IN+ALZHEIMER%27S+DISEASE+THE+STORY+SO+FAR"'>GLUCOCORTICOIDS IN ALZHEIMER'S DISEASE THE STORY SO FAR</a>", DRUGS AND AGING, ADIS INTERNATIONAL LTD, NZ, vol. 12, no. 1, January 1998 (1998-01-01), pages 1 - 6, XP001079609, ISSN: 1170-229X</span>
+<span itemprop="examinerCited">*</span>
+</td>
+</tr>
+<tr itemprop="detailedNonPatentLiterature" itemscope="" repeat="">
+<td>
+<span itemprop="title">BROWN RACHEL C ET AL: "<a href='http://scholar.google.com/scholar?q="Oxidative+stress-mediated+DHEA+formation+in+Alzheimer%27s+disease+pathology."'>Oxidative stress-mediated DHEA formation in Alzheimer's disease pathology.</a>", NEUROBIOLOGY OF AGING, vol. 24, no. 1, 2003, pages 57 - 65, XP002280553, ISSN: 0197-4580</span>
+<span itemprop="examinerCited">*</span>
+</td>
+</tr>
+<tr itemprop="detailedNonPatentLiterature" itemscope="" repeat="">
+<td>
+<span itemprop="title">CASCIO C ET AL: "<a href='http://scholar.google.com/scholar?q="Detection+of+P450c17-independent+pathways+for+dehydroepiandrosterone+%28DHEA%29+biosynthesis+in+brain+glial+tumor+cells"'>Detection of P450c17-independent pathways for dehydroepiandrosterone (DHEA) biosynthesis in brain glial tumor cells</a>", PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES, vol. 95, no. 6, 17 March 1998 (1998-03-17), March 17, 1998, pages 2862 - 2867, XP002280552, ISSN: 0027-8424</span>
+<span itemprop="examinerCited">*</span>
+</td>
+</tr>
+<tr itemprop="detailedNonPatentLiterature" itemscope="" repeat="">
+<td>
+<span itemprop="title">DATABASE BIOSIS [online] BIOSCIENCES INFORMATION SERVICE, PHILADELPHIA, PA, US; 1996, YANASE TOSHIHIKO ET AL: "<a href='http://scholar.google.com/scholar?q="Serum+dehydroepiandrosterone+%28DHEA%29+and+DHEA-sulfate+%28DHEA-S%29+in+Alzheimer%27s+disease+and+in+cerebrovascular+dementia"'>Serum dehydroepiandrosterone (DHEA) and DHEA-sulfate (DHEA-S) in Alzheimer's disease and in cerebrovascular dementia</a>", XP002280554, Database accession no. PREV199698779408</span>
+<span itemprop="examinerCited">*</span>
+</td>
+</tr>
+<tr itemprop="detailedNonPatentLiterature" itemscope="" repeat="">
+<td>
+<span itemprop="title">ENDOCRINE JOURNAL, vol. 43, no. 1, 1996, pages 119 - 123, ISSN: 0918-8959</span>
+<span itemprop="examinerCited">*</span>
+</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section>
+<h2>Also Published As</h2>
+<table>
+<thead>
+<tr>
+<th>Publication number</th>
+<th>Publication date</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/AU785364B2/en">
+<span itemprop="publicationNumber">AU785364B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2007-02-01</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/EP1254251A2/en">
+<span itemprop="publicationNumber">EP1254251A2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2002-11-06</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/DE60129932T2/en">
+<span itemprop="publicationNumber">DE60129932T2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2008-06-19</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/EP1254251B1/en">
+<span itemprop="publicationNumber">EP1254251B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2007-08-15</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/WO2001055692A3/en">
+<span itemprop="publicationNumber">WO2001055692A3</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2002-03-07</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/WO2001055692A2/en">
+<span itemprop="publicationNumber">WO2001055692A2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2001-08-02</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/DE60129932D1/en">
+<span itemprop="publicationNumber">DE60129932D1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2007-09-27</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/AU2007201915A1/en">
+<span itemprop="publicationNumber">AU2007201915A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2007-05-24</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/JP2004507712A/en">
+<span itemprop="publicationNumber">JP2004507712A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2004-03-11</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/CA2398358A1/en">
+<span itemprop="publicationNumber">CA2398358A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2001-08-02</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/ES2290111T3/en">
+<span itemprop="publicationNumber">ES2290111T3</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2008-02-16</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/ATE370416T1/en">
+<span itemprop="publicationNumber">ATE370416T1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2007-09-15</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/AU3114201A/en">
+<span itemprop="publicationNumber">AU3114201A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2001-08-07</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section>
+<h2>Similar Documents</h2>
+<table>
+<thead>
+<tr>
+<th>Publication</th>
+<th>Publication Date</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/WO2004065576A3/en">
+<span itemprop="publicationNumber">WO2004065576A3</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2006-10-05" itemprop="publicationDate">2006-10-05</time>
+</td>
+<td itemprop="title">Methods and compositions for the treatment of urological disorder using differential expressed polypeptides 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/BR0112000A/en">
+<span itemprop="publicationNumber">BR0112000A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2003-06-03" itemprop="publicationDate">2003-06-03</time>
+</td>
+<td itemprop="title">
+  Amine, compound, alcohol, epoxide, ketone, azide, composition, use of an amine, methods of treating a patient, inhibiting beta-secretase activity, cleavage of amyloid precursor protein and production of amyloid peptide and beta-amyloid plaque in an animal, treating or preventing a disease distinguished by beta-amyloid deposits in the brain and producing a beta-secretase complex, and, kit
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/BRPI0411295A/en">
+<span itemprop="publicationNumber">BRPI0411295A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2006-08-01" itemprop="publicationDate">2006-08-01</time>
+</td>
+<td itemprop="title">
+  compounds and their use in therapy
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/ATE338818T1/en">
+<span itemprop="publicationNumber">ATE338818T1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2006-09-15" itemprop="publicationDate">2006-09-15</time>
+</td>
+<td itemprop="title">
+  METHOD FOR DIAGNOSIS OF GLAUCOMA
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/AU2002257162A1/en">
+<span itemprop="publicationNumber">AU2002257162A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2002-11-11" itemprop="publicationDate">2002-11-11</time>
+</td>
+<td itemprop="title">Humanized antibodies 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/BRPI0516166A/en">
+<span itemprop="publicationNumber">BRPI0516166A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2008-08-26" itemprop="publicationDate">2008-08-26</time>
+</td>
+<td itemprop="title">
+  substituted dipiperidine ccr2 antagonist
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/EP1556405A4/en">
+<span itemprop="publicationNumber">EP1556405A4</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2007-01-10" itemprop="publicationDate">2007-01-10</time>
+</td>
+<td itemprop="title">
+        NOD2 MUTATIONS ASSOCIATED WITH FIBROUS STENOSIS IN PATIENTS WITH CROHN&amp;#39;S DISEASE
+       
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/WO2007059064A3/en">
+<span itemprop="publicationNumber">WO2007059064A3</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2009-05-22" itemprop="publicationDate">2009-05-22</time>
+</td>
+<td itemprop="title">Fgf2-related methods for diagnosing and treating depression 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/EP1539251A4/en">
+<span itemprop="publicationNumber">EP1539251A4</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2009-02-25" itemprop="publicationDate">2009-02-25</time>
+</td>
+<td itemprop="title">
+        COMPOSITIONS AND METHODS FOR THE DIAGNOSIS AND TREATMENT OF DISEASES INVOLVING ANGIOGENESIS
+       
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/TW200501978A/en">
+<span itemprop="publicationNumber">TW200501978A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2005-01-16" itemprop="publicationDate">2005-01-16</time>
+</td>
+<td itemprop="title">Use of FGF-18 in the diagnosis and treatment of memory disorders 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/UA102368C2/en">
+<span itemprop="publicationNumber">UA102368C2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2013-07-10" itemprop="publicationDate">2013-07-10</time>
+</td>
+<td itemprop="title">SPECIFIC IN RELATION b-AMYLOID 1-42 MONOKLONAL&amp;#39;NI ANTIBODIES WHICH ARE THERAPEUTIC CHARACTERISTICS 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/EP2434022A3/en">
+<span itemprop="publicationNumber">EP2434022A3</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2012-07-18" itemprop="publicationDate">2012-07-18</time>
+</td>
+<td itemprop="title">Use of A33 antigens and JAM-IT 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/EP1254251A4/en">
+<span itemprop="publicationNumber">EP1254251A4</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2004-07-21" itemprop="publicationDate">2004-07-21</time>
+</td>
+<td itemprop="title">
+        NEUROSTEROIDS AS A MARKER FOR ALZHEIMER&amp;#39;S DISEASE
+       
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/WO2005098433A3/en">
+<span itemprop="publicationNumber">WO2005098433A3</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2006-12-28" itemprop="publicationDate">2006-12-28</time>
+</td>
+<td itemprop="title">Diagnostic assays for alzheimer’s disease 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/WO2004107958A3/en">
+<span itemprop="publicationNumber">WO2004107958A3</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2005-02-17" itemprop="publicationDate">2005-02-17</time>
+</td>
+<td itemprop="title">Sterol markers as diagnostic tools in the prevention of atherosclerotic diseases and as tools to aid in the selection of agents to be used for the prevention and treatment of atherosclerotic disease 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/DE602006019582D1/en">
+<span itemprop="publicationNumber">DE602006019582D1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2011-02-24" itemprop="publicationDate">2011-02-24</time>
+</td>
+<td itemprop="title">
+  ADARB2 PROTEINS AS DIAGNOSTIC AND THERAPEUTIC TARGETS FOR NEURODEGENERATIVE ILLNESSES
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/GT200000089A/en">
+<span itemprop="publicationNumber">GT200000089A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2001-11-29" itemprop="publicationDate">2001-11-29</time>
+</td>
+<td itemprop="title">
+  PROCEDURE FOR OBTAINING &amp;#34;DERIVATIVES OF ETANESULFONIL&amp;#34;.
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/WO2004072242A3/en">
+<span itemprop="publicationNumber">WO2004072242A3</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2005-06-02" itemprop="publicationDate">2005-06-02</time>
+</td>
+<td itemprop="title">Screening of compounds for hematological disorder treatment 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/WO2003073983A3/en">
+<span itemprop="publicationNumber">WO2003073983A3</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2005-04-14" itemprop="publicationDate">2005-04-14</time>
+</td>
+<td itemprop="title">Methods and compositions in treating pain using diacylglycerol kinase epsilon 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/EP2241885A4/en">
+<span itemprop="publicationNumber">EP2241885A4</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2011-01-12" itemprop="publicationDate">2011-01-12</time>
+</td>
+<td itemprop="title">
+        AGENT AND METHOD FOR DIAGNOSING THE APPEARANCE OF ALZHEIMER&amp;#39;S DISEASE OR THE TREND TO DEVELOP ALZHEIMER&amp;#39;S DISEASE
+       
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/GB2431348B/en">
+<span itemprop="publicationNumber">GB2431348B</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2009-12-30" itemprop="publicationDate">2009-12-30</time>
+</td>
+<td itemprop="title">Agents and methods for early diagnosis and monitoring of alzheimer&amp;#39;s disease and other neurological disorders 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/EP4528274A3/en">
+<span itemprop="publicationNumber">EP4528274A3</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2025-09-03" itemprop="publicationDate">2025-09-03</time>
+</td>
+<td itemprop="title">Biomarkers for neuropathological conditions and methods for diagnosis and monitoring the efficacy of treatment 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/FR2856595A1/en">
+<span itemprop="publicationNumber">FR2856595A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2004-12-31" itemprop="publicationDate">2004-12-31</time>
+</td>
+<td itemprop="title">
+  METHODS AND COMPOSITIONS FOR TREATING COGNITIVE DEFICITS.
+ 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/WO2003061573A3/en">
+<span itemprop="publicationNumber">WO2003061573A3</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2003-12-31" itemprop="publicationDate">2003-12-31</time>
+</td>
+<td itemprop="title">Methods and compositions for treating urological disorders using 1435, 559, 34021, 44099, 25278, 641, 260, 55089, 21407, 42032, 46656, 62553, 302, 323, 12303, 985, 13237, 13601, 18926, 318, 2058 or 6351 mo 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/WO2004080535A3/en">
+<span itemprop="publicationNumber">WO2004080535A3</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2004-11-18" itemprop="publicationDate">2004-11-18</time>
+</td>
+<td itemprop="title">Methods and compositions for treating aids and hiv-related disorders using 9145, 1725, 311, 837, 58305, 156, 14175, 50352, 32678, 5560, 7240, 8865, 12396, 12397, 13644, 19938, 2077, 1735, 1786, 10220, 17822, 33945, 43748, 47161, 81982, or 46777 
+       </td>
+</tr>
+</tbody>
+</table>
+</section>
+<section>
+<h2>Legal Events</h2>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Code</th>
+<th>Title</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2002-09-21" itemprop="date">2002-09-21</time></td>
+<td itemprop="code">PUAI</td>
+<td itemprop="title">Public reference made under article 153(3) epc to a published international application that has entered the european phase</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">ORIGINAL CODE: 0009012</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2002-11-06" itemprop="date">2002-11-06</time></td>
+<td itemprop="code">17P</td>
+<td itemprop="title">Request for examination filed</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20020827</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2002-11-06" itemprop="date">2002-11-06</time></td>
+<td itemprop="code">AK</td>
+<td itemprop="title">Designated contracting states</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Kind code of ref document</strong>:
+              <span itemprop="value">A2</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Designated state(s)</strong>:
+              <span itemprop="value">AT BE CH CY DE DK ES FI FR GB GR IE IT LI LU MC NL PT SE TR</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2002-11-06" itemprop="date">2002-11-06</time></td>
+<td itemprop="code">AX</td>
+<td itemprop="title">Request for extension of the european patent</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">AL;LT;LV;MK;RO;SI</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2004-07-14" itemprop="date">2004-07-14</time></td>
+<td itemprop="code">RIC1</td>
+<td itemprop="title">Information provided on ipc code assigned before grant</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ipc</strong>:
+              <span itemprop="value">7G 01N  33/74   A</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2004-07-21" itemprop="date">2004-07-21</time></td>
+<td itemprop="code">A4</td>
+<td itemprop="title">Supplementary search report drawn up and despatched</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20040609</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2005-01-05" itemprop="date">2005-01-05</time></td>
+<td itemprop="code">17Q</td>
+<td itemprop="title">First examination report despatched</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20041119</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2006-11-29" itemprop="date">2006-11-29</time></td>
+<td itemprop="code">RAP1</td>
+<td itemprop="title">Party data changed (applicant data changed or rights of an application transferred)</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Owner name</strong>:
+              <span itemprop="value">GEORGETOWN UNIVERSITY MEDICAL CENTER</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2006-12-06" itemprop="date">2006-12-06</time></td>
+<td itemprop="code">RAP1</td>
+<td itemprop="title">Party data changed (applicant data changed or rights of an application transferred)</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Owner name</strong>:
+              <span itemprop="value">GEORGETOWN UNIVERSITY</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2007-02-24" itemprop="date">2007-02-24</time></td>
+<td itemprop="code">GRAP</td>
+<td itemprop="title">Despatch of communication of intention to grant a patent</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">ORIGINAL CODE: EPIDOSNIGR1</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2007-07-12" itemprop="date">2007-07-12</time></td>
+<td itemprop="code">GRAS</td>
+<td itemprop="title">Grant fee paid</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">ORIGINAL CODE: EPIDOSNIGR3</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2007-07-13" itemprop="date">2007-07-13</time></td>
+<td itemprop="code">GRAA</td>
+<td itemprop="title">(expected) grant</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">ORIGINAL CODE: 0009210</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2007-08-15" itemprop="date">2007-08-15</time></td>
+<td itemprop="code">AK</td>
+<td itemprop="title">Designated contracting states</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Kind code of ref document</strong>:
+              <span itemprop="value">B1</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Designated state(s)</strong>:
+              <span itemprop="value">AT BE CH CY DE DK ES FI FR GB GR IE IT LI LU MC NL PT SE TR</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2007-08-15" itemprop="date">2007-08-15</time></td>
+<td itemprop="code">REG</td>
+<td itemprop="title">Reference to a national code</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">GB</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref legal event code</strong>:
+              <span itemprop="value">FG4D</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2007-08-31" itemprop="date">2007-08-31</time></td>
+<td itemprop="code">REG</td>
+<td itemprop="title">Reference to a national code</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">CH</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref legal event code</strong>:
+              <span itemprop="value">EP</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2007-09-19" itemprop="date">2007-09-19</time></td>
+<td itemprop="code">REG</td>
+<td itemprop="title">Reference to a national code</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">IE</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref legal event code</strong>:
+              <span itemprop="value">FG4D</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2007-09-27" itemprop="date">2007-09-27</time></td>
+<td itemprop="code">REF</td>
+<td itemprop="title">Corresponds to:</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref document number</strong>:
+              <span itemprop="value">60129932</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Country of ref document</strong>:
+              <span itemprop="value">DE</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Date of ref document</strong>:
+              <span itemprop="value">20070927</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Kind code of ref document</strong>:
+              <span itemprop="value">P</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2007-11-06" itemprop="date">2007-11-06</time></td>
+<td itemprop="code">REG</td>
+<td itemprop="title">Reference to a national code</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">SE</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref legal event code</strong>:
+              <span itemprop="value">TRGR</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2007-11-15" itemprop="date">2007-11-15</time></td>
+<td itemprop="code">REG</td>
+<td itemprop="title">Reference to a national code</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">CH</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref legal event code</strong>:
+              <span itemprop="value">NV</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Representative=s name</strong>:
+              <span itemprop="value">KIRKER &amp; CIE S.A.</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2008-01-31" itemprop="date">2008-01-31</time></td>
+<td itemprop="code">PG25</td>
+<td itemprop="title">Lapsed in a contracting state [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">FI</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20070815</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2008-02-16" itemprop="date">2008-02-16</time></td>
+<td itemprop="code">REG</td>
+<td itemprop="title">Reference to a national code</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">ES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref legal event code</strong>:
+              <span itemprop="value">FG2A</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref document number</strong>:
+              <span itemprop="value">2290111</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Country of ref document</strong>:
+              <span itemprop="value">ES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Kind code of ref document</strong>:
+              <span itemprop="value">T3</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2008-03-28" itemprop="date">2008-03-28</time></td>
+<td itemprop="code">ET</td>
+<td itemprop="title">Fr: translation filed</td>
+<td>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2008-04-30" itemprop="date">2008-04-30</time></td>
+<td itemprop="code">PG25</td>
+<td itemprop="title">Lapsed in a contracting state [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">DK</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20070815</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">GR</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20071116</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2008-05-30" itemprop="date">2008-05-30</time></td>
+<td itemprop="code">PG25</td>
+<td itemprop="title">Lapsed in a contracting state [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">PT</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20080115</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2008-06-20" itemprop="date">2008-06-20</time></td>
+<td itemprop="code">PLBE</td>
+<td itemprop="title">No opposition filed within time limit</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">ORIGINAL CODE: 0009261</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2008-06-20" itemprop="date">2008-06-20</time></td>
+<td itemprop="code">STAA</td>
+<td itemprop="title">Information on the status of an ep patent application or granted ep patent</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2008-07-23" itemprop="date">2008-07-23</time></td>
+<td itemprop="code">26N</td>
+<td itemprop="title">No opposition filed</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20080516</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2008-08-29" itemprop="date">2008-08-29</time></td>
+<td itemprop="code">PG25</td>
+<td itemprop="title">Lapsed in a contracting state [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">MC</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20080131</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2009-04-30" itemprop="date">2009-04-30</time></td>
+<td itemprop="code">PGFP</td>
+<td itemprop="title">Annual fee paid to national office [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">AT</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Payment date</strong>:
+              <span itemprop="value">20090102</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Year of fee payment</strong>:
+              <span itemprop="value">9</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">ES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Payment date</strong>:
+              <span itemprop="value">20090126</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Year of fee payment</strong>:
+              <span itemprop="value">9</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">IE</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Payment date</strong>:
+              <span itemprop="value">20090126</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Year of fee payment</strong>:
+              <span itemprop="value">9</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2009-05-29" itemprop="date">2009-05-29</time></td>
+<td itemprop="code">PGFP</td>
+<td itemprop="title">Annual fee paid to national office [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">DE</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Payment date</strong>:
+              <span itemprop="value">20090302</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Year of fee payment</strong>:
+              <span itemprop="value">9</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">NL</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Payment date</strong>:
+              <span itemprop="value">20090124</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Year of fee payment</strong>:
+              <span itemprop="value">9</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2009-06-30" itemprop="date">2009-06-30</time></td>
+<td itemprop="code">PGFP</td>
+<td itemprop="title">Annual fee paid to national office [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">CH</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Payment date</strong>:
+              <span itemprop="value">20090126</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Year of fee payment</strong>:
+              <span itemprop="value">9</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">GB</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Payment date</strong>:
+              <span itemprop="value">20090129</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Year of fee payment</strong>:
+              <span itemprop="value">9</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2009-07-31" itemprop="date">2009-07-31</time></td>
+<td itemprop="code">PG25</td>
+<td itemprop="title">Lapsed in a contracting state [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">CY</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20070815</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2009-07-31" itemprop="date">2009-07-31</time></td>
+<td itemprop="code">PGFP</td>
+<td itemprop="title">Annual fee paid to national office [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">BE</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Payment date</strong>:
+              <span itemprop="value">20090219</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Year of fee payment</strong>:
+              <span itemprop="value">9</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2009-08-31" itemprop="date">2009-08-31</time></td>
+<td itemprop="code">PGFP</td>
+<td itemprop="title">Annual fee paid to national office [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">IT</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Payment date</strong>:
+              <span itemprop="value">20090127</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Year of fee payment</strong>:
+              <span itemprop="value">9</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">SE</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Payment date</strong>:
+              <span itemprop="value">20090128</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Year of fee payment</strong>:
+              <span itemprop="value">9</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2009-10-30" itemprop="date">2009-10-30</time></td>
+<td itemprop="code">PGFP</td>
+<td itemprop="title">Annual fee paid to national office [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">FR</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Payment date</strong>:
+              <span itemprop="value">20090119</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Year of fee payment</strong>:
+              <span itemprop="value">9</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2010-07-30" itemprop="date">2010-07-30</time></td>
+<td itemprop="code">PG25</td>
+<td itemprop="title">Lapsed in a contracting state [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">LU</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20080126</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2010-07-31" itemprop="date">2010-07-31</time></td>
+<td itemprop="code">BERE</td>
+<td itemprop="title">Be: lapsed</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Owner name</strong>:
+              <span itemprop="value">GEORGETOWN UNIVERSITY</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20100131</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2010-08-18" itemprop="date">2010-08-18</time></td>
+<td itemprop="code">REG</td>
+<td itemprop="title">Reference to a national code</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">NL</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref legal event code</strong>:
+              <span itemprop="value">V1</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20100801</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2010-08-31" itemprop="date">2010-08-31</time></td>
+<td itemprop="code">PG25</td>
+<td itemprop="title">Lapsed in a contracting state [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">TR</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20070815</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2010-08-31" itemprop="date">2010-08-31</time></td>
+<td itemprop="code">REG</td>
+<td itemprop="title">Reference to a national code</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">CH</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref legal event code</strong>:
+              <span itemprop="value">PL</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2010-09-29" itemprop="date">2010-09-29</time></td>
+<td itemprop="code">GBPC</td>
+<td itemprop="title">Gb: european patent ceased through non-payment of renewal fee</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20100126</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2010-10-05" itemprop="date">2010-10-05</time></td>
+<td itemprop="code">EUG</td>
+<td itemprop="title">Se: european patent has lapsed</td>
+<td>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2010-10-22" itemprop="date">2010-10-22</time></td>
+<td itemprop="code">REG</td>
+<td itemprop="title">Reference to a national code</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">FR</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref legal event code</strong>:
+              <span itemprop="value">ST</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20100930</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2010-10-29" itemprop="date">2010-10-29</time></td>
+<td itemprop="code">PG25</td>
+<td itemprop="title">Lapsed in a contracting state [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">CH</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20100131</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">NL</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20100801</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">LI</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20100131</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">FR</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20100201</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2010-11-30" itemprop="date">2010-11-30</time></td>
+<td itemprop="code">PG25</td>
+<td itemprop="title">Lapsed in a contracting state [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">AT</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20100126</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">DE</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20100803</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2010-12-31" itemprop="date">2010-12-31</time></td>
+<td itemprop="code">PG25</td>
+<td itemprop="title">Lapsed in a contracting state [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">GB</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20100126</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2011-01-31" itemprop="date">2011-01-31</time></td>
+<td itemprop="code">PG25</td>
+<td itemprop="title">Lapsed in a contracting state [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">IE</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20100126</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2011-02-28" itemprop="date">2011-02-28</time></td>
+<td itemprop="code">PG25</td>
+<td itemprop="title">Lapsed in a contracting state [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">BE</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20100131</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2011-03-08" itemprop="date">2011-03-08</time></td>
+<td itemprop="code">REG</td>
+<td itemprop="title">Reference to a national code</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">ES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref legal event code</strong>:
+              <span itemprop="value">FD2A</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20110224</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2011-03-31" itemprop="date">2011-03-31</time></td>
+<td itemprop="code">PG25</td>
+<td itemprop="title">Lapsed in a contracting state [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">IT</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20100126</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2011-07-29" itemprop="date">2011-07-29</time></td>
+<td itemprop="code">PG25</td>
+<td itemprop="title">Lapsed in a contracting state [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">ES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20110223</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2011-09-30" itemprop="date">2011-09-30</time></td>
+<td itemprop="code">PG25</td>
+<td itemprop="title">Lapsed in a contracting state [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">ES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20100127</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2012-09-28" itemprop="date">2012-09-28</time></td>
+<td itemprop="code">PG25</td>
+<td itemprop="title">Lapsed in a contracting state [announced via postgrant information from national office to epo]</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">SE</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20100127</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</section>
+</article>
+</search-app>
+<script></script>
+<script src="//www.gstatic.com/feedback/api.js" type="text/javascript"></script>
+<script src="//www.gstatic.com/feedback/js/help/prod/service/lazy.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+      if (window.help && window.help.service) {
+        helpApi = window.help.service.Lazy.create(0, {apiKey: 'AIzaSyDTEI_0tLX4varJ7bwK8aT-eOI5qr3BmyI', locale: 'en-US'});
+        window.requestedSurveys = new Set();
+        window.requestSurvey = function(triggerId) {
+          if (window.requestedSurveys.has(triggerId)) {
+            return;
+          }
+          window.requestedSurveys.add(triggerId);
+          helpApi.requestSurvey({
+            triggerId: triggerId,
+            enableTestingMode: false,
+            callback: (requestSurveyCallbackParam) => {
+              if (!requestSurveyCallbackParam.surveyData) {
+                return;
+              }
+              helpApi.presentSurvey({
+                productData: {
+                  productVersion: window.version,
+                  customData: {
+                    "experiments": "",
+                  },
+                },
+                surveyData: requestSurveyCallbackParam.surveyData,
+                colorScheme: 1,
+                customZIndex: 10000,
+              });
+            }
+          });
+        };
+
+        window.requestSurvey('YXTwAsvoW0kedxbuTdH0RArc9VhT');
+      }
+    </script>
+<script src="/sw/null_loader.js"></script>
+</body>
+</html>
+

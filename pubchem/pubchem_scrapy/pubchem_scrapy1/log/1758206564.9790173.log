@@ -1,0 +1,1700 @@
+https://patents.google.com/patent/EP1539190A4/en?oq=EP1539190A4:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>EP1539190A4 - 
+        BIOSYNTHESIS OF HYPOTHALAMIC INHIBITING FACTOR (HIF)
+       
+        - Google Patents</title>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta charset="utf-8"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<link href="https://patents.google.com/patent/EP1539190A4/en" rel="canonical"/>
+<meta content="patent" name="DC.type"/>
+<meta content="
+        BIOSYNTHESIS OF HYPOTHALAMIC INHIBITING FACTOR (HIF)
+       
+       " name="DC.title"/>
+<meta content="2003-06-20" name="DC.date" scheme="dateSubmitted"/>
+<meta content="" name="DC.description"/>
+<meta content="EP:03742127A" name="citation_patent_application_number"/>
+<meta content="EP:1539190:A4" name="citation_patent_publication_number"/>
+<meta content="2008-05-21" name="DC.date"/>
+<meta content="Garner T Haupert Jr" name="DC.contributor" scheme="inventor"/>
+<meta content="Steven R Gullans" name="DC.contributor" scheme="inventor"/>
+<meta content="Brigham and Womens Hospital Inc" name="DC.contributor" scheme="assignee"/>
+<meta content="General Hospital Corp" name="DC.contributor" scheme="assignee"/>
+<meta content="EP:0433074:A1" name="DC.relation" scheme="references"/>
+<meta content="WO:1998053832:A1" name="DC.relation" scheme="references"/>
+<meta content="WO:2000039328:A1" name="DC.relation" scheme="references"/>
+<meta content="WO:2000044931:A2" name="DC.relation" scheme="references"/>
+<meta content='ANNER B M ET AL: "HYPoTHALAMIC NA+-K+-ATPASE INHIBITOR CHARACTERIZED IN TWO-SIDED LIPOSOMES CONTAINING PURE RENAL NA+-K+-ATPASE", AMERICAN JOURNAL OF PHYSIOLOGY, AMERICAN PHYSIOLOGICAL SOCIETY, BETHESDA, MD, US, vol. 258, 1990, pages 144 - 153, XP000917774, ISSN: 0002-9513' name="citation_reference" scheme="references"/>
+<meta content='HUANG B S ET AL: "Sympathoexcitatory effect of hypothalamic-hypophysary inhibitory factor in rats.", HYPERTENSION JUN 1997, vol. 29, no. 6, June 1997 (1997-06-01), pages 1291 - 1295, XP002475388, ISSN: 0194-911X' name="citation_reference" scheme="references"/>
+<meta content='JANSSENS S P ET AL: "HYPOTHALAMIC NA+,K+--ATPASE INHIBITOR CONSTRICTS PULMONARY ARTERIESOF SPONTANEOUSLY HYPERTENSIVE RATS", JOURNAL OF CARDIOVASCULAR PHARMACOLOGY, NEW YORK, NY, US, vol. 22, no. SUPPL 2, 1993, pages S42 - S46, XP000901477, ISSN: 0160-2446' name="citation_reference" scheme="references"/>
+<meta content='RICOTE M ET AL: "Modulation of the Ca2+,Mg2+-ATPase of sarcoplasmic reticulum by the hypothalamic hypophyseal inhibitory factor", BIOCHIMICA ET BIOPHYSICA ACTA - BIOENERGETICS 1995 NL, vol. 1232, no. 3, 1995, pages 217 - 224, XP002475569, ISSN: 0005-2728' name="citation_reference" scheme="references"/>
+<meta content="See also references of WO 2004000328A1" name="citation_reference" scheme="references"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Product+Sans" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700" rel="stylesheet"/>
+<style>
+      
+      #gb { top: 15px; left: auto; right: 0; width: auto; min-width: 135px !important; }   
+      body { transition: none; }
+    </style>
+<script></script>
+<script>
+      window.version = 'patent-search.search_20250707_RC00';
+
+      function sendFeedback() {
+        userfeedback.api.startFeedback({
+          'productId': '713680',
+          'bucket': 'patent-search-web',
+          'productVersion': window.version,
+        });
+      }
+
+      window.experiments = {};
+      window.experiments.patentCountries = "ae,ag,al,am,ao,ap,ar,at,au,aw,az,ba,bb,bd,be,bf,bg,bh,bj,bn,bo,br,bw,bx,by,bz,ca,cf,cg,ch,ci,cl,cm,cn,co,cr,cs,cu,cy,cz,dd,de,dj,dk,dm,do,dz,ea,ec,ee,eg,em,ep,es,fi,fr,ga,gb,gc,gd,ge,gh,gm,gn,gq,gr,gt,gw,hk,hn,hr,hu,ib,id,ie,il,in,ir,is,it,jo,jp,ke,kg,kh,km,kn,kp,kr,kw,kz,la,lc,li,lk,lr,ls,lt,lu,lv,ly,ma,mc,md,me,mg,mk,ml,mn,mo,mr,mt,mw,mx,my,mz,na,ne,ng,ni,nl,no,nz,oa,om,pa,pe,pg,ph,pl,pt,py,qa,ro,rs,ru,rw,sa,sc,sd,se,sg,si,sk,sl,sm,sn,st,su,sv,sy,sz,td,tg,th,tj,tm,tn,tr,tt,tw,tz,ua,ug,us,uy,uz,vc,ve,vn,wo,yu,za,zm,zw";
+      
+      
+      window.experiments.keywordWizard = true;
+      
+      
+      
+      window.experiments.definitions = true;
+      window.experiments.plogs = true;
+
+      window.Polymer = {
+        dom: 'shady',
+        lazyRegister: true,
+      };
+    </script>
+<script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20250707_RC00/scs/compiled_dir/webcomponentsjs/webcomponents-lite.min.js"></script>
+<link href="//www.gstatic.com/patent-search/frontend/patent-search.search_20250707_RC00/scs/compiled_dir/search-app-vulcanized.html" rel="import"/>
+</head>
+<body unresolved="">
+<script></script>
+<script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20250707_RC00/scs/compiled_dir/search-app-vulcanized.js"></script>
+<search-app>
+<article class="result" itemscope="" itemtype="http://schema.org/ScholarlyArticle">
+<h1 itemprop="pageTitle">EP1539190A4 - 
+        BIOSYNTHESIS OF HYPOTHALAMIC INHIBITING FACTOR (HIF)
+       
+        - Google Patents</h1>
+<span itemprop="title">
+        BIOSYNTHESIS OF HYPOTHALAMIC INHIBITING FACTOR (HIF)
+       
+       </span>
+<meta content="patent" itemprop="type"/>
+<h2>Info</h2>
+<dl>
+<dt>Publication number</dt>
+<dd itemprop="publicationNumber">EP1539190A4</dd>
+<meta content="1539190" itemprop="numberWithoutCodes"/>
+<meta content="A4" itemprop="kindCode"/>
+<meta content="Separately published supplemental search report" itemprop="publicationDescription"/>
+<span>EP1539190A4</span>
+<span>EP03742127A</span>
+<span>EP03742127A</span>
+<span>EP1539190A4</span>
+<span>EP 1539190 A4</span>
+<span>EP1539190 A4</span>
+<span>EP 1539190A4</span>
+<span>EP 03742127 A</span>
+<span>EP03742127 A</span>
+<span>EP 03742127A</span>
+<span>EP 03742127 A</span>
+<span>EP03742127 A</span>
+<span>EP 03742127A</span>
+<span>EP 1539190 A4</span>
+<span>EP1539190 A4</span>
+<span>EP 1539190A4</span>
+<dt>Authority</dt>
+<dd itemprop="countryCode">EP</dd>
+<dd itemprop="countryName">European Patent Office</dd>
+<dt>Prior art keywords</dt>
+<dd itemprop="priorArtKeywords" repeat="">hif</dd>
+<dd itemprop="priorArtKeywords" repeat="">hypothalamic</dd>
+<dd itemprop="priorArtKeywords" repeat="">biosynthesis</dd>
+<dd itemprop="priorArtKeywords" repeat="">inhibiting factor</dd>
+<dd itemprop="priorArtKeywords" repeat="">inhibiting</dd>
+<dt>Prior art date</dt>
+<dd><time datetime="2002-06-20" itemprop="priorArtDate">2002-06-20</time></dd>
+<dt>Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)</dt>
+<dd itemprop="legalStatusIfi" itemscope="">
+<span itemprop="status">Withdrawn</span>
+</dd>
+</dl>
+<dt>Application number</dt>
+<dd itemprop="applicationNumber">EP03742127A</dd>
+<dt>Other languages</dt>
+<dd itemprop="otherLanguages" itemscope="" repeat="">
+<a href="/patent/EP1539190A4/de">
+<span itemprop="name">German</span> (<span itemprop="code">de</span>)
+    </a>
+</dd>
+<dd itemprop="otherLanguages" itemscope="" repeat="">
+<a href="/patent/EP1539190A4/fr">
+<span itemprop="name">French</span> (<span itemprop="code">fr</span>)
+    </a>
+</dd>
+<dt>Other versions</dt>
+<dd itemprop="directAssociations" itemscope="" repeat="">
+<a href="/patent/EP1539190A1/en">
+<span itemprop="publicationNumber">EP1539190A1</span>
+      (<span itemprop="primaryLanguage">en</span>
+</a>
+</dd>
+<dt>Inventor</dt>
+<dd itemprop="inventor" repeat="">Garner T Haupert Jr</dd>
+<dd itemprop="inventor" repeat="">Steven R Gullans</dd>
+<dt>Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)</dt>
+<dd itemprop="assigneeCurrent" repeat="">
+    Brigham and Womens Hospital Inc
+  </dd>
+<dd itemprop="assigneeCurrent" repeat="">
+    General Hospital Corp
+  </dd>
+<dt>Original Assignee</dt>
+<dd itemprop="assigneeOriginal" repeat="">Brigham and Womens Hospital Inc</dd>
+<dd itemprop="assigneeOriginal" repeat="">General Hospital Corp</dd>
+<dt>Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)</dt>
+<dd><time datetime="2002-06-20" itemprop="priorityDate">2002-06-20</time></dd>
+<dt>Filing date</dt>
+<dd><time datetime="2003-06-20" itemprop="filingDate">2003-06-20</time></dd>
+<dt>Publication date</dt>
+<dd><time datetime="2008-05-21" itemprop="publicationDate">2008-05-21</time></dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time datetime="2003-06-20" itemprop="date">2003-06-20</time>
+<span itemprop="title">Application filed by Brigham and Womens Hospital Inc, General Hospital Corp</span>
+<span itemprop="type">filed</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+<span itemprop="assigneeSearch">Brigham and Womens Hospital Inc</span>
+</dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time datetime="2005-06-15" itemprop="date">2005-06-15</time>
+<span itemprop="title">Publication of EP1539190A1</span>
+<span itemprop="type">publication</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+<span itemprop="documentId">patent/EP1539190A1/en</span>
+</dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time datetime="2008-05-21" itemprop="date">2008-05-21</time>
+<span itemprop="title">Publication of EP1539190A4</span>
+<span itemprop="type">publication</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+<span itemprop="documentId">patent/EP1539190A4/en</span>
+</dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time itemprop="date">Status</time>
+<span itemprop="title">Withdrawn</span>
+<span itemprop="type">legal-status</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+<span bool="" content="true" itemprop="current">Current</span>
+</dd>
+<h2>Links</h2>
+<ul>
+<li itemprop="links" itemscope="" repeat="">
+<meta content="espacenetLink" itemprop="id"/>
+<a href="https://worldwide.espacenet.com/publicationDetails/biblio?CC=EP&amp;NR=1539190A4&amp;KC=A4&amp;FT=D" itemprop="url" target="_blank"><span itemprop="text">Espacenet</span></a>
+</li>
+<li itemprop="links" itemscope="" repeat="">
+<meta content="gpiLink" itemprop="id"/>
+<a href="https://data.epo.org/gpi/EP1539190A4" itemprop="url" target="_blank"><span itemprop="text">EPO GPI</span></a>
+</li>
+<li itemprop="links" itemscope="" repeat="">
+<meta content="epRegisterLink" itemprop="id"/>
+<a href="https://register.epo.org/espacenet/application?number=EP03742127" itemprop="url" target="_blank"><span itemprop="text">EP Register</span></a>
+</li>
+<li itemprop="links" itemscope="" repeat="">
+<meta content="globalDossierLink" itemprop="id"/>
+<a href="https://globaldossier.uspto.gov/result/application/EP/03742127/1" itemprop="url" target="_blank"><span itemprop="text">Global Dossier</span></a>
+</li>
+<li itemprop="links" itemscope="" repeat="">
+<meta content="stackexchangeLink" itemprop="id"/>
+<a href="https://patents.stackexchange.com/questions/tagged/EP1539190A4" itemprop="url"><span itemprop="text">Discuss</span></a>
+</li>
+</ul>
+<section>
+<h2>Classifications</h2>
+<ul>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G</span>—<span itemprop="Description">PHYSICS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01</span>—<span itemprop="Description">MEASURING; TESTING</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N</span>—<span itemprop="Description">INVESTIGATING OR ANALYSING MATERIALS BY DETERMINING THEIR CHEMICAL OR PHYSICAL PROPERTIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N33/00</span>—<span itemprop="Description">Investigating or analysing materials by specific methods not covered by groups G01N1/00 - G01N31/00</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N33/48</span>—<span itemprop="Description">Biological material, e.g. blood, urine; Haemocytometers</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N33/50</span>—<span itemprop="Description">Chemical analysis of biological material, e.g. blood, urine; Testing involving biospecific ligand binding methods; Immunological testing</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N33/74</span>—<span itemprop="Description">Chemical analysis of biological material, e.g. blood, urine; Testing involving biospecific ligand binding methods; Immunological testing involving hormones or other non-cytokine intercellular protein regulatory factors such as growth factors, including receptors to hormones and growth factors</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N33/743</span>—<span itemprop="Description">Steroid hormones</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="FirstCode"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C</span>—<span itemprop="Description">CHEMISTRY; METALLURGY</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C12</span>—<span itemprop="Description">BIOCHEMISTRY; BEER; SPIRITS; WINE; VINEGAR; MICROBIOLOGY; ENZYMOLOGY; MUTATION OR GENETIC ENGINEERING</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C12Q</span>—<span itemprop="Description">MEASURING OR TESTING PROCESSES INVOLVING ENZYMES, NUCLEIC ACIDS OR MICROORGANISMS; COMPOSITIONS OR TEST PAPERS THEREFOR; PROCESSES OF PREPARING SUCH COMPOSITIONS; CONDITION-RESPONSIVE CONTROL IN MICROBIOLOGICAL OR ENZYMOLOGICAL PROCESSES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C12Q1/00</span>—<span itemprop="Description">Measuring or testing processes involving enzymes, nucleic acids or microorganisms; Compositions therefor; Processes of preparing such compositions</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C12Q1/26</span>—<span itemprop="Description">Measuring or testing processes involving enzymes, nucleic acids or microorganisms; Compositions therefor; Processes of preparing such compositions involving oxidoreductase</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C</span>—<span itemprop="Description">CHEMISTRY; METALLURGY</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C12</span>—<span itemprop="Description">BIOCHEMISTRY; BEER; SPIRITS; WINE; VINEGAR; MICROBIOLOGY; ENZYMOLOGY; MUTATION OR GENETIC ENGINEERING</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C12Q</span>—<span itemprop="Description">MEASURING OR TESTING PROCESSES INVOLVING ENZYMES, NUCLEIC ACIDS OR MICROORGANISMS; COMPOSITIONS OR TEST PAPERS THEREFOR; PROCESSES OF PREPARING SUCH COMPOSITIONS; CONDITION-RESPONSIVE CONTROL IN MICROBIOLOGICAL OR ENZYMOLOGICAL PROCESSES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C12Q1/00</span>—<span itemprop="Description">Measuring or testing processes involving enzymes, nucleic acids or microorganisms; Compositions therefor; Processes of preparing such compositions</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C12Q1/533</span>—<span itemprop="Description">Measuring or testing processes involving enzymes, nucleic acids or microorganisms; Compositions therefor; Processes of preparing such compositions involving isomerase</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K</span>—<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K38/00</span>—<span itemprop="Description">Medicinal preparations containing peptides</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="Additional"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G</span>—<span itemprop="Description">PHYSICS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01</span>—<span itemprop="Description">MEASURING; TESTING</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N</span>—<span itemprop="Description">INVESTIGATING OR ANALYSING MATERIALS BY DETERMINING THEIR CHEMICAL OR PHYSICAL PROPERTIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N2333/00</span>—<span itemprop="Description">Assays involving biological materials from specific organisms or of a specific nature</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N2333/435</span>—<span itemprop="Description">Assays involving biological materials from specific organisms or of a specific nature from animals; from humans</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N2333/46</span>—<span itemprop="Description">Assays involving biological materials from specific organisms or of a specific nature from animals; from humans from vertebrates</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N2333/47</span>—<span itemprop="Description">Assays involving proteins of known structure or function as defined in the subgroups</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N2333/4701</span>—<span itemprop="Description">Details</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N2333/4703</span>—<span itemprop="Description">Regulators; Modulating activity</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N2333/4704</span>—<span itemprop="Description">Inhibitors; Supressors</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="Additional"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G</span>—<span itemprop="Description">PHYSICS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01</span>—<span itemprop="Description">MEASURING; TESTING</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N</span>—<span itemprop="Description">INVESTIGATING OR ANALYSING MATERIALS BY DETERMINING THEIR CHEMICAL OR PHYSICAL PROPERTIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N2333/00</span>—<span itemprop="Description">Assays involving biological materials from specific organisms or of a specific nature</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N2333/90</span>—<span itemprop="Description">Enzymes; Proenzymes</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N2333/902</span>—<span itemprop="Description">Oxidoreductases (1.)</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N2333/90245</span>—<span itemprop="Description">Oxidoreductases (1.) acting on paired donors with incorporation of molecular oxygen (1.14)</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="Additional"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G</span>—<span itemprop="Description">PHYSICS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01</span>—<span itemprop="Description">MEASURING; TESTING</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N</span>—<span itemprop="Description">INVESTIGATING OR ANALYSING MATERIALS BY DETERMINING THEIR CHEMICAL OR PHYSICAL PROPERTIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N2800/00</span>—<span itemprop="Description">Detection or diagnosis of diseases</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">G01N2800/52</span>—<span itemprop="Description">Predicting or monitoring the response to treatment, e.g. for selection of therapy based on assay results in personalised medicine; Prognosis</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="Additional"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+</ul>
+</section>
+<section>
+<h2>Landscapes</h2>
+<ul>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Life Sciences &amp; Earth Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Chemical &amp; Material Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Health &amp; Medical Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Engineering &amp; Computer Science</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Organic Chemistry</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Molecular Biology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Zoology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Proteomics, Peptides &amp; Aminoacids</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Immunology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Wood Science &amp; Technology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Biotechnology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Microbiology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">General Health &amp; Medical Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Analytical Chemistry</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Physics &amp; Mathematics</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Biochemistry</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">General Engineering &amp; Computer Science</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Hematology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Biophysics</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Genetics &amp; Genomics</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Bioinformatics &amp; Cheminformatics</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Biomedical Technology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Urology &amp; Nephrology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Endocrinology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Cell Biology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Food Science &amp; Technology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Medicinal Chemistry</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">General Physics &amp; Mathematics</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Pathology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Medicines That Contain Protein Lipid Enzymes And Other Medicines</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+</ul>
+</section>
+<section itemprop="application" itemscope="">
+<section itemprop="metadata" itemscope="">
+<span itemprop="applicationNumber">EP03742127A</span>
+<span itemprop="priorityDate">2002-06-20</span>
+<span itemprop="filingDate">2003-06-20</span>
+<span itemprop="title">
+        BIOSYNTHESIS OF HYPOTHALAMIC INHIBITING FACTOR (HIF)
+       
+       </span>
+<span itemprop="ifiStatus">Withdrawn</span>
+<a href="/patent/EP1539190A4/en">
+<span itemprop="representativePublication">EP1539190A4</span>
+        (<span itemprop="primaryLanguage">en</span>)
+      </a>
+</section>
+<h2>Applications Claiming Priority (3)</h2>
+<table>
+<thead>
+<tr>
+<th>Application Number</th>
+<th>Priority Date</th>
+<th>Filing Date</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="appsClaimingPriority" itemscope="" repeat="">
+<td>
+<span itemprop="applicationNumber">US39078302P</span>
+</td>
+<td itemprop="priorityDate">2002-06-20</td>
+<td itemprop="filingDate">2002-06-20</td>
+<td itemprop="title"></td>
+</tr>
+<tr itemprop="appsClaimingPriority" itemscope="" repeat="">
+<td>
+<span itemprop="applicationNumber">US390783P</span>
+</td>
+<td itemprop="priorityDate"></td>
+<td itemprop="filingDate">2002-06-20</td>
+<td itemprop="title"></td>
+</tr>
+<tr itemprop="appsClaimingPriority" itemscope="" repeat="">
+<td>
+<span itemprop="applicationNumber">PCT/US2003/019645</span>
+<a href="/patent/WO2004000328A1/en">
+<span itemprop="representativePublication">WO2004000328A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="priorityDate">2002-06-20</td>
+<td itemprop="filingDate">2003-06-20</td>
+<td itemprop="title">Biosynthesis of hif 
+       </td>
+</tr>
+</tbody>
+</table>
+<h2>Publications (2)</h2>
+<table>
+<thead>
+<tr>
+<th>Publication Number</th>
+<th>Publication Date</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="pubs" itemscope="" repeat="">
+<td>
+<span itemprop="publicationNumber">EP1539190A1</span>
+<a href="/patent/EP1539190A1/en">
+              EP1539190A1
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2005-06-15</td>
+</tr>
+<tr itemprop="pubs" itemscope="" repeat="">
+<td>
+<span itemprop="publicationNumber">EP1539190A4</span>
+<span itemprop="thisPatent">true</span>
+<a href="/patent/EP1539190A4/en">
+              EP1539190A4
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2008-05-21</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section itemprop="family" itemscope="">
+<h1>Family</h1>
+<h2>ID=30000621</h2>
+<h2>Family Applications (1)</h2>
+<table>
+<thead>
+<tr>
+<th>Application Number</th>
+<th>Title</th>
+<th>Priority Date</th>
+<th>Filing Date</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="applications" itemscope="" repeat="">
+<td>
+<span itemprop="applicationNumber">EP03742127A</span>
+<span itemprop="ifiStatus">Withdrawn</span>
+<a href="/patent/EP1539190A4/en">
+<span itemprop="representativePublication">EP1539190A4</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="priorityDate">2002-06-20</td>
+<td itemprop="filingDate">2003-06-20</td>
+<td itemprop="title">
+        BIOSYNTHESIS OF HYPOTHALAMIC INHIBITING FACTOR (HIF)
+       
+       </td>
+</tr>
+</tbody>
+</table>
+<h2>Country Status (5)</h2>
+<table>
+<thead>
+<tr>
+<th>Country</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">US</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/US20040161794A1/en">
+<span itemprop="representativePublication">US20040161794A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">EP</span>
+            (<span itemprop="num">1</span>)
+            <meta content="true" itemprop="thisCountry"/>
+</td>
+<td>
+<a href="/patent/EP1539190A4/en">
+<span itemprop="representativePublication">EP1539190A4</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">AU</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/AU2003279244A1/en">
+<span itemprop="representativePublication">AU2003279244A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">CA</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/CA2492051A1/en">
+<span itemprop="representativePublication">CA2492051A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">WO</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/WO2004000328A1/en">
+<span itemprop="representativePublication">WO2004000328A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Families Citing this family (2)</h2>
+<table>
+<caption>* Cited by examiner, † Cited by third party</caption>
+<thead>
+<tr>
+<th>Publication number</th>
+<th>Priority date</th>
+<th>Publication date</th>
+<th>Assignee</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="forwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/US6846646B1/en">
+<span itemprop="publicationNumber">US6846646B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="priorityDate">1998-12-24</td>
+<td itemprop="publicationDate">2005-01-25</td>
+<td><span itemprop="assigneeOriginal">The General Hospital Corporation</span></td>
+<td itemprop="title">Methods for screening HIF like ouabain-resistant Na+-K+-ATPase agents 
+       </td>
+</tr>
+<tr itemprop="forwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/CN110623646A/en">
+<span itemprop="publicationNumber">CN110623646A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2019-09-09</td>
+<td itemprop="publicationDate">2019-12-31</td>
+<td><span itemprop="assigneeOriginal">山东中医药大学</span></td>
+<td itemprop="title">
+        A method for monitoring pregnancy induced hypertension
+       
+       </td>
+</tr>
+</tbody>
+</table>
+<h2>Citations (4)</h2>
+<table>
+<caption>* Cited by examiner, † Cited by third party</caption>
+<thead>
+<tr>
+<th>Publication number</th>
+<th>Priority date</th>
+<th>Publication date</th>
+<th>Assignee</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="backwardReferencesOrig" itemscope="" repeat="">
+<td>
+<a href="/patent/EP0433074A1/en">
+<span itemprop="publicationNumber">EP0433074A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">1989-12-13</td>
+<td itemprop="publicationDate">1991-06-19</td>
+<td>
+<span itemprop="assigneeOriginal">The General Hospital Corporation</span>
+</td>
+<td itemprop="title">Method for treating cardiac malfunction 
+       </td>
+</tr>
+<tr itemprop="backwardReferencesOrig" itemscope="" repeat="">
+<td>
+<a href="/patent/WO1998053832A1/en">
+<span itemprop="publicationNumber">WO1998053832A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">1997-05-30</td>
+<td itemprop="publicationDate">1998-12-03</td>
+<td>
+<span itemprop="assigneeOriginal">The General Hospital Corporation</span>
+</td>
+<td itemprop="title">Use of hypothalmic inhibitory factor in the treatment of ischemic cardiac malfunction 
+       </td>
+</tr>
+<tr itemprop="backwardReferencesOrig" itemscope="" repeat="">
+<td>
+<a href="/patent/WO2000039328A1/en">
+<span itemprop="publicationNumber">WO2000039328A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">1998-12-24</td>
+<td itemprop="publicationDate">2000-07-06</td>
+<td>
+<span itemprop="assigneeOriginal">The General Hospital Corporation</span>
+</td>
+<td itemprop="title">SCREENING FOR HIF LIKE OUABAIN-RESISTANT Na+-K+-ATPASE AGENTS 
+       </td>
+</tr>
+<tr itemprop="backwardReferencesOrig" itemscope="" repeat="">
+<td>
+<a href="/patent/WO2000044931A2/en">
+<span itemprop="publicationNumber">WO2000044931A2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">1999-01-28</td>
+<td itemprop="publicationDate">2000-08-03</td>
+<td>
+<span itemprop="assigneeOriginal">Bion, Inc.</span>
+</td>
+<td itemprop="title">High-throughput screening assays for modulators of atpase 
+       </td>
+</tr>
+</tbody>
+</table>
+<h2>Family Cites Families (1)</h2>
+<table>
+<caption>* Cited by examiner, † Cited by third party</caption>
+<thead>
+<tr>
+<th>Publication number</th>
+<th>Priority date</th>
+<th>Publication date</th>
+<th>Assignee</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="backwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/US5716937A/en">
+<span itemprop="publicationNumber">US5716937A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">1989-12-13</td>
+<td itemprop="publicationDate">1998-02-10</td>
+<td><span itemprop="assigneeOriginal">The General Hospital Corporation</span></td>
+<td itemprop="title">Method for treating cardiac malfunction 
+       </td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li itemprop="applicationsByYear" itemscope="" repeat="">
+<span itemprop="year">2003</span>
+<ul>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2003-06-20</span>
+<span itemprop="countryCode">AU</span>
+<span itemprop="applicationNumber">AU2003279244A</span>
+<a href="/patent/AU2003279244A1/en"><span itemprop="documentId">patent/AU2003279244A1/en</span></a>
+<span itemprop="legalStatusCat">not_active</span>
+<span itemprop="legalStatus">Abandoned</span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2003-06-20</span>
+<span itemprop="countryCode">CA</span>
+<span itemprop="applicationNumber">CA002492051A</span>
+<a href="/patent/CA2492051A1/en"><span itemprop="documentId">patent/CA2492051A1/en</span></a>
+<span itemprop="legalStatusCat">not_active</span>
+<span itemprop="legalStatus">Abandoned</span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2003-06-20</span>
+<span itemprop="countryCode">US</span>
+<span itemprop="applicationNumber">US10/601,184</span>
+<a href="/patent/US20040161794A1/en"><span itemprop="documentId">patent/US20040161794A1/en</span></a>
+<span itemprop="legalStatusCat">not_active</span>
+<span itemprop="legalStatus">Abandoned</span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2003-06-20</span>
+<span itemprop="countryCode">EP</span>
+<span itemprop="applicationNumber">EP03742127A</span>
+<a href="/patent/EP1539190A4/en"><span itemprop="documentId">patent/EP1539190A4/en</span></a>
+<span itemprop="legalStatusCat">not_active</span>
+<span itemprop="legalStatus">Withdrawn</span>
+<span bool="" content="true" itemprop="thisApp"></span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2003-06-20</span>
+<span itemprop="countryCode">WO</span>
+<span itemprop="applicationNumber">PCT/US2003/019645</span>
+<a href="/patent/WO2004000328A1/en"><span itemprop="documentId">patent/WO2004000328A1/en</span></a>
+<span itemprop="legalStatusCat">not_active</span>
+<span itemprop="legalStatus">Application Discontinuation</span>
+</li>
+</ul>
+</li>
+</ul>
+</section>
+<section>
+<h2>Patent Citations (4)</h2>
+<table>
+<caption>* Cited by examiner, † Cited by third party</caption>
+<thead>
+<tr>
+<th>Publication number</th>
+<th>Priority date</th>
+<th>Publication date</th>
+<th>Assignee</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="backwardReferences" itemscope="" repeat="">
+<td>
+<a href="/patent/EP0433074A1/en">
+<span itemprop="publicationNumber">EP0433074A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">1989-12-13</td>
+<td itemprop="publicationDate">1991-06-19</td>
+<td><span itemprop="assigneeOriginal">The General Hospital Corporation</span></td>
+<td itemprop="title">Method for treating cardiac malfunction 
+       </td>
+</tr>
+<tr itemprop="backwardReferences" itemscope="" repeat="">
+<td>
+<a href="/patent/WO1998053832A1/en">
+<span itemprop="publicationNumber">WO1998053832A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">1997-05-30</td>
+<td itemprop="publicationDate">1998-12-03</td>
+<td><span itemprop="assigneeOriginal">The General Hospital Corporation</span></td>
+<td itemprop="title">Use of hypothalmic inhibitory factor in the treatment of ischemic cardiac malfunction 
+       </td>
+</tr>
+<tr itemprop="backwardReferences" itemscope="" repeat="">
+<td>
+<a href="/patent/WO2000039328A1/en">
+<span itemprop="publicationNumber">WO2000039328A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">1998-12-24</td>
+<td itemprop="publicationDate">2000-07-06</td>
+<td><span itemprop="assigneeOriginal">The General Hospital Corporation</span></td>
+<td itemprop="title">SCREENING FOR HIF LIKE OUABAIN-RESISTANT Na+-K+-ATPASE AGENTS 
+       </td>
+</tr>
+<tr itemprop="backwardReferences" itemscope="" repeat="">
+<td>
+<a href="/patent/WO2000044931A2/en">
+<span itemprop="publicationNumber">WO2000044931A2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">1999-01-28</td>
+<td itemprop="publicationDate">2000-08-03</td>
+<td><span itemprop="assigneeOriginal">Bion, Inc.</span></td>
+<td itemprop="title">High-throughput screening assays for modulators of atpase 
+       </td>
+</tr>
+</tbody>
+</table>
+</section>
+<section>
+<h2>Non-Patent Citations (5)</h2>
+<table>
+<caption>* Cited by examiner, † Cited by third party</caption>
+<thead>
+<tr>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="detailedNonPatentLiterature" itemscope="" repeat="">
+<td>
+<span itemprop="title">ANNER B M ET AL: "<a href='http://scholar.google.com/scholar?q="HYPoTHALAMIC+NA%2B-K%2B-ATPASE+INHIBITOR+CHARACTERIZED+IN+TWO-SIDED+LIPOSOMES+CONTAINING+PURE+RENAL+NA%2B-K%2B-ATPASE"'>HYPoTHALAMIC NA+-K+-ATPASE INHIBITOR CHARACTERIZED IN TWO-SIDED LIPOSOMES CONTAINING PURE RENAL NA+-K+-ATPASE</a>", AMERICAN JOURNAL OF PHYSIOLOGY, AMERICAN PHYSIOLOGICAL SOCIETY, BETHESDA, MD, US, vol. 258, 1990, pages 144 - 153, XP000917774, ISSN: 0002-9513</span>
+<span itemprop="examinerCited">*</span>
+</td>
+</tr>
+<tr itemprop="detailedNonPatentLiterature" itemscope="" repeat="">
+<td>
+<span itemprop="title">HUANG B S ET AL: "<a href='http://scholar.google.com/scholar?q="Sympathoexcitatory+effect+of+hypothalamic-hypophysary+inhibitory+factor+in+rats."'>Sympathoexcitatory effect of hypothalamic-hypophysary inhibitory factor in rats.</a>", HYPERTENSION JUN 1997, vol. 29, no. 6, June 1997 (1997-06-01), pages 1291 - 1295, XP002475388, ISSN: 0194-911X</span>
+<span itemprop="examinerCited">*</span>
+</td>
+</tr>
+<tr itemprop="detailedNonPatentLiterature" itemscope="" repeat="">
+<td>
+<span itemprop="title">JANSSENS S P ET AL: "<a href='http://scholar.google.com/scholar?q="HYPOTHALAMIC+NA%2B%2CK%2B--ATPASE+INHIBITOR+CONSTRICTS+PULMONARY+ARTERIESOF+SPONTANEOUSLY+HYPERTENSIVE+RATS"'>HYPOTHALAMIC NA+,K+--ATPASE INHIBITOR CONSTRICTS PULMONARY ARTERIESOF SPONTANEOUSLY HYPERTENSIVE RATS</a>", JOURNAL OF CARDIOVASCULAR PHARMACOLOGY, NEW YORK, NY, US, vol. 22, no. SUPPL 2, 1993, pages S42 - S46, XP000901477, ISSN: 0160-2446</span>
+<span itemprop="examinerCited">*</span>
+</td>
+</tr>
+<tr itemprop="detailedNonPatentLiterature" itemscope="" repeat="">
+<td>
+<span itemprop="title">RICOTE M ET AL: "<a href='http://scholar.google.com/scholar?q="Modulation+of+the+Ca2%2B%2CMg2%2B-ATPase+of+sarcoplasmic+reticulum+by+the+hypothalamic+hypophyseal+inhibitory+factor"'>Modulation of the Ca2+,Mg2+-ATPase of sarcoplasmic reticulum by the hypothalamic hypophyseal inhibitory factor</a>", BIOCHIMICA ET BIOPHYSICA ACTA - BIOENERGETICS 1995 NL, vol. 1232, no. 3, 1995, pages 217 - 224, XP002475569, ISSN: 0005-2728</span>
+<span itemprop="examinerCited">*</span>
+</td>
+</tr>
+<tr itemprop="detailedNonPatentLiterature" itemscope="" repeat="">
+<td>
+<span itemprop="title">See also references of <a href="/patent/WO2004000328A1#nplCitations">WO2004000328A1</a></span>
+<span itemprop="examinerCited">*</span>
+</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section>
+<h2>Also Published As</h2>
+<table>
+<thead>
+<tr>
+<th>Publication number</th>
+<th>Publication date</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/AU2003279244A8/en">
+<span itemprop="publicationNumber">AU2003279244A8</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2004-01-06</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/WO2004000328A1/en">
+<span itemprop="publicationNumber">WO2004000328A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2003-12-31</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/EP1539190A1/en">
+<span itemprop="publicationNumber">EP1539190A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2005-06-15</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/CA2492051A1/en">
+<span itemprop="publicationNumber">CA2492051A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2003-12-31</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/AU2003279244A1/en">
+<span itemprop="publicationNumber">AU2003279244A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2004-01-06</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/US20040161794A1/en">
+<span itemprop="publicationNumber">US20040161794A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2004-08-19</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section>
+<h2>Similar Documents</h2>
+<table>
+<thead>
+<tr>
+<th>Publication</th>
+<th>Publication Date</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/NO20050636L/en">
+<span itemprop="publicationNumber">NO20050636L</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2005-02-04" itemprop="publicationDate">2005-02-04</time>
+</td>
+<td itemprop="title">
+  Inhibitors of tyrosine kinases
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/IL173845A0/en">
+<span itemprop="publicationNumber">IL173845A0</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2006-07-05" itemprop="publicationDate">2006-07-05</time>
+</td>
+<td itemprop="title">Method of detecting concealed objects 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/NO20031548D0/en">
+<span itemprop="publicationNumber">NO20031548D0</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2003-04-04" itemprop="publicationDate">2003-04-04</time>
+</td>
+<td itemprop="title">
+  Microseismic signal processing
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/DK1687066T3/en">
+<span itemprop="publicationNumber">DK1687066T3</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2012-11-26" itemprop="publicationDate">2012-11-26</time>
+</td>
+<td itemprop="title">
+  Methods of Immunomodulation
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/EP1549316A4/en">
+<span itemprop="publicationNumber">EP1549316A4</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2008-04-09" itemprop="publicationDate">2008-04-09</time>
+</td>
+<td itemprop="title">INHIBITORS OF TFGbeta 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/NO20044916L/en">
+<span itemprop="publicationNumber">NO20044916L</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2004-12-16" itemprop="publicationDate">2004-12-16</time>
+</td>
+<td itemprop="title">
+  Preparations of sulfinylacetamide
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/IL165475A0/en">
+<span itemprop="publicationNumber">IL165475A0</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2006-01-15" itemprop="publicationDate">2006-01-15</time>
+</td>
+<td itemprop="title">Nitrooxyderivatives of eyclooxygenase-2 inhibitors 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/FI20010558L/en">
+<span itemprop="publicationNumber">FI20010558L</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2002-09-20" itemprop="publicationDate">2002-09-20</time>
+</td>
+<td itemprop="title">
+        Positioning of pieces
+       
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/DE602004032525D1/en">
+<span itemprop="publicationNumber">DE602004032525D1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2011-06-16" itemprop="publicationDate">2011-06-16</time>
+</td>
+<td itemprop="title">
+  METHOD OF PROCESSING THEREFOR
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/TWI318680B/en">
+<span itemprop="publicationNumber">TWI318680B</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2009-12-21" itemprop="publicationDate">2009-12-21</time>
+</td>
+<td itemprop="title">Detection of macro-defects using micro-inspection inputs 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/NO20055450D0/en">
+<span itemprop="publicationNumber">NO20055450D0</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2005-11-17" itemprop="publicationDate">2005-11-17</time>
+</td>
+<td itemprop="title">
+  Combination of an analeptic modafinil and an antidepressant compound for the treatment of depression
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/IS6884A/en">
+<span itemprop="publicationNumber">IS6884A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2003-07-24" itemprop="publicationDate">2003-07-24</time>
+</td>
+<td itemprop="title">
+  Methods of utilizing biodiversity
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/NO20031614L/en">
+<span itemprop="publicationNumber">NO20031614L</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2003-10-13" itemprop="publicationDate">2003-10-13</time>
+</td>
+<td itemprop="title">
+  Processing of seismic data
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/EP1539190A4/en">
+<span itemprop="publicationNumber">EP1539190A4</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2008-05-21" itemprop="publicationDate">2008-05-21</time>
+</td>
+<td itemprop="title">
+        BIOSYNTHESIS OF HYPOTHALAMIC INHIBITING FACTOR (HIF)
+       
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/GB0303936D0/en">
+<span itemprop="publicationNumber">GB0303936D0</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2003-03-26" itemprop="publicationDate">2003-03-26</time>
+</td>
+<td itemprop="title">Method of testing 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/NO20044752L/en">
+<span itemprop="publicationNumber">NO20044752L</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2004-11-02" itemprop="publicationDate">2004-11-02</time>
+</td>
+<td itemprop="title">
+  Assembly of multi-channel pipelines
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/DE60331820D1/en">
+<span itemprop="publicationNumber">DE60331820D1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2010-05-06" itemprop="publicationDate">2010-05-06</time>
+</td>
+<td itemprop="title">
+        ELIMINATION OF PIPE CONSTITUTION
+       
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/GB0313058D0/en">
+<span itemprop="publicationNumber">GB0313058D0</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2003-07-09" itemprop="publicationDate">2003-07-09</time>
+</td>
+<td itemprop="title">Detection of biomarkers 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/NO20022243L/en">
+<span itemprop="publicationNumber">NO20022243L</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2003-11-11" itemprop="publicationDate">2003-11-11</time>
+</td>
+<td itemprop="title">
+  Procedure for plumbing
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/TW584367U/en">
+<span itemprop="publicationNumber">TW584367U</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2004-04-11" itemprop="publicationDate">2004-04-11</time>
+</td>
+<td itemprop="title">Carrying fixture of circuit board processing 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/UA6909S/en">
+<span itemprop="publicationNumber">UA6909S</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2003-01-15" itemprop="publicationDate">2003-01-15</time>
+</td>
+<td itemprop="title">
+  SET OF EMBLEMS
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/GB0204611D0/en">
+<span itemprop="publicationNumber">GB0204611D0</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2002-04-10" itemprop="publicationDate">2002-04-10</time>
+</td>
+<td itemprop="title">Methods of measurement 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/AU2002358237A1/en">
+<span itemprop="publicationNumber">AU2002358237A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2003-09-02" itemprop="publicationDate">2003-09-02</time>
+</td>
+<td itemprop="title">Testing of circuit with plural clock domains 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/ITBA20010029U1/en">
+<span itemprop="publicationNumber">ITBA20010029U1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2003-04-04" itemprop="publicationDate">2003-04-04</time>
+</td>
+<td itemprop="title">
+  JEWEL OF PUGLIA
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/GB0318304D0/en">
+<span itemprop="publicationNumber">GB0318304D0</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2003-09-10" itemprop="publicationDate">2003-09-10</time>
+</td>
+<td itemprop="title">Control of stage effects 
+     </td>
+</tr>
+</tbody>
+</table>
+</section>
+<section>
+<h2>Legal Events</h2>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Code</th>
+<th>Title</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2005-04-29" itemprop="date">2005-04-29</time></td>
+<td itemprop="code">PUAI</td>
+<td itemprop="title">Public reference made under article 153(3) epc to a published international application that has entered the european phase</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">ORIGINAL CODE: 0009012</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2005-06-15" itemprop="date">2005-06-15</time></td>
+<td itemprop="code">17P</td>
+<td itemprop="title">Request for examination filed</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20050120</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2005-06-15" itemprop="date">2005-06-15</time></td>
+<td itemprop="code">AK</td>
+<td itemprop="title">Designated contracting states</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Kind code of ref document</strong>:
+              <span itemprop="value">A1</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Designated state(s)</strong>:
+              <span itemprop="value">AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HU IE IT LI LU MC NL PT RO SE SI SK TR</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2005-06-15" itemprop="date">2005-06-15</time></td>
+<td itemprop="code">AX</td>
+<td itemprop="title">Request for extension of the european patent</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Extension  state</strong>:
+              <span itemprop="value">AL LT LV MK</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2005-10-12" itemprop="date">2005-10-12</time></td>
+<td itemprop="code">DAX</td>
+<td itemprop="title">Request for extension of the european patent (deleted)</td>
+<td>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2008-05-14" itemprop="date">2008-05-14</time></td>
+<td itemprop="code">RIC1</td>
+<td itemprop="title">Information provided on ipc code assigned before grant</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ipc</strong>:
+              <span itemprop="value">A61K  39/395       20060101ALI20080410BHEP</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ipc</strong>:
+              <span itemprop="value">A61K  38/00        20060101ALI20080410BHEP</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ipc</strong>:
+              <span itemprop="value">C12Q   1/26        20060101ALI20080410BHEP</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ipc</strong>:
+              <span itemprop="value">C12Q   1/533       20060101ALI20080410BHEP</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ipc</strong>:
+              <span itemprop="value">G01N  33/74        20060101AFI20080410BHEP</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2008-05-21" itemprop="date">2008-05-21</time></td>
+<td itemprop="code">A4</td>
+<td itemprop="title">Supplementary search report drawn up and despatched</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20080421</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2008-12-19" itemprop="date">2008-12-19</time></td>
+<td itemprop="code">STAA</td>
+<td itemprop="title">Information on the status of an ep patent application or granted ep patent</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2009-01-21" itemprop="date">2009-01-21</time></td>
+<td itemprop="code">18D</td>
+<td itemprop="title">Application deemed to be withdrawn</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20080719</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</section>
+</article>
+</search-app>
+<script></script>
+<script src="//www.gstatic.com/feedback/api.js" type="text/javascript"></script>
+<script src="//www.gstatic.com/feedback/js/help/prod/service/lazy.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+      if (window.help && window.help.service) {
+        helpApi = window.help.service.Lazy.create(0, {apiKey: 'AIzaSyDTEI_0tLX4varJ7bwK8aT-eOI5qr3BmyI', locale: 'en-US'});
+        window.requestedSurveys = new Set();
+        window.requestSurvey = function(triggerId) {
+          if (window.requestedSurveys.has(triggerId)) {
+            return;
+          }
+          window.requestedSurveys.add(triggerId);
+          helpApi.requestSurvey({
+            triggerId: triggerId,
+            enableTestingMode: false,
+            callback: (requestSurveyCallbackParam) => {
+              if (!requestSurveyCallbackParam.surveyData) {
+                return;
+              }
+              helpApi.presentSurvey({
+                productData: {
+                  productVersion: window.version,
+                  customData: {
+                    "experiments": "",
+                  },
+                },
+                surveyData: requestSurveyCallbackParam.surveyData,
+                colorScheme: 1,
+                customZIndex: 10000,
+              });
+            }
+          });
+        };
+
+        window.requestSurvey('YXTwAsvoW0kedxbuTdH0RArc9VhT');
+      }
+    </script>
+<script src="/sw/null_loader.js"></script>
+</body>
+</html>
+

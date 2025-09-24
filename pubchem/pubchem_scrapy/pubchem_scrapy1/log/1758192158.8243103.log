@@ -1,0 +1,1844 @@
+https://patents.google.com/patent/ES2837136R1/en?oq=ES2837136R1:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>ES2837136R1 - 
+  Process for the preparation of 3alpha-hydroxy-5alpha-pregnan-20-one (Brexanolone)
+ 
+        - Google Patents</title>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta charset="utf-8"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<link href="https://patents.google.com/patent/ES2837136R1/en" rel="canonical"/>
+<meta content="patent" name="DC.type"/>
+<meta content="
+  Process for the preparation of 3alpha-hydroxy-5alpha-pregnan-20-one (Brexanolone)
+ 
+       " name="DC.title"/>
+<meta content="2019-10-21" name="DC.date" scheme="dateSubmitted"/>
+<meta content="" name="DC.description"/>
+<meta content="ES:202190022A" name="citation_patent_application_number"/>
+<meta content="ES:2837136:R1" name="citation_patent_publication_number"/>
+<meta content="2023-08-18" name="DC.date"/>
+<meta content="Claudio Delfrate" name="DC.contributor" scheme="inventor"/>
+<meta content="Davide Rigamonti" name="DC.contributor" scheme="inventor"/>
+<meta content="Tea Borelli" name="DC.contributor" scheme="inventor"/>
+<meta content="Roberto Lenna" name="DC.contributor" scheme="inventor"/>
+<meta content="Industriale Chimica SRL" name="DC.contributor" scheme="assignee"/>
+<meta content="US:3152121" name="DC.relation" scheme="references"/>
+<meta content="US:5795982" name="DC.relation" scheme="references"/>
+<meta content="US:20140058079:A1" name="DC.relation" scheme="references"/>
+<meta content="DAS, S. ET AL. . Molecular Iodine in Protection and Deprotection Chemistry. Synlett , 01.10.2008, Páginas 2741-2762 [en línea][recuperado el 21.07.2023]. Recuperado de Internet (URL:https://www.researchgate.net/publication/239237997_Molecular_Iodine_in_Protection_and_Deprotection_Chemistry), 2741-2762; 1437-2096 (en línea), (DOI: 10.1055/s-0028-1083503) Ver páginas 2759-2760, apartado 3.2.12." name="citation_reference" scheme="references"/>
+<meta content="LEWBART, M.L. &amp; SCHNEIDER, J.J. . Preparation of Six 20-Deoxy Steroids in the 3¿-Hydroxy-5¿-pregnane Series and Their Use in Optical Rotation Studies. The Journal of Organic Chemistry, 1968, Vol. 33, Páginas 1707-1715 0022-3263; 1520-6904 (en línea), (DOI: 10.1021/jo01269a002) Ver página 1708, esquema 1; página 1713, sección experimental." name="citation_reference" scheme="references"/>
+<meta content="MACNEVIN, C.J. ET AL. . Development and Screening of Water-Soluble Analogues of Progesterone and Allopregnanolone in Models of Brain Injury. Journal of Medicinal Chemistry , 09.08.2009, Vol. 52, Páginas 6012-6023 0022-2623; 1520-4804 (en línea) , (DOI: 10.1021/jm900712n) Ver página 6012, resumen; página 6014, esquema 4; página 6015, esquemas 6 y 7." name="citation_reference" scheme="references"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Product+Sans" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700" rel="stylesheet"/>
+<style>
+      
+      #gb { top: 15px; left: auto; right: 0; width: auto; min-width: 135px !important; }   
+      body { transition: none; }
+    </style>
+<script></script>
+<script>
+      window.version = 'patent-search.search_20250707_RC00';
+
+      function sendFeedback() {
+        userfeedback.api.startFeedback({
+          'productId': '713680',
+          'bucket': 'patent-search-web',
+          'productVersion': window.version,
+        });
+      }
+
+      window.experiments = {};
+      window.experiments.patentCountries = "ae,ag,al,am,ao,ap,ar,at,au,aw,az,ba,bb,bd,be,bf,bg,bh,bj,bn,bo,br,bw,bx,by,bz,ca,cf,cg,ch,ci,cl,cm,cn,co,cr,cs,cu,cy,cz,dd,de,dj,dk,dm,do,dz,ea,ec,ee,eg,em,ep,es,fi,fr,ga,gb,gc,gd,ge,gh,gm,gn,gq,gr,gt,gw,hk,hn,hr,hu,ib,id,ie,il,in,ir,is,it,jo,jp,ke,kg,kh,km,kn,kp,kr,kw,kz,la,lc,li,lk,lr,ls,lt,lu,lv,ly,ma,mc,md,me,mg,mk,ml,mn,mo,mr,mt,mw,mx,my,mz,na,ne,ng,ni,nl,no,nz,oa,om,pa,pe,pg,ph,pl,pt,py,qa,ro,rs,ru,rw,sa,sc,sd,se,sg,si,sk,sl,sm,sn,st,su,sv,sy,sz,td,tg,th,tj,tm,tn,tr,tt,tw,tz,ua,ug,us,uy,uz,vc,ve,vn,wo,yu,za,zm,zw";
+      
+      
+      window.experiments.keywordWizard = true;
+      
+      
+      
+      window.experiments.definitions = true;
+      window.experiments.plogs = true;
+
+      window.Polymer = {
+        dom: 'shady',
+        lazyRegister: true,
+      };
+    </script>
+<script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20250707_RC00/scs/compiled_dir/webcomponentsjs/webcomponents-lite.min.js"></script>
+<link href="//www.gstatic.com/patent-search/frontend/patent-search.search_20250707_RC00/scs/compiled_dir/search-app-vulcanized.html" rel="import"/>
+</head>
+<body unresolved="">
+<script></script>
+<script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20250707_RC00/scs/compiled_dir/search-app-vulcanized.js"></script>
+<search-app>
+<article class="result" itemscope="" itemtype="http://schema.org/ScholarlyArticle">
+<h1 itemprop="pageTitle">ES2837136R1 - 
+  Process for the preparation of 3alpha-hydroxy-5alpha-pregnan-20-one (Brexanolone)
+ 
+        - Google Patents</h1>
+<span itemprop="title">
+  Process for the preparation of 3alpha-hydroxy-5alpha-pregnan-20-one (Brexanolone)
+ 
+       </span>
+<meta content="patent" itemprop="type"/>
+<h2>Info</h2>
+<dl>
+<dt>Publication number</dt>
+<dd itemprop="publicationNumber">ES2837136R1</dd>
+<meta content="2837136" itemprop="numberWithoutCodes"/>
+<meta content="R1" itemprop="kindCode"/>
+<meta content="Separately published search report" itemprop="publicationDescription"/>
+<span>ES2837136R1</span>
+<span>ES202190022A</span>
+<span>ES202190022A</span>
+<span>ES2837136R1</span>
+<span>ES 2837136 R1</span>
+<span>ES2837136 R1</span>
+<span>ES 2837136R1</span>
+<span>ES 202190022 A</span>
+<span>ES202190022 A</span>
+<span>ES 202190022A</span>
+<span>ES 202190022 A</span>
+<span>ES202190022 A</span>
+<span>ES 202190022A</span>
+<span>ES 2837136 R1</span>
+<span>ES2837136 R1</span>
+<span>ES 2837136R1</span>
+<dt>Authority</dt>
+<dd itemprop="countryCode">ES</dd>
+<dd itemprop="countryName">Spain</dd>
+<dt>Prior art keywords</dt>
+<dd itemprop="priorArtKeywords" repeat="">brexanolone</dd>
+<dd itemprop="priorArtKeywords" repeat="">3alpha</dd>
+<dd itemprop="priorArtKeywords" repeat="">5alpha</dd>
+<dd itemprop="priorArtKeywords" repeat="">pregnan</dd>
+<dd itemprop="priorArtKeywords" repeat="">hydroxy</dd>
+<dt>Prior art date</dt>
+<dd><time datetime="2018-10-22" itemprop="priorArtDate">2018-10-22</time></dd>
+<dt>Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)</dt>
+<dd itemprop="legalStatusIfi" itemscope="">
+<span itemprop="status">Granted</span>
+</dd>
+</dl>
+<dt>Application number</dt>
+<dd itemprop="applicationNumber">ES202190022A</dd>
+<dt>Other languages</dt>
+<dd itemprop="otherLanguages" itemscope="" repeat="">
+<a href="/patent/ES2837136R1/es">
+<span itemprop="name">Spanish</span> (<span itemprop="code">es</span>)
+    </a>
+</dd>
+<dt>Other versions</dt>
+<dd itemprop="directAssociations" itemscope="" repeat="">
+<a href="/patent/ES2837136A2/en">
+<span itemprop="publicationNumber">ES2837136A2</span>
+      (<span itemprop="primaryLanguage">en</span>
+</a>
+</dd>
+<dd itemprop="directAssociations" itemscope="" repeat="">
+<a href="/patent/ES2837136B2/en">
+<span itemprop="publicationNumber">ES2837136B2</span>
+      (<span itemprop="primaryLanguage">en</span>
+</a>
+</dd>
+<dt>Inventor</dt>
+<dd itemprop="inventor" repeat="">Claudio Delfrate</dd>
+<dd itemprop="inventor" repeat="">Davide Rigamonti</dd>
+<dd itemprop="inventor" repeat="">Tea Borelli</dd>
+<dd itemprop="inventor" repeat="">Roberto Lenna</dd>
+<dt>Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)</dt>
+<dd itemprop="assigneeCurrent" repeat="">
+    Industriale Chimica SRL
+  </dd>
+<dt>Original Assignee</dt>
+<dd itemprop="assigneeOriginal" repeat="">Industriale Chimica SRL</dd>
+<dt>Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)</dt>
+<dd><time datetime="2018-10-22" itemprop="priorityDate">2018-10-22</time></dd>
+<dt>Filing date</dt>
+<dd><time datetime="2019-10-21" itemprop="filingDate">2019-10-21</time></dd>
+<dt>Publication date</dt>
+<dd><time datetime="2023-08-18" itemprop="publicationDate">2023-08-18</time></dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time datetime="2019-10-21" itemprop="date">2019-10-21</time>
+<span itemprop="title">Application filed by Industriale Chimica SRL</span>
+<span itemprop="type">filed</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+<span itemprop="assigneeSearch">Industriale Chimica SRL</span>
+</dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time datetime="2021-06-29" itemprop="date">2021-06-29</time>
+<span itemprop="title">Publication of ES2837136A2</span>
+<span itemprop="type">publication</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+<span itemprop="documentId">patent/ES2837136A2/en</span>
+</dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time datetime="2023-08-18" itemprop="date">2023-08-18</time>
+<span itemprop="title">Publication of ES2837136R1</span>
+<span itemprop="type">publication</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+<span itemprop="documentId">patent/ES2837136R1/en</span>
+</dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time datetime="2024-02-12" itemprop="date">2024-02-12</time>
+<span itemprop="title">Application granted</span>
+<span itemprop="type">granted</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+</dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time datetime="2024-02-12" itemprop="date">2024-02-12</time>
+<span itemprop="title">Publication of ES2837136B2</span>
+<span itemprop="type">publication</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+<span itemprop="documentId">patent/ES2837136B2/en</span>
+</dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time itemprop="date">Status</time>
+<span itemprop="title">Active</span>
+<span itemprop="type">legal-status</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+<span bool="" content="true" itemprop="current">Current</span>
+</dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time datetime="2039-10-21" itemprop="date">2039-10-21</time>
+<span itemprop="title">Anticipated expiration</span>
+<span itemprop="type">legal-status</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+</dd>
+<h2>Links</h2>
+<ul>
+<li itemprop="links" itemscope="" repeat="">
+<meta content="espacenetLink" itemprop="id"/>
+<a href="https://worldwide.espacenet.com/publicationDetails/biblio?CC=ES&amp;NR=2837136R1&amp;KC=R1&amp;FT=D" itemprop="url" target="_blank"><span itemprop="text">Espacenet</span></a>
+</li>
+<li itemprop="links" itemscope="" repeat="">
+<meta content="globalDossierLink" itemprop="id"/>
+<a href="https://globaldossier.uspto.gov/result/application/ES/202190022/1" itemprop="url" target="_blank"><span itemprop="text">Global Dossier</span></a>
+</li>
+<li itemprop="links" itemscope="" repeat="">
+<meta content="stackexchangeLink" itemprop="id"/>
+<a href="https://patents.stackexchange.com/questions/tagged/ES2837136R1" itemprop="url"><span itemprop="text">Discuss</span></a>
+</li>
+</ul>
+<ul itemprop="concept" itemscope="">
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">AURFZBICLPNKBZ-SYBPFIFISA-N</span>
+<span itemprop="name">brexanolone</span>
+<span itemprop="domain">Chemical compound</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles">C([C@@H]1CC2)[C@H](O)CC[C@]1(C)[C@@H]1[C@@H]2[C@@H]2CC[C@H](C(=O)C)[C@@]2(C)CC1</span>
+<span itemprop="inchi_key">AURFZBICLPNKBZ-SYBPFIFISA-N</span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">title</span>
+<span itemprop="count">2</span>
+</li>
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">AURFZBICLPNKBZ-UHFFFAOYSA-N</span>
+<span itemprop="name">Pregnanolone</span>
+<span itemprop="domain">Natural products</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles">C1CC2CC(O)CCC2(C)C2C1C1CCC(C(=O)C)C1(C)CC2</span>
+<span itemprop="inchi_key">AURFZBICLPNKBZ-UHFFFAOYSA-N</span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">title</span>
+<span itemprop="count">1</span>
+</li>
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">229950009652</span>
+<span itemprop="name">brexanolone</span>
+<span itemprop="domain">Drugs</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles"></span>
+<span itemprop="inchi_key"></span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">title</span>
+<span itemprop="count">1</span>
+</li>
+</ul>
+<section>
+<h2>Classifications</h2>
+<ul>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C</span>—<span itemprop="Description">CHEMISTRY; METALLURGY</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C07</span>—<span itemprop="Description">ORGANIC CHEMISTRY</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C07J</span>—<span itemprop="Description">STEROIDS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C07J7/00</span>—<span itemprop="Description">Normal steroids containing carbon, hydrogen, halogen or oxygen substituted in position 17 beta by a chain of two carbon atoms</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C07J7/0005</span>—<span itemprop="Description">Normal steroids containing carbon, hydrogen, halogen or oxygen substituted in position 17 beta by a chain of two carbon atoms not substituted in position 21</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C07J7/001</span>—<span itemprop="Description">Normal steroids containing carbon, hydrogen, halogen or oxygen substituted in position 17 beta by a chain of two carbon atoms not substituted in position 21 substituted in position 20 by a keto group</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C07J7/0015</span>—<span itemprop="Description">Normal steroids containing carbon, hydrogen, halogen or oxygen substituted in position 17 beta by a chain of two carbon atoms not substituted in position 21 substituted in position 20 by a keto group not substituted in position 17 alfa</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C07J7/002</span>—<span itemprop="Description">Normal steroids containing carbon, hydrogen, halogen or oxygen substituted in position 17 beta by a chain of two carbon atoms not substituted in position 21 substituted in position 20 by a keto group not substituted in position 17 alfa not substituted in position 16</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="FirstCode"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C</span>—<span itemprop="Description">CHEMISTRY; METALLURGY</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C07</span>—<span itemprop="Description">ORGANIC CHEMISTRY</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C07J</span>—<span itemprop="Description">STEROIDS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C07J17/00</span>—<span itemprop="Description">Normal steroids containing carbon, hydrogen, halogen or oxygen, having an oxygen-containing hetero ring not condensed with the cyclopenta(a)hydrophenanthrene skeleton</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="FirstCode"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C</span>—<span itemprop="Description">CHEMISTRY; METALLURGY</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C07</span>—<span itemprop="Description">ORGANIC CHEMISTRY</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C07J</span>—<span itemprop="Description">STEROIDS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C07J33/00</span>—<span itemprop="Description">Normal steroids having a sulfur-containing hetero ring spiro-condensed or not condensed with the cyclopenta(a)hydrophenanthrene skeleton</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">C07J33/002</span>—<span itemprop="Description">Normal steroids having a sulfur-containing hetero ring spiro-condensed or not condensed with the cyclopenta(a)hydrophenanthrene skeleton not condensed</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="FirstCode"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+</ul>
+</section>
+<section>
+<h2>Landscapes</h2>
+<ul>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Chemical &amp; Material Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Organic Chemistry</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Health &amp; Medical Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">General Health &amp; Medical Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Steroid Compounds</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Organic Low-Molecular-Weight Compounds And Preparation Thereof</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+</ul>
+</section>
+<section itemprop="application" itemscope="">
+<section itemprop="metadata" itemscope="">
+<span itemprop="applicationNumber">ES202190022A</span>
+<span itemprop="priorityDate">2018-10-22</span>
+<span itemprop="filingDate">2019-10-21</span>
+<span itemprop="title">
+  Process for the preparation of 3alpha-hydroxy-5alpha-pregnan-20-one (Brexanolone)
+ 
+     </span>
+<span itemprop="ifiStatus">Active</span>
+<a href="/patent/ES2837136B2/en">
+<span itemprop="representativePublication">ES2837136B2</span>
+        (<span itemprop="primaryLanguage">en</span>)
+      </a>
+</section>
+<h2>Applications Claiming Priority (2)</h2>
+<table>
+<thead>
+<tr>
+<th>Application Number</th>
+<th>Priority Date</th>
+<th>Filing Date</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="appsClaimingPriority" itemscope="" repeat="">
+<td>
+<span itemprop="applicationNumber">IT102018000009683A</span>
+<a href="/patent/IT201800009683A1/en">
+<span itemprop="representativePublication">IT201800009683A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="priorityDate">2018-10-22</td>
+<td itemprop="filingDate">2018-10-22</td>
+<td itemprop="title">
+  PROCESS FOR THE PREPARATION OF 3A-HYDROXY-5A-PREGNAN-20-ONE (BREXANOLONE)
+ 
+       </td>
+</tr>
+<tr itemprop="appsClaimingPriority" itemscope="" repeat="">
+<td>
+<span itemprop="applicationNumber">PCT/EP2019/078580</span>
+<a href="/patent/WO2020083839A1/en">
+<span itemprop="representativePublication">WO2020083839A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="priorityDate">2018-10-22</td>
+<td itemprop="filingDate">2019-10-21</td>
+<td itemprop="title">Process for the preparation of 3alpha-hydroxy-5αlpha-pregnan-20-one (brexanolone) 
+       </td>
+</tr>
+</tbody>
+</table>
+<h2>Publications (3)</h2>
+<table>
+<thead>
+<tr>
+<th>Publication Number</th>
+<th>Publication Date</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="pubs" itemscope="" repeat="">
+<td>
+<span itemprop="publicationNumber">ES2837136A2</span>
+<a href="/patent/ES2837136A2/en">
+              ES2837136A2
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2021-06-29</td>
+</tr>
+<tr itemprop="pubs" itemscope="" repeat="">
+<td>
+<span itemprop="publicationNumber">ES2837136R1</span>
+<span itemprop="thisPatent">true</span>
+<a href="/patent/ES2837136R1/en">
+              ES2837136R1
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2023-08-18</td>
+</tr>
+<tr itemprop="pubs" itemscope="" repeat="">
+<td>
+<span itemprop="publicationNumber">ES2837136B2</span>
+<a href="/patent/ES2837136B2/en">
+              ES2837136B2
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2024-02-12</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section itemprop="family" itemscope="">
+<h1>Family</h1>
+<h2>ID=65324443</h2>
+<h2>Family Applications (1)</h2>
+<table>
+<thead>
+<tr>
+<th>Application Number</th>
+<th>Title</th>
+<th>Priority Date</th>
+<th>Filing Date</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="applications" itemscope="" repeat="">
+<td>
+<span itemprop="applicationNumber">ES202190022A</span>
+<span itemprop="ifiStatus">Active</span>
+<a href="/patent/ES2837136B2/en">
+<span itemprop="representativePublication">ES2837136B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="priorityDate">2018-10-22</td>
+<td itemprop="filingDate">2019-10-21</td>
+<td itemprop="title">
+  Process for the preparation of 3alpha-hydroxy-5alpha-pregnan-20-one (Brexanolone)
+ 
+     </td>
+</tr>
+</tbody>
+</table>
+<h2>Country Status (13)</h2>
+<table>
+<thead>
+<tr>
+<th>Country</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">US</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/US12077559B2/en">
+<span itemprop="representativePublication">US12077559B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">CN</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/CN112888701B/en">
+<span itemprop="representativePublication">CN112888701B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">AR</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/AR116790A1/en">
+<span itemprop="representativePublication">AR116790A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">AU</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/AU2019369041B2/en">
+<span itemprop="representativePublication">AU2019369041B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">BR</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/BR112021007009A2/en">
+<span itemprop="representativePublication">BR112021007009A2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">CA</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/CA3116467A1/en">
+<span itemprop="representativePublication">CA3116467A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">CH</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/CH716822B1/en">
+<span itemprop="representativePublication">CH716822B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">DE</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/DE112019005261T5/en">
+<span itemprop="representativePublication">DE112019005261T5</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">ES</span>
+            (<span itemprop="num">1</span>)
+            <meta content="true" itemprop="thisCountry"/>
+</td>
+<td>
+<a href="/patent/ES2837136B2/en">
+<span itemprop="representativePublication">ES2837136B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">FR</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/FR3087439B1/en">
+<span itemprop="representativePublication">FR3087439B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">GB</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/GB2593352B/en">
+<span itemprop="representativePublication">GB2593352B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">IT</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/IT201800009683A1/en">
+<span itemprop="representativePublication">IT201800009683A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">WO</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/WO2020083839A1/en">
+<span itemprop="representativePublication">WO2020083839A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Families Citing this family (7)</h2>
+<table>
+<caption>* Cited by examiner, † Cited by third party</caption>
+<thead>
+<tr>
+<th>Publication number</th>
+<th>Priority date</th>
+<th>Publication date</th>
+<th>Assignee</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="forwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/IT202000021316A1/en">
+<span itemprop="publicationNumber">IT202000021316A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="priorityDate">2020-09-09</td>
+<td itemprop="publicationDate">2022-03-09</td>
+<td><span itemprop="assigneeOriginal">Ind Chimica Srl</span></td>
+<td itemprop="title">
+  PROCESS FOR THE PREPARATION OF (3α,5α)-3-HYDROXY-3-METHYL-PREGNAN-20-ONE (GANAXOLONE)
+ 
+       </td>
+</tr>
+<tr itemprop="forwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/CN112501235B/en">
+<span itemprop="publicationNumber">CN112501235B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2020-11-19</td>
+<td itemprop="publicationDate">2022-12-02</td>
+<td><span itemprop="assigneeOriginal">华东师范大学</span></td>
+<td itemprop="title">Method for preparing breynolone by using monoalcohol ketone acetate 
+       </td>
+</tr>
+<tr itemprop="forwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/CN112516086B/en">
+<span itemprop="publicationNumber">CN112516086B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2020-12-08</td>
+<td itemprop="publicationDate">2022-05-20</td>
+<td><span itemprop="assigneeOriginal">武汉久安药物研究院有限公司</span></td>
+<td itemprop="title">Breynolone fat emulsion for injection and preparation method thereof 
+       </td>
+</tr>
+<tr itemprop="forwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/CN113861255B/en">
+<span itemprop="publicationNumber">CN113861255B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2021-11-24</td>
+<td itemprop="publicationDate">2022-09-02</td>
+<td><span itemprop="assigneeOriginal">南京迈诺威医药科技有限公司</span></td>
+<td itemprop="title">Preparation method of allopregnanolone related substance 
+       </td>
+</tr>
+<tr itemprop="forwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/CN114031660A/en">
+<span itemprop="publicationNumber">CN114031660A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2021-11-24</td>
+<td itemprop="publicationDate">2022-02-11</td>
+<td><span itemprop="assigneeOriginal">南京迈诺威医药科技有限公司</span></td>
+<td itemprop="title">Preparation method of 17 alpha-pregnenolone 
+       </td>
+</tr>
+<tr itemprop="forwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/IT202100030671A1/en">
+<span itemprop="publicationNumber">IT202100030671A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="priorityDate">2021-12-03</td>
+<td itemprop="publicationDate">2023-06-03</td>
+<td><span itemprop="assigneeOriginal">Ind Chimica Srl</span></td>
+<td itemprop="title">
+  PROCESS FOR THE PREPARATION OF (3a,5a)-20-OXOPREGNAN-3-IL GLYCYL-L-VALINATE HYDROCHLORIDE
+ 
+       </td>
+</tr>
+<tr itemprop="forwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/CN115806577A/en">
+<span itemprop="publicationNumber">CN115806577A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2023-02-03</td>
+<td itemprop="publicationDate">2023-03-17</td>
+<td><span itemprop="assigneeOriginal">北京鑫开元医药科技有限公司</span></td>
+<td itemprop="title">Preparation method of breynolone 
+       </td>
+</tr>
+</tbody>
+</table>
+<h2>Citations (3)</h2>
+<table>
+<caption>* Cited by examiner, † Cited by third party</caption>
+<thead>
+<tr>
+<th>Publication number</th>
+<th>Priority date</th>
+<th>Publication date</th>
+<th>Assignee</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="backwardReferencesOrig" itemscope="" repeat="">
+<td>
+<a href="/patent/US3152121A/en">
+<span itemprop="publicationNumber">US3152121A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">1962-03-16</td>
+<td itemprop="publicationDate">1964-10-06</td>
+<td>
+<span itemprop="assigneeOriginal">Upjohn Co</span>
+</td>
+<td itemprop="title">20-ketals of 3-hydroxy-5 beta-pregnan-20-one 
+       </td>
+</tr>
+<tr itemprop="backwardReferencesOrig" itemscope="" repeat="">
+<td>
+<a href="/patent/US5795982A/en">
+<span itemprop="publicationNumber">US5795982A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">1994-06-02</td>
+<td itemprop="publicationDate">1998-08-18</td>
+<td>
+<span itemprop="assigneeOriginal">Roussel Uclaf</span>
+</td>
+<td itemprop="title">Intermediates for 16β-methyl steroids 
+       </td>
+</tr>
+<tr itemprop="backwardReferencesOrig" itemscope="" repeat="">
+<td>
+<a href="/patent/US20140058079A1/en">
+<span itemprop="publicationNumber">US20140058079A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2011-03-23</td>
+<td itemprop="publicationDate">2014-02-27</td>
+<td>
+<span itemprop="assigneeOriginal">Centre National De La Recherche Scientifique-Cnrs</span>
+</td>
+<td itemprop="title">Derivatives of allopregnanolone and of epiallopregnanolone and uses thereof for treating a neuropathological condition 
+       </td>
+</tr>
+</tbody>
+</table>
+<h2>Family Cites Families (4)</h2>
+<table>
+<caption>* Cited by examiner, † Cited by third party</caption>
+<thead>
+<tr>
+<th>Publication number</th>
+<th>Priority date</th>
+<th>Publication date</th>
+<th>Assignee</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="backwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/GB442319A/en">
+<span itemprop="publicationNumber">GB442319A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="priorityDate">1933-12-23</td>
+<td itemprop="publicationDate">1936-02-06</td>
+<td><span itemprop="assigneeOriginal">Schering Kahlbaum Ag</span></td>
+<td itemprop="title">Process for the production of pregnanolones 
+     </td>
+</tr>
+<tr itemprop="backwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/US5795985A/en">
+<span itemprop="publicationNumber">US5795985A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">1996-03-05</td>
+<td itemprop="publicationDate">1998-08-18</td>
+<td><span itemprop="assigneeOriginal">Ciba Specialty Chemicals Corporation</span></td>
+<td itemprop="title">Phenyl alkyl ketone substituted by cyclic amine and a process for the preparation thereof 
+       </td>
+</tr>
+<tr itemprop="backwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/KR101778603B1/en">
+<span itemprop="publicationNumber">KR101778603B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2009-08-13</td>
+<td itemprop="publicationDate">2017-09-14</td>
+<td><span itemprop="assigneeOriginal">마리누스 파마슈티컬스</span></td>
+<td itemprop="title">METHOD FOR MAKING 3α-HYDROXY, 3β- METHYL-5α-PREGNAN-20-ONE (GANAXOLONE) 
+       </td>
+</tr>
+<tr itemprop="backwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/US9038590B2/en">
+<span itemprop="publicationNumber">US9038590B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="priorityDate">2012-12-09</td>
+<td itemprop="publicationDate">2015-05-26</td>
+<td><span itemprop="assigneeOriginal">Crossroads Machine, Inc.</span></td>
+<td itemprop="title">Adjustable venturi mixing valve assembly 
+       </td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li itemprop="applicationsByYear" itemscope="" repeat="">
+<span itemprop="year">2018</span>
+<ul>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2018-10-22</span>
+<span itemprop="countryCode">IT</span>
+<span itemprop="applicationNumber">IT102018000009683A</span>
+<a href="/patent/IT201800009683A1/en"><span itemprop="documentId">patent/IT201800009683A1/en</span></a>
+<span itemprop="legalStatusCat">unknown</span>
+<span itemprop="legalStatus"></span>
+</li>
+</ul>
+</li>
+<li itemprop="applicationsByYear" itemscope="" repeat="">
+<span itemprop="year">2019</span>
+<ul>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2019-10-08</span>
+<span itemprop="countryCode">FR</span>
+<span itemprop="applicationNumber">FR1911134A</span>
+<a href="/patent/FR3087439B1/en"><span itemprop="documentId">patent/FR3087439B1/en</span></a>
+<span itemprop="legalStatusCat">active</span>
+<span itemprop="legalStatus">Active</span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2019-10-21</span>
+<span itemprop="countryCode">ES</span>
+<span itemprop="applicationNumber">ES202190022A</span>
+<a href="/patent/ES2837136B2/en"><span itemprop="documentId">patent/ES2837136B2/en</span></a>
+<span itemprop="legalStatusCat">active</span>
+<span itemprop="legalStatus">Active</span>
+<span bool="" content="true" itemprop="thisApp"></span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2019-10-21</span>
+<span itemprop="countryCode">CA</span>
+<span itemprop="applicationNumber">CA3116467A</span>
+<a href="/patent/CA3116467A1/en"><span itemprop="documentId">patent/CA3116467A1/en</span></a>
+<span itemprop="legalStatusCat">active</span>
+<span itemprop="legalStatus">Pending</span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2019-10-21</span>
+<span itemprop="countryCode">BR</span>
+<span itemprop="applicationNumber">BR112021007009-5A</span>
+<a href="/patent/BR112021007009A2/en"><span itemprop="documentId">patent/BR112021007009A2/en</span></a>
+<span itemprop="legalStatusCat">unknown</span>
+<span itemprop="legalStatus"></span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2019-10-21</span>
+<span itemprop="countryCode">US</span>
+<span itemprop="applicationNumber">US17/282,772</span>
+<a href="/patent/US12077559B2/en"><span itemprop="documentId">patent/US12077559B2/en</span></a>
+<span itemprop="legalStatusCat">active</span>
+<span itemprop="legalStatus">Active</span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2019-10-21</span>
+<span itemprop="countryCode">GB</span>
+<span itemprop="applicationNumber">GB2106894.5A</span>
+<a href="/patent/GB2593352B/en"><span itemprop="documentId">patent/GB2593352B/en</span></a>
+<span itemprop="legalStatusCat">active</span>
+<span itemprop="legalStatus">Active</span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2019-10-21</span>
+<span itemprop="countryCode">DE</span>
+<span itemprop="applicationNumber">DE112019005261.6T</span>
+<a href="/patent/DE112019005261T5/en"><span itemprop="documentId">patent/DE112019005261T5/en</span></a>
+<span itemprop="legalStatusCat">active</span>
+<span itemprop="legalStatus">Pending</span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2019-10-21</span>
+<span itemprop="countryCode">CN</span>
+<span itemprop="applicationNumber">CN201980069735.0A</span>
+<a href="/patent/CN112888701B/en"><span itemprop="documentId">patent/CN112888701B/en</span></a>
+<span itemprop="legalStatusCat">active</span>
+<span itemprop="legalStatus">Active</span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2019-10-21</span>
+<span itemprop="countryCode">WO</span>
+<span itemprop="applicationNumber">PCT/EP2019/078580</span>
+<a href="/patent/WO2020083839A1/en"><span itemprop="documentId">patent/WO2020083839A1/en</span></a>
+<span itemprop="legalStatusCat">active</span>
+<span itemprop="legalStatus">Application Filing</span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2019-10-21</span>
+<span itemprop="countryCode">AU</span>
+<span itemprop="applicationNumber">AU2019369041A</span>
+<a href="/patent/AU2019369041B2/en"><span itemprop="documentId">patent/AU2019369041B2/en</span></a>
+<span itemprop="legalStatusCat">active</span>
+<span itemprop="legalStatus">Active</span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2019-10-21</span>
+<span itemprop="countryCode">CH</span>
+<span itemprop="applicationNumber">CH00429/21A</span>
+<a href="/patent/CH716822B1/en"><span itemprop="documentId">patent/CH716822B1/en</span></a>
+<span itemprop="legalStatusCat">unknown</span>
+<span itemprop="legalStatus"></span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2019-10-22</span>
+<span itemprop="countryCode">AR</span>
+<span itemprop="applicationNumber">ARP190103008A</span>
+<a href="/patent/AR116790A1/en"><span itemprop="documentId">patent/AR116790A1/en</span></a>
+<span itemprop="legalStatusCat">not_active</span>
+<span itemprop="legalStatus">Application Discontinuation</span>
+</li>
+</ul>
+</li>
+</ul>
+</section>
+<section>
+<h2>Patent Citations (3)</h2>
+<table>
+<caption>* Cited by examiner, † Cited by third party</caption>
+<thead>
+<tr>
+<th>Publication number</th>
+<th>Priority date</th>
+<th>Publication date</th>
+<th>Assignee</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="backwardReferences" itemscope="" repeat="">
+<td>
+<a href="/patent/US3152121A/en">
+<span itemprop="publicationNumber">US3152121A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">1962-03-16</td>
+<td itemprop="publicationDate">1964-10-06</td>
+<td><span itemprop="assigneeOriginal">Upjohn Co</span></td>
+<td itemprop="title">20-ketals of 3-hydroxy-5 beta-pregnan-20-one 
+       </td>
+</tr>
+<tr itemprop="backwardReferences" itemscope="" repeat="">
+<td>
+<a href="/patent/US5795982A/en">
+<span itemprop="publicationNumber">US5795982A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">1994-06-02</td>
+<td itemprop="publicationDate">1998-08-18</td>
+<td><span itemprop="assigneeOriginal">Roussel Uclaf</span></td>
+<td itemprop="title">Intermediates for 16β-methyl steroids 
+       </td>
+</tr>
+<tr itemprop="backwardReferences" itemscope="" repeat="">
+<td>
+<a href="/patent/US20140058079A1/en">
+<span itemprop="publicationNumber">US20140058079A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2011-03-23</td>
+<td itemprop="publicationDate">2014-02-27</td>
+<td><span itemprop="assigneeOriginal">Centre National De La Recherche Scientifique-Cnrs</span></td>
+<td itemprop="title">Derivatives of allopregnanolone and of epiallopregnanolone and uses thereof for treating a neuropathological condition 
+       </td>
+</tr>
+</tbody>
+</table>
+</section>
+<section>
+<h2>Non-Patent Citations (3)</h2>
+<table>
+<caption>* Cited by examiner, † Cited by third party</caption>
+<thead>
+<tr>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="detailedNonPatentLiterature" itemscope="" repeat="">
+<td>
+<span itemprop="title">DAS, S. ET AL. . Molecular Iodine in Protection and Deprotection Chemistry. Synlett , 01.10.2008, Páginas 2741-2762 [en línea][recuperado el 21.07.2023]. Recuperado de Internet (URL:https://www.researchgate.net/publication/239237997_Molecular_Iodine_in_Protection_and_Deprotection_Chemistry), 2741-2762; 1437-2096 (en línea), (DOI: 10.1055/s-0028-1083503) Ver páginas 2759-2760, apartado 3.2.12.</span>
+<span itemprop="examinerCited">*</span>
+</td>
+</tr>
+<tr itemprop="detailedNonPatentLiterature" itemscope="" repeat="">
+<td>
+<span itemprop="title">LEWBART, M.L. &amp; SCHNEIDER, J.J. . Preparation of Six 20-Deoxy Steroids in the 3¿-Hydroxy-5¿-pregnane Series and Their Use in Optical Rotation Studies. The Journal of Organic Chemistry, 1968, Vol. 33, Páginas 1707-1715 0022-3263; 1520-6904 (en línea), (DOI: 10.1021/jo01269a002) Ver página 1708, esquema 1; página 1713, sección experimental.</span>
+<span itemprop="examinerCited">*</span>
+</td>
+</tr>
+<tr itemprop="detailedNonPatentLiterature" itemscope="" repeat="">
+<td>
+<span itemprop="title">MACNEVIN, C.J. ET AL. . Development and Screening of Water-Soluble Analogues of Progesterone and Allopregnanolone in Models of Brain Injury. Journal of Medicinal Chemistry , 09.08.2009, Vol. 52, Páginas 6012-6023 0022-2623; 1520-4804 (en línea) , (DOI: 10.1021/jm900712n) Ver página 6012, resumen; página 6014, esquema 4; página 6015, esquemas 6 y 7.</span>
+<span itemprop="examinerCited">*</span>
+</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section>
+<h2>Also Published As</h2>
+<table>
+<thead>
+<tr>
+<th>Publication number</th>
+<th>Publication date</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/ES2837136A2/en">
+<span itemprop="publicationNumber">ES2837136A2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2021-06-29</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/CN112888701A/en">
+<span itemprop="publicationNumber">CN112888701A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2021-06-01</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/BR112021007009A2/en">
+<span itemprop="publicationNumber">BR112021007009A2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2021-07-13</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/US20210388020A1/en">
+<span itemprop="publicationNumber">US20210388020A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2021-12-16</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/FR3087439B1/en">
+<span itemprop="publicationNumber">FR3087439B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2022-12-23</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/CN112888701B/en">
+<span itemprop="publicationNumber">CN112888701B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2025-02-28</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/AU2019369041A1/en">
+<span itemprop="publicationNumber">AU2019369041A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2021-06-10</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/AU2019369041B2/en">
+<span itemprop="publicationNumber">AU2019369041B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2024-06-27</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/ES2837136B2/en">
+<span itemprop="publicationNumber">ES2837136B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2024-02-12</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/GB2593352B/en">
+<span itemprop="publicationNumber">GB2593352B</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2022-07-27</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/DE112019005261T5/en">
+<span itemprop="publicationNumber">DE112019005261T5</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2021-07-01</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/US12077559B2/en">
+<span itemprop="publicationNumber">US12077559B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2024-09-03</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/GB2593352A/en">
+<span itemprop="publicationNumber">GB2593352A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2021-09-22</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/FR3087439A1/en">
+<span itemprop="publicationNumber">FR3087439A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2020-04-24</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/CH716822B1/en">
+<span itemprop="publicationNumber">CH716822B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2023-01-13</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/IT201800009683A1/en">
+<span itemprop="publicationNumber">IT201800009683A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2020-04-22</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/AR116790A1/en">
+<span itemprop="publicationNumber">AR116790A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2021-06-16</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/GB202106894D0/en">
+<span itemprop="publicationNumber">GB202106894D0</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2021-06-30</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/CA3116467A1/en">
+<span itemprop="publicationNumber">CA3116467A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2020-04-30</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/WO2020083839A1/en">
+<span itemprop="publicationNumber">WO2020083839A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2020-04-30</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section>
+<h2>Similar Documents</h2>
+<table>
+<thead>
+<tr>
+<th>Publication</th>
+<th>Publication Date</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/IL276917A/en">
+<span itemprop="publicationNumber">IL276917A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2020-10-29" itemprop="publicationDate">2020-10-29</time>
+</td>
+<td itemprop="title">Process for the preparation of elobixibat 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/ES2837136R1/en">
+<span itemprop="publicationNumber">ES2837136R1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2023-08-18" itemprop="publicationDate">2023-08-18</time>
+</td>
+<td itemprop="title">
+  Process for the preparation of 3alpha-hydroxy-5alpha-pregnan-20-one (Brexanolone)
+ 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/IL264143B/en">
+<span itemprop="publicationNumber">IL264143B</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2021-10-31" itemprop="publicationDate">2021-10-31</time>
+</td>
+<td itemprop="title">
+        Processes for the preparation of Olafarib
+       
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/IL260730B/en">
+<span itemprop="publicationNumber">IL260730B</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2020-05-31" itemprop="publicationDate">2020-05-31</time>
+</td>
+<td itemprop="title">
+        Process for the preparation of terpinan-4-ol
+       
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/IL282114A/en">
+<span itemprop="publicationNumber">IL282114A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2021-05-31" itemprop="publicationDate">2021-05-31</time>
+</td>
+<td itemprop="title">
+        Processes for the preparation of functional cyclooctanes
+       
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/HUE049606T2/en">
+<span itemprop="publicationNumber">HUE049606T2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2020-09-28" itemprop="publicationDate">2020-09-28</time>
+</td>
+<td itemprop="title">
+        Process for the preparation of flavonoid inclusion compounds
+       
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/HUE055463T2/en">
+<span itemprop="publicationNumber">HUE055463T2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2021-11-29" itemprop="publicationDate">2021-11-29</time>
+</td>
+<td itemprop="title">
+        Process for the preparation of glucopyranosyl-substituted benzylbenzene derivatives
+       
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/HUE052833T2/en">
+<span itemprop="publicationNumber">HUE052833T2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2021-05-28" itemprop="publicationDate">2021-05-28</time>
+</td>
+<td itemprop="title">
+        Process for the preparation of 2,5-furanedicarboxylic acid (FDCA)
+       
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/CL2019000049A1/en">
+<span itemprop="publicationNumber">CL2019000049A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2019-07-19" itemprop="publicationDate">2019-07-19</time>
+</td>
+<td itemprop="title">
+  Processes for the preparation of 4-alkoxy - (acyl or aquyl) oxy-picolinamide.
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/HUE053428T2/en">
+<span itemprop="publicationNumber">HUE053428T2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2021-07-28" itemprop="publicationDate">2021-07-28</time>
+</td>
+<td itemprop="title">
+        Process for the preparation of otic progenitors
+       
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/RS64534B1/en">
+<span itemprop="publicationNumber">RS64534B1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2023-09-29" itemprop="publicationDate">2023-09-29</time>
+</td>
+<td itemprop="title">Process for the preparation of n-alkyl-nitratoethylnitramines 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/IL284374A/en">
+<span itemprop="publicationNumber">IL284374A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2021-08-31" itemprop="publicationDate">2021-08-31</time>
+</td>
+<td itemprop="title">
+        Methods for the production of Ozetakinumab
+       
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/IL281254A/en">
+<span itemprop="publicationNumber">IL281254A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2021-04-29" itemprop="publicationDate">2021-04-29</time>
+</td>
+<td itemprop="title">Process for the preparation of lenvatinib 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/DK3737678T3/en">
+<span itemprop="publicationNumber">DK3737678T3</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2022-08-01" itemprop="publicationDate">2022-08-01</time>
+</td>
+<td itemprop="title">
+        Process for the preparation of disubstituted diaryloxybenzoheterodiazole compounds
+       
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/IL271388B/en">
+<span itemprop="publicationNumber">IL271388B</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2022-03-01" itemprop="publicationDate">2022-03-01</time>
+</td>
+<td itemprop="title">
+        An improved process for the preparation of imtelstat
+       
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/ES2703386T8/en">
+<span itemprop="publicationNumber">ES2703386T8</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2019-05-28" itemprop="publicationDate">2019-05-28</time>
+</td>
+<td itemprop="title">
+  Procedure for the purification of hydrocarbons
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/PL3599256T3/en">
+<span itemprop="publicationNumber">PL3599256T3</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2022-05-30" itemprop="publicationDate">2022-05-30</time>
+</td>
+<td itemprop="title">Process for the preparation of polyorganosiloaxnes 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/ITUA20161637A1/en">
+<span itemprop="publicationNumber">ITUA20161637A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2017-09-14" itemprop="publicationDate">2017-09-14</time>
+</td>
+<td itemprop="title">
+  METHOD FOR THE QUICK MANUFACTURE OF MOLDS
+ 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/DK3717452T3/en">
+<span itemprop="publicationNumber">DK3717452T3</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2024-08-19" itemprop="publicationDate">2024-08-19</time>
+</td>
+<td itemprop="title">
+  PROCESS FOR THE PREPARATION OF ACYLATED AMPHETAMINE DERIVATIVES
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/HUP1800278A2/en">
+<span itemprop="publicationNumber">HUP1800278A2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2020-02-28" itemprop="publicationDate">2020-02-28</time>
+</td>
+<td itemprop="title">Process for the preparation of boc-linagliptin 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/ES2722574R1/en">
+<span itemprop="publicationNumber">ES2722574R1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2019-08-27" itemprop="publicationDate">2019-08-27</time>
+</td>
+<td itemprop="title">
+  Process for the preparation of 9beta, 10alpha-progesterone (retroprogesterone)
+ 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/BR112017022808A2/en">
+<span itemprop="publicationNumber">BR112017022808A2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2018-07-17" itemprop="publicationDate">2018-07-17</time>
+</td>
+<td itemprop="title">
+  METHOD FOR PREPARATION OF 5-FLUORIDE-1H-PIRAZOL-4-CARBONYL FLUORIDE.
+ 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/IT201900025195A1/en">
+<span itemprop="publicationNumber">IT201900025195A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2021-06-23" itemprop="publicationDate">2021-06-23</time>
+</td>
+<td itemprop="title">
+  Procedure for the preparation of zabaglione
+ 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/ES2697706R1/en">
+<span itemprop="publicationNumber">ES2697706R1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2019-02-08" itemprop="publicationDate">2019-02-08</time>
+</td>
+<td itemprop="title">
+  Process for the Preparation of Galeterone.
+ 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/ES2956480R1/en">
+<span itemprop="publicationNumber">ES2956480R1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2024-03-27" itemprop="publicationDate">2024-03-27</time>
+</td>
+<td itemprop="title">
+        Procedure for the separation of microplastics from aqueous matrices
+       
+       </td>
+</tr>
+</tbody>
+</table>
+</section>
+<section>
+<h2>Legal Events</h2>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Code</th>
+<th>Title</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2023-08-18" itemprop="date">2023-08-18</time></td>
+<td itemprop="code">EC2A</td>
+<td itemprop="title">Search report published</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref document number</strong>:
+              <span itemprop="value">2837136</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Country of ref document</strong>:
+              <span itemprop="value">ES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Kind code of ref document</strong>:
+              <span itemprop="value">R1</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20230810</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2024-02-12" itemprop="date">2024-02-12</time></td>
+<td itemprop="code">FG2A</td>
+<td itemprop="title">Definitive protection</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref document number</strong>:
+              <span itemprop="value">2837136</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Country of ref document</strong>:
+              <span itemprop="value">ES</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Kind code of ref document</strong>:
+              <span itemprop="value">B2</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20240212</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</section>
+</article>
+</search-app>
+<script></script>
+<script src="//www.gstatic.com/feedback/api.js" type="text/javascript"></script>
+<script src="//www.gstatic.com/feedback/js/help/prod/service/lazy.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+      if (window.help && window.help.service) {
+        helpApi = window.help.service.Lazy.create(0, {apiKey: 'AIzaSyDTEI_0tLX4varJ7bwK8aT-eOI5qr3BmyI', locale: 'en-US'});
+        window.requestedSurveys = new Set();
+        window.requestSurvey = function(triggerId) {
+          if (window.requestedSurveys.has(triggerId)) {
+            return;
+          }
+          window.requestedSurveys.add(triggerId);
+          helpApi.requestSurvey({
+            triggerId: triggerId,
+            enableTestingMode: false,
+            callback: (requestSurveyCallbackParam) => {
+              if (!requestSurveyCallbackParam.surveyData) {
+                return;
+              }
+              helpApi.presentSurvey({
+                productData: {
+                  productVersion: window.version,
+                  customData: {
+                    "experiments": "",
+                  },
+                },
+                surveyData: requestSurveyCallbackParam.surveyData,
+                colorScheme: 1,
+                customZIndex: 10000,
+              });
+            }
+          });
+        };
+
+        window.requestSurvey('YXTwAsvoW0kedxbuTdH0RArc9VhT');
+      }
+    </script>
+<script src="/sw/null_loader.js"></script>
+</body>
+</html>
+

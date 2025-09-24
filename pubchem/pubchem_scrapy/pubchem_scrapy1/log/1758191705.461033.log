@@ -1,0 +1,1902 @@
+https://patents.google.com/patent/EP3946358A4/en?oq=EP3946358A4:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>EP3946358A4 - Allopregnanolone compositions and uses thereof 
+        - Google Patents</title>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta charset="utf-8"/>
+<meta content="origin-when-crossorigin" name="referrer"/>
+<link href="https://patents.google.com/patent/EP3946358A4/en" rel="canonical"/>
+<meta content="patent" name="DC.type"/>
+<meta content="Allopregnanolone compositions and uses thereof 
+       " name="DC.title"/>
+<meta content="2020-04-06" name="DC.date" scheme="dateSubmitted"/>
+<meta content="" name="DC.description"/>
+<meta content="EP:20784931.6A" name="citation_patent_application_number"/>
+<meta content="https://patentimages.storage.googleapis.com/18/93/c7/f5f2864f7cfcf4/EP3946358A4.pdf" name="citation_pdf_url"/>
+<meta content="EP:3946358:A4" name="citation_patent_publication_number"/>
+<meta content="2022-12-28" name="DC.date"/>
+<meta content="Michael A. Rogawski" name="DC.contributor" scheme="inventor"/>
+<meta content="Dorota ZOLKOWSKA" name="DC.contributor" scheme="inventor"/>
+<meta content="University of California" name="DC.contributor" scheme="assignee"/>
+<meta content="University of California Berkeley" name="DC.contributor" scheme="assignee"/>
+<meta content="University of California San Diego UCSD" name="DC.contributor" scheme="assignee"/>
+<meta content="US:20100204192:A1" name="DC.relation" scheme="references"/>
+<meta content="WO:2011087441:A1" name="DC.relation" scheme="references"/>
+<meta content="WO:2013043985:A1" name="DC.relation" scheme="references"/>
+<meta content="WO:2014085668:A1" name="DC.relation" scheme="references"/>
+<meta content='CAROLINE COISNE ET AL: "Cyclodextrins as Emerging Therapeutic Tools in the Treatment of Cholesterol-Associated Vascular and Neurodegenerative Diseases", MOLECULES, vol. 21, no. 12, 20 December 2016 (2016-12-20), pages 1748 - 1, XP055548026, DOI: 10.3390/molecules21121748' name="citation_reference" scheme="references"/>
+<meta content='GUENNOUN RACHIDA ET AL: "Intranasal administration of progesterone: A potential efficient route of delivery for cerebroprotection after acute brain injuries", NEUROPHARMACOLOGY, ELSEVIER, AMSTERDAM, NL, vol. 145, 6 June 2018 (2018-06-06), pages 283 - 291, XP085560420, ISSN: 0028-3908, DOI: 10.1016/J.NEUROPHARM.2018.06.006' name="citation_reference" scheme="references"/>
+<meta content='RONALD W. IRWIN ET AL: "Allopregnanolone Preclinical Acute Pharmacokinetic and Pharmacodynamic Studies to Predict Tolerability and Efficacy for Alzheimer?s Disease", PLOS ONE, vol. 10, no. 6, 3 June 2015 (2015-06-03), pages e0128313, XP055562355, DOI: 10.1371/journal.pone.0128313' name="citation_reference" scheme="references"/>
+<meta content="See also references of WO 2020206462A1" name="citation_reference" scheme="references"/>
+<meta content='ZOLKOWSKA DOROTA ET AL: "Efficacy of Intranasal Allopregnanolone in a Mouse Seizure Model", EPILEPSY AND BEHAVIOR, ACADEMIC PRESS, SAN DIEGO, CA, US, vol. 101, 1 December 2019 (2019-12-01), XP085990494, ISSN: 1525-5050, [retrieved on 20200102], DOI: 10.1016/J.YEBEH.2019.08.013' name="citation_reference" scheme="references"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Product+Sans" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700" rel="stylesheet"/>
+<style>
+      
+      #gb { top: 15px; left: auto; right: 0; width: auto; min-width: 135px !important; }   
+      body { transition: none; }
+    </style>
+<script></script>
+<script>
+      window.version = 'patent-search.search_20250707_RC00';
+
+      function sendFeedback() {
+        userfeedback.api.startFeedback({
+          'productId': '713680',
+          'bucket': 'patent-search-web',
+          'productVersion': window.version,
+        });
+      }
+
+      window.experiments = {};
+      window.experiments.patentCountries = "ae,ag,al,am,ao,ap,ar,at,au,aw,az,ba,bb,bd,be,bf,bg,bh,bj,bn,bo,br,bw,bx,by,bz,ca,cf,cg,ch,ci,cl,cm,cn,co,cr,cs,cu,cy,cz,dd,de,dj,dk,dm,do,dz,ea,ec,ee,eg,em,ep,es,fi,fr,ga,gb,gc,gd,ge,gh,gm,gn,gq,gr,gt,gw,hk,hn,hr,hu,ib,id,ie,il,in,ir,is,it,jo,jp,ke,kg,kh,km,kn,kp,kr,kw,kz,la,lc,li,lk,lr,ls,lt,lu,lv,ly,ma,mc,md,me,mg,mk,ml,mn,mo,mr,mt,mw,mx,my,mz,na,ne,ng,ni,nl,no,nz,oa,om,pa,pe,pg,ph,pl,pt,py,qa,ro,rs,ru,rw,sa,sc,sd,se,sg,si,sk,sl,sm,sn,st,su,sv,sy,sz,td,tg,th,tj,tm,tn,tr,tt,tw,tz,ua,ug,us,uy,uz,vc,ve,vn,wo,yu,za,zm,zw";
+      
+      
+      window.experiments.keywordWizard = true;
+      
+      
+      
+      window.experiments.definitions = true;
+      window.experiments.plogs = true;
+
+      window.Polymer = {
+        dom: 'shady',
+        lazyRegister: true,
+      };
+    </script>
+<script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20250707_RC00/scs/compiled_dir/webcomponentsjs/webcomponents-lite.min.js"></script>
+<link href="//www.gstatic.com/patent-search/frontend/patent-search.search_20250707_RC00/scs/compiled_dir/search-app-vulcanized.html" rel="import"/>
+</head>
+<body unresolved="">
+<script></script>
+<script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20250707_RC00/scs/compiled_dir/search-app-vulcanized.js"></script>
+<search-app>
+<article class="result" itemscope="" itemtype="http://schema.org/ScholarlyArticle">
+<h1 itemprop="pageTitle">EP3946358A4 - Allopregnanolone compositions and uses thereof 
+        - Google Patents</h1>
+<span itemprop="title">Allopregnanolone compositions and uses thereof 
+       </span>
+<meta content="patent" itemprop="type"/>
+<a href="https://patentimages.storage.googleapis.com/18/93/c7/f5f2864f7cfcf4/EP3946358A4.pdf" itemprop="pdfLink">Download PDF</a>
+<h2>Info</h2>
+<dl>
+<dt>Publication number</dt>
+<dd itemprop="publicationNumber">EP3946358A4</dd>
+<meta content="3946358" itemprop="numberWithoutCodes"/>
+<meta content="A4" itemprop="kindCode"/>
+<meta content="Separately published supplemental search report" itemprop="publicationDescription"/>
+<span>EP3946358A4</span>
+<span>EP20784931.6A</span>
+<span>EP20784931A</span>
+<span>EP3946358A4</span>
+<span>EP 3946358 A4</span>
+<span>EP3946358 A4</span>
+<span>EP 3946358A4</span>
+<span> </span>
+<span> </span>
+<span> </span>
+<span>EP 20784931 A</span>
+<span>EP20784931 A</span>
+<span>EP 20784931A</span>
+<span>EP 3946358 A4</span>
+<span>EP3946358 A4</span>
+<span>EP 3946358A4</span>
+<dt>Authority</dt>
+<dd itemprop="countryCode">EP</dd>
+<dd itemprop="countryName">European Patent Office</dd>
+<dt>Prior art keywords</dt>
+<dd itemprop="priorArtKeywords" repeat="">allopregnanolone</dd>
+<dd itemprop="priorArtKeywords" repeat="">compositions</dd>
+<dd itemprop="priorArtKeywords" repeat="">allopregnanolone compositions</dd>
+<dt>Prior art date</dt>
+<dd><time datetime="2019-04-05" itemprop="priorArtDate">2019-04-05</time></dd>
+<dt>Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)</dt>
+<dd itemprop="legalStatusIfi" itemscope="">
+<span itemprop="status">Pending</span>
+</dd>
+</dl>
+<dt>Application number</dt>
+<dd itemprop="applicationNumber">EP20784931.6A</dd>
+<dt>Other languages</dt>
+<dd itemprop="otherLanguages" itemscope="" repeat="">
+<a href="/patent/EP3946358A4/de">
+<span itemprop="name">German</span> (<span itemprop="code">de</span>)
+    </a>
+</dd>
+<dd itemprop="otherLanguages" itemscope="" repeat="">
+<a href="/patent/EP3946358A4/fr">
+<span itemprop="name">French</span> (<span itemprop="code">fr</span>)
+    </a>
+</dd>
+<dt>Other versions</dt>
+<dd itemprop="directAssociations" itemscope="" repeat="">
+<a href="/patent/EP3946358A1/en">
+<span itemprop="publicationNumber">EP3946358A1</span>
+      (<span itemprop="primaryLanguage">en</span>
+</a>
+</dd>
+<dt>Inventor</dt>
+<dd itemprop="inventor" repeat="">Michael A. Rogawski</dd>
+<dd itemprop="inventor" repeat="">Dorota ZOLKOWSKA</dd>
+<dt>Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)</dt>
+<dd itemprop="assigneeCurrent" repeat="">
+    University of California
+  </dd>
+<dd itemprop="assigneeCurrent" repeat="">
+    University of California Berkeley
+  </dd>
+<dd itemprop="assigneeCurrent" repeat="">
+    University of California San Diego UCSD
+  </dd>
+<dt>Original Assignee</dt>
+<dd itemprop="assigneeOriginal" repeat="">University of California</dd>
+<dd itemprop="assigneeOriginal" repeat="">University of California Berkeley</dd>
+<dd itemprop="assigneeOriginal" repeat="">University of California San Diego UCSD</dd>
+<dt>Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)</dt>
+<dd><time datetime="2019-04-05" itemprop="priorityDate">2019-04-05</time></dd>
+<dt>Filing date</dt>
+<dd><time datetime="2020-04-06" itemprop="filingDate">2020-04-06</time></dd>
+<dt>Publication date</dt>
+<dd><time datetime="2022-12-28" itemprop="publicationDate">2022-12-28</time></dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time datetime="2020-04-06" itemprop="date">2020-04-06</time>
+<span itemprop="title">Application filed by University of California, University of California Berkeley, University of California San Diego UCSD</span>
+<span itemprop="type">filed</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+<span itemprop="assigneeSearch">University of California</span>
+</dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time datetime="2022-02-09" itemprop="date">2022-02-09</time>
+<span itemprop="title">Publication of EP3946358A1</span>
+<span itemprop="type">publication</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+<span itemprop="documentId">patent/EP3946358A1/en</span>
+</dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time datetime="2022-12-28" itemprop="date">2022-12-28</time>
+<span itemprop="title">Publication of EP3946358A4</span>
+<span itemprop="type">publication</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+<span itemprop="documentId">patent/EP3946358A4/en</span>
+</dd>
+<dd itemprop="events" itemscope="" repeat="">
+<time itemprop="date">Status</time>
+<span itemprop="title">Pending</span>
+<span itemprop="type">legal-status</span>
+<span bool="" content="true" itemprop="critical">Critical</span>
+<span bool="" content="true" itemprop="current">Current</span>
+</dd>
+<h2>Links</h2>
+<ul>
+<li itemprop="links" itemscope="" repeat="">
+<meta content="espacenetLink" itemprop="id"/>
+<a href="https://worldwide.espacenet.com/publicationDetails/biblio?CC=EP&amp;NR=3946358A4&amp;KC=A4&amp;FT=D" itemprop="url" target="_blank"><span itemprop="text">Espacenet</span></a>
+</li>
+<li itemprop="links" itemscope="" repeat="">
+<meta content="gpiLink" itemprop="id"/>
+<a href="https://data.epo.org/gpi/EP3946358A4" itemprop="url" target="_blank"><span itemprop="text">EPO GPI</span></a>
+</li>
+<li itemprop="links" itemscope="" repeat="">
+<meta content="epRegisterLink" itemprop="id"/>
+<a href="https://register.epo.org/espacenet/application?number=EP20784931" itemprop="url" target="_blank"><span itemprop="text">EP Register</span></a>
+</li>
+<li itemprop="links" itemscope="" repeat="">
+<meta content="globalDossierLink" itemprop="id"/>
+<a href="https://globaldossier.uspto.gov/result/application/EP/20784931/1" itemprop="url" target="_blank"><span itemprop="text">Global Dossier</span></a>
+</li>
+<li itemprop="links" itemscope="" repeat="">
+<meta content="stackexchangeLink" itemprop="id"/>
+<a href="https://patents.stackexchange.com/questions/tagged/EP3946358A4" itemprop="url"><span itemprop="text">Discuss</span></a>
+</li>
+</ul>
+<ul itemprop="concept" itemscope="">
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">AURFZBICLPNKBZ-FZCSVUEKSA-N</span>
+<span itemprop="name">3beta-hydroxy-5alpha-pregnan-20-one</span>
+<span itemprop="domain">Chemical compound</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles">C([C@@H]1CC2)[C@@H](O)CC[C@]1(C)[C@@H]1[C@@H]2[C@@H]2CC[C@H](C(=O)C)[C@@]2(C)CC1</span>
+<span itemprop="inchi_key">AURFZBICLPNKBZ-FZCSVUEKSA-N</span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">title</span>
+<span itemprop="count">1</span>
+</li>
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">AURFZBICLPNKBZ-UHFFFAOYSA-N</span>
+<span itemprop="name">Pregnanolone</span>
+<span itemprop="domain">Natural products</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles">C1CC2CC(O)CCC2(C)C2C1C1CCC(C(=O)C)C1(C)CC2</span>
+<span itemprop="inchi_key">AURFZBICLPNKBZ-UHFFFAOYSA-N</span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">title</span>
+<span itemprop="count">1</span>
+</li>
+<li itemprop="match" itemscope="" repeat="">
+<span itemprop="id">239000000203</span>
+<span itemprop="name">mixture</span>
+<span itemprop="domain">Substances</span>
+<span itemprop="svg_large"></span>
+<span itemprop="svg_small"></span>
+<span itemprop="smiles"></span>
+<span itemprop="inchi_key"></span>
+<span itemprop="similarity">0.000</span>
+<span itemprop="sections" repeat="">title</span>
+<span itemprop="count">1</span>
+</li>
+</ul>
+<section>
+<h2>Classifications</h2>
+<ul>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K</span>—<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K31/00</span>—<span itemprop="Description">Medicinal preparations containing organic active ingredients</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K31/56</span>—<span itemprop="Description">Compounds containing cyclopenta[a]hydrophenanthrene ring systems; Derivatives thereof, e.g. steroids</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K31/57</span>—<span itemprop="Description">Compounds containing cyclopenta[a]hydrophenanthrene ring systems; Derivatives thereof, e.g. steroids substituted in position 17 beta by a chain of two carbon atoms, e.g. pregnane or progesterone</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K31/573</span>—<span itemprop="Description">Compounds containing cyclopenta[a]hydrophenanthrene ring systems; Derivatives thereof, e.g. steroids substituted in position 17 beta by a chain of two carbon atoms, e.g. pregnane or progesterone substituted in position 21, e.g. cortisone, dexamethasone, prednisone or aldosterone</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="FirstCode"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K</span>—<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K9/00</span>—<span itemprop="Description">Medicinal preparations characterised by special physical form</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K9/0012</span>—<span itemprop="Description">Galenical forms characterised by the site of application</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K9/0043</span>—<span itemprop="Description">Nose</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="FirstCode"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K</span>—<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K31/00</span>—<span itemprop="Description">Medicinal preparations containing organic active ingredients</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K31/33</span>—<span itemprop="Description">Heterocyclic compounds</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K31/395</span>—<span itemprop="Description">Heterocyclic compounds having nitrogen as a ring hetero atom, e.g. guanethidine or rifamycins</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K31/55</span>—<span itemprop="Description">Heterocyclic compounds having nitrogen as a ring hetero atom, e.g. guanethidine or rifamycins having seven-membered rings, e.g. azelastine, pentylenetetrazole</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K31/551</span>—<span itemprop="Description">Heterocyclic compounds having nitrogen as a ring hetero atom, e.g. guanethidine or rifamycins having seven-membered rings, e.g. azelastine, pentylenetetrazole having two nitrogen atoms, e.g. dilazep</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K31/5513</span>—<span itemprop="Description">1,4-Benzodiazepines, e.g. diazepam or clozapine</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K</span>—<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K31/00</span>—<span itemprop="Description">Medicinal preparations containing organic active ingredients</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K31/33</span>—<span itemprop="Description">Heterocyclic compounds</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K31/395</span>—<span itemprop="Description">Heterocyclic compounds having nitrogen as a ring hetero atom, e.g. guanethidine or rifamycins</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K31/55</span>—<span itemprop="Description">Heterocyclic compounds having nitrogen as a ring hetero atom, e.g. guanethidine or rifamycins having seven-membered rings, e.g. azelastine, pentylenetetrazole</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K31/551</span>—<span itemprop="Description">Heterocyclic compounds having nitrogen as a ring hetero atom, e.g. guanethidine or rifamycins having seven-membered rings, e.g. azelastine, pentylenetetrazole having two nitrogen atoms, e.g. dilazep</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K31/5513</span>—<span itemprop="Description">1,4-Benzodiazepines, e.g. diazepam or clozapine</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K31/5517</span>—<span itemprop="Description">1,4-Benzodiazepines, e.g. diazepam or clozapine condensed with five-membered rings having nitrogen as a ring hetero atom, e.g. imidazobenzodiazepines, triazolam</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K</span>—<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K31/00</span>—<span itemprop="Description">Medicinal preparations containing organic active ingredients</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K31/56</span>—<span itemprop="Description">Compounds containing cyclopenta[a]hydrophenanthrene ring systems; Derivatives thereof, e.g. steroids</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K31/57</span>—<span itemprop="Description">Compounds containing cyclopenta[a]hydrophenanthrene ring systems; Derivatives thereof, e.g. steroids substituted in position 17 beta by a chain of two carbon atoms, e.g. pregnane or progesterone</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K</span>—<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K47/00</span>—<span itemprop="Description">Medicinal preparations characterised by the non-active ingredients used, e.g. carriers or inert additives; Targeting or modifying agents chemically bound to the active ingredient</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K47/30</span>—<span itemprop="Description">Macromolecular organic or inorganic compounds, e.g. inorganic polyphosphates</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K47/36</span>—<span itemprop="Description">Polysaccharides; Derivatives thereof, e.g. gums, starch, alginate, dextrin, hyaluronic acid, chitosan, inulin, agar or pectin</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K47/40</span>—<span itemprop="Description">Cyclodextrins; Derivatives thereof</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K</span>—<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K47/00</span>—<span itemprop="Description">Medicinal preparations characterised by the non-active ingredients used, e.g. carriers or inert additives; Targeting or modifying agents chemically bound to the active ingredient</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K47/50</span>—<span itemprop="Description">Medicinal preparations characterised by the non-active ingredients used, e.g. carriers or inert additives; Targeting or modifying agents chemically bound to the active ingredient the non-active ingredient being chemically bound to the active ingredient, e.g. polymer-drug conjugates</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K47/69</span>—<span itemprop="Description">Medicinal preparations characterised by the non-active ingredients used, e.g. carriers or inert additives; Targeting or modifying agents chemically bound to the active ingredient the non-active ingredient being chemically bound to the active ingredient, e.g. polymer-drug conjugates the conjugate being characterised by physical or galenical forms, e.g. emulsion, particle, inclusion complex, stent or kit</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K47/6949</span>—<span itemprop="Description">Medicinal preparations characterised by the non-active ingredients used, e.g. carriers or inert additives; Targeting or modifying agents chemically bound to the active ingredient the non-active ingredient being chemically bound to the active ingredient, e.g. polymer-drug conjugates the conjugate being characterised by physical or galenical forms, e.g. emulsion, particle, inclusion complex, stent or kit inclusion complexes, e.g. clathrates, cavitates or fullerenes</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K47/6951</span>—<span itemprop="Description">Medicinal preparations characterised by the non-active ingredients used, e.g. carriers or inert additives; Targeting or modifying agents chemically bound to the active ingredient the non-active ingredient being chemically bound to the active ingredient, e.g. polymer-drug conjugates the conjugate being characterised by physical or galenical forms, e.g. emulsion, particle, inclusion complex, stent or kit inclusion complexes, e.g. clathrates, cavitates or fullerenes using cyclodextrin</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K</span>—<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K9/00</span>—<span itemprop="Description">Medicinal preparations characterised by special physical form</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61K9/08</span>—<span itemprop="Description">Solutions</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P</span>—<span itemprop="Description">SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P25/00</span>—<span itemprop="Description">Drugs for disorders of the nervous system</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P25/08</span>—<span itemprop="Description">Antiepileptics; Anticonvulsants</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P</span>—<span itemprop="Description">SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P25/00</span>—<span itemprop="Description">Drugs for disorders of the nervous system</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P25/14</span>—<span itemprop="Description">Drugs for disorders of the nervous system for treating abnormal movements, e.g. chorea, dyskinesia</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+<li>
+<ul itemprop="classifications" itemscope="" repeat="">
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A</span>—<span itemprop="Description">HUMAN NECESSITIES</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61</span>—<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P</span>—<span itemprop="Description">SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P25/00</span>—<span itemprop="Description">Drugs for disorders of the nervous system</span>
+<meta content="true" itemprop="IsCPC"/>
+</li>
+<li itemprop="classifications" itemscope="" repeat="">
+<span itemprop="Code">A61P25/28</span>—<span itemprop="Description">Drugs for disorders of the nervous system for treating neurodegenerative disorders of the central nervous system, e.g. nootropic agents, cognition enhancers, drugs for treating Alzheimer's disease or other forms of dementia</span>
+<meta content="true" itemprop="Leaf"/><meta content="true" itemprop="IsCPC"/>
+</li>
+</ul>
+</li>
+</ul>
+</section>
+<section>
+<h2>Landscapes</h2>
+<ul>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Health &amp; Medical Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Chemical &amp; Material Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Medicinal Chemistry</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Pharmacology &amp; Pharmacy</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Life Sciences &amp; Earth Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Animal Behavior &amp; Ethology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">General Health &amp; Medical Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Public Health</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Veterinary Medicine</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Epidemiology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Bioinformatics &amp; Cheminformatics</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Engineering &amp; Computer Science</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Neurosurgery</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Biomedical Technology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Neurology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Organic Chemistry</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Chemical Kinetics &amp; Catalysis</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">General Chemical &amp; Material Sciences</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Nuclear Medicine, Radiotherapy &amp; Molecular Imaging</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Otolaryngology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Pain &amp; Pain Management</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Psychology</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Hospice &amp; Palliative Care</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Psychiatry</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Inorganic Chemistry</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Pharmaceuticals Containing Other Organic And Inorganic Compounds</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+<li itemprop="landscapes" itemscope="" repeat="">
+<span itemprop="name">Medicinal Preparation</span>
+        (<span itemprop="type">AREA</span>)
+      </li>
+</ul>
+</section>
+<section itemprop="application" itemscope="">
+<section itemprop="metadata" itemscope="">
+<span itemprop="applicationNumber">EP20784931.6A</span>
+<span itemprop="priorityDate">2019-04-05</span>
+<span itemprop="filingDate">2020-04-06</span>
+<span itemprop="title">Allopregnanolone compositions and uses thereof 
+       </span>
+<span itemprop="ifiStatus">Pending</span>
+<a href="/patent/EP3946358A4/en">
+<span itemprop="representativePublication">EP3946358A4</span>
+        (<span itemprop="primaryLanguage">en</span>)
+      </a>
+</section>
+<h2>Applications Claiming Priority (3)</h2>
+<table>
+<thead>
+<tr>
+<th>Application Number</th>
+<th>Priority Date</th>
+<th>Filing Date</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="appsClaimingPriority" itemscope="" repeat="">
+<td>
+<span itemprop="applicationNumber">US201962830012P</span>
+</td>
+<td itemprop="priorityDate">2019-04-05</td>
+<td itemprop="filingDate">2019-04-05</td>
+<td itemprop="title"></td>
+</tr>
+<tr itemprop="appsClaimingPriority" itemscope="" repeat="">
+<td>
+<span itemprop="applicationNumber">US201962831877P</span>
+</td>
+<td itemprop="priorityDate">2019-04-10</td>
+<td itemprop="filingDate">2019-04-10</td>
+<td itemprop="title"></td>
+</tr>
+<tr itemprop="appsClaimingPriority" itemscope="" repeat="">
+<td>
+<span itemprop="applicationNumber">PCT/US2020/026955</span>
+<a href="/patent/WO2020206462A1/en">
+<span itemprop="representativePublication">WO2020206462A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="priorityDate">2019-04-05</td>
+<td itemprop="filingDate">2020-04-06</td>
+<td itemprop="title">Allopregnanolone compositions and uses thereof 
+       </td>
+</tr>
+</tbody>
+</table>
+<h2>Publications (2)</h2>
+<table>
+<thead>
+<tr>
+<th>Publication Number</th>
+<th>Publication Date</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="pubs" itemscope="" repeat="">
+<td>
+<span itemprop="publicationNumber">EP3946358A1</span>
+<a href="/patent/EP3946358A1/en">
+              EP3946358A1
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2022-02-09</td>
+</tr>
+<tr itemprop="pubs" itemscope="" repeat="">
+<td>
+<span itemprop="publicationNumber">EP3946358A4</span>
+<span itemprop="thisPatent">true</span>
+<a href="/patent/EP3946358A4/en">
+              EP3946358A4
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2022-12-28</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section itemprop="family" itemscope="">
+<h1>Family</h1>
+<h2>ID=72667397</h2>
+<h2>Family Applications (1)</h2>
+<table>
+<thead>
+<tr>
+<th>Application Number</th>
+<th>Title</th>
+<th>Priority Date</th>
+<th>Filing Date</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="applications" itemscope="" repeat="">
+<td>
+<span itemprop="applicationNumber">EP20784931.6A</span>
+<span itemprop="ifiStatus">Pending</span>
+<a href="/patent/EP3946358A4/en">
+<span itemprop="representativePublication">EP3946358A4</span>
+                (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="priorityDate">2019-04-05</td>
+<td itemprop="filingDate">2020-04-06</td>
+<td itemprop="title">Allopregnanolone compositions and uses thereof 
+       </td>
+</tr>
+</tbody>
+</table>
+<h2>Country Status (4)</h2>
+<table>
+<thead>
+<tr>
+<th>Country</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">US</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/US20220202832A1/en">
+<span itemprop="representativePublication">US20220202832A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">EP</span>
+            (<span itemprop="num">1</span>)
+            <meta content="true" itemprop="thisCountry"/>
+</td>
+<td>
+<a href="/patent/EP3946358A4/en">
+<span itemprop="representativePublication">EP3946358A4</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">CA</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/CA3136389A1/en">
+<span itemprop="representativePublication">CA3136389A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+<tr itemprop="countryStatus" itemscope="" repeat="">
+<td>
+<span itemprop="countryCode">WO</span>
+            (<span itemprop="num">1</span>)
+            
+          </td>
+<td>
+<a href="/patent/WO2020206462A1/en">
+<span itemprop="representativePublication">WO2020206462A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Families Citing this family (6)</h2>
+<table>
+<caption>* Cited by examiner, † Cited by third party</caption>
+<thead>
+<tr>
+<th>Publication number</th>
+<th>Priority date</th>
+<th>Publication date</th>
+<th>Assignee</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="forwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/EP3965772A4/en">
+<span itemprop="publicationNumber">EP3965772A4</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="priorityDate">2019-05-10</td>
+<td itemprop="publicationDate">2023-05-10</td>
+<td><span itemprop="assigneeOriginal">Brii Biosciences, Inc.</span></td>
+<td itemprop="title">
+        PHARMACEUTICAL COMPOSITION WITH BREXANOLON, GANAXOLONE OR ZURANOLON AND USE THEREOF
+       
+       </td>
+</tr>
+<tr itemprop="forwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/JP2023539567A/en">
+<span itemprop="publicationNumber">JP2023539567A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2020-08-17</td>
+<td itemprop="publicationDate">2023-09-15</td>
+<td><span itemprop="assigneeOriginal">ブリー バイオサイエンシーズ， インコーポレイテッド</span></td>
+<td itemprop="title">
+        Pharmaceutical compositions containing neuroactive steroids and uses thereof
+       
+     </td>
+</tr>
+<tr itemprop="forwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/EP4313061A4/en">
+<span itemprop="publicationNumber">EP4313061A4</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2021-03-31</td>
+<td itemprop="publicationDate">2025-03-05</td>
+<td><span itemprop="assigneeOriginal">The Board of Trustees of the Leland Stanford Junior University</span></td>
+<td itemprop="title">
+        FORMULATIONS TO PROLONG GESTATION AND AGAINST MENSTRUAL OR GESTATIONAL COMPLICATIONS
+       
+       </td>
+</tr>
+<tr itemprop="forwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/US11969434B1/en">
+<span itemprop="publicationNumber">US11969434B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2022-08-29</td>
+<td itemprop="publicationDate">2024-04-30</td>
+<td><span itemprop="assigneeOriginal">Lipocine Inc.</span></td>
+<td itemprop="title">Oral allopregnanolone compositions and methods of use 
+       </td>
+</tr>
+<tr itemprop="forwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/US12186327B2/en">
+<span itemprop="publicationNumber">US12186327B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="priorityDate">2022-08-29</td>
+<td itemprop="publicationDate">2025-01-07</td>
+<td><span itemprop="assigneeOriginal">Lipocine Inc.</span></td>
+<td itemprop="title">Oral allopregnanolone compositions and methods of use 
+       </td>
+</tr>
+<tr itemprop="forwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/WO2025067365A1/en">
+<span itemprop="publicationNumber">WO2025067365A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2023-09-27</td>
+<td itemprop="publicationDate">2025-04-03</td>
+<td><span itemprop="assigneeOriginal">南京迈诺威医药科技有限公司</span></td>
+<td itemprop="title">Pharmaceutical composition comprising allopregnanolone derivative and use thereof 
+       </td>
+</tr>
+</tbody>
+</table>
+<h2>Citations (4)</h2>
+<table>
+<caption>* Cited by examiner, † Cited by third party</caption>
+<thead>
+<tr>
+<th>Publication number</th>
+<th>Priority date</th>
+<th>Publication date</th>
+<th>Assignee</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="backwardReferencesOrig" itemscope="" repeat="">
+<td>
+<a href="/patent/US20100204192A1/en">
+<span itemprop="publicationNumber">US20100204192A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2007-06-11</td>
+<td itemprop="publicationDate">2010-08-12</td>
+<td>
+<span itemprop="assigneeOriginal">University Of Sourthern California</span>
+</td>
+<td itemprop="title">Agents, compositions and methods for enhancing neurological function 
+       </td>
+</tr>
+<tr itemprop="backwardReferencesOrig" itemscope="" repeat="">
+<td>
+<a href="/patent/WO2011087441A1/en">
+<span itemprop="publicationNumber">WO2011087441A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2010-01-14</td>
+<td itemprop="publicationDate">2011-07-21</td>
+<td>
+<span itemprop="assigneeOriginal">Umecrine Mood Ab</span>
+</td>
+<td itemprop="title">A pharmaceutical composition comprising 3-beta-hydroxy-5-alpha-pregnan-20-one with improved storage and solubility properties 
+       </td>
+</tr>
+<tr itemprop="backwardReferencesOrig" itemscope="" repeat="">
+<td>
+<a href="/patent/WO2013043985A1/en">
+<span itemprop="publicationNumber">WO2013043985A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2011-09-23</td>
+<td itemprop="publicationDate">2013-03-28</td>
+<td>
+<span itemprop="assigneeOriginal">The Regents Of The University Of California</span>
+</td>
+<td itemprop="title">Edible oils to enhance delivery of orally administered steroids 
+       </td>
+</tr>
+<tr itemprop="backwardReferencesOrig" itemscope="" repeat="">
+<td>
+<a href="/patent/WO2014085668A1/en">
+<span itemprop="publicationNumber">WO2014085668A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2012-11-30</td>
+<td itemprop="publicationDate">2014-06-05</td>
+<td>
+<span itemprop="assigneeOriginal">The Regents Of The University Of California</span>
+</td>
+<td itemprop="title">Anticonvulsant activity of steroids 
+       </td>
+</tr>
+</tbody>
+</table>
+<h2>Family Cites Families (1)</h2>
+<table>
+<caption>* Cited by examiner, † Cited by third party</caption>
+<thead>
+<tr>
+<th>Publication number</th>
+<th>Priority date</th>
+<th>Publication date</th>
+<th>Assignee</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="backwardReferencesFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/WO2013112605A2/en">
+<span itemprop="publicationNumber">WO2013112605A2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2012-01-23</td>
+<td itemprop="publicationDate">2013-08-01</td>
+<td><span itemprop="assigneeOriginal">Sage Therapeutics, Inc.</span></td>
+<td itemprop="title">Neuroactive steroid formulations and methods of treating cns disorders 
+       </td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li itemprop="applicationsByYear" itemscope="" repeat="">
+<span itemprop="year">2020</span>
+<ul>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2020-04-06</span>
+<span itemprop="countryCode">CA</span>
+<span itemprop="applicationNumber">CA3136389A</span>
+<a href="/patent/CA3136389A1/en"><span itemprop="documentId">patent/CA3136389A1/en</span></a>
+<span itemprop="legalStatusCat">active</span>
+<span itemprop="legalStatus">Pending</span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2020-04-06</span>
+<span itemprop="countryCode">WO</span>
+<span itemprop="applicationNumber">PCT/US2020/026955</span>
+<a href="/patent/WO2020206462A1/en"><span itemprop="documentId">patent/WO2020206462A1/en</span></a>
+<span itemprop="legalStatusCat">unknown</span>
+<span itemprop="legalStatus"></span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2020-04-06</span>
+<span itemprop="countryCode">EP</span>
+<span itemprop="applicationNumber">EP20784931.6A</span>
+<a href="/patent/EP3946358A4/en"><span itemprop="documentId">patent/EP3946358A4/en</span></a>
+<span itemprop="legalStatusCat">active</span>
+<span itemprop="legalStatus">Pending</span>
+<span bool="" content="true" itemprop="thisApp"></span>
+</li>
+<li itemprop="application" itemscope="" repeat="">
+<span itemprop="filingDate">2020-04-06</span>
+<span itemprop="countryCode">US</span>
+<span itemprop="applicationNumber">US17/601,705</span>
+<a href="/patent/US20220202832A1/en"><span itemprop="documentId">patent/US20220202832A1/en</span></a>
+<span itemprop="legalStatusCat">active</span>
+<span itemprop="legalStatus">Pending</span>
+</li>
+</ul>
+</li>
+</ul>
+</section>
+<section>
+<h2>Patent Citations (4)</h2>
+<table>
+<caption>* Cited by examiner, † Cited by third party</caption>
+<thead>
+<tr>
+<th>Publication number</th>
+<th>Priority date</th>
+<th>Publication date</th>
+<th>Assignee</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="backwardReferences" itemscope="" repeat="">
+<td>
+<a href="/patent/US20100204192A1/en">
+<span itemprop="publicationNumber">US20100204192A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2007-06-11</td>
+<td itemprop="publicationDate">2010-08-12</td>
+<td><span itemprop="assigneeOriginal">University Of Sourthern California</span></td>
+<td itemprop="title">Agents, compositions and methods for enhancing neurological function 
+       </td>
+</tr>
+<tr itemprop="backwardReferences" itemscope="" repeat="">
+<td>
+<a href="/patent/WO2011087441A1/en">
+<span itemprop="publicationNumber">WO2011087441A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2010-01-14</td>
+<td itemprop="publicationDate">2011-07-21</td>
+<td><span itemprop="assigneeOriginal">Umecrine Mood Ab</span></td>
+<td itemprop="title">A pharmaceutical composition comprising 3-beta-hydroxy-5-alpha-pregnan-20-one with improved storage and solubility properties 
+       </td>
+</tr>
+<tr itemprop="backwardReferences" itemscope="" repeat="">
+<td>
+<a href="/patent/WO2013043985A1/en">
+<span itemprop="publicationNumber">WO2013043985A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2011-09-23</td>
+<td itemprop="publicationDate">2013-03-28</td>
+<td><span itemprop="assigneeOriginal">The Regents Of The University Of California</span></td>
+<td itemprop="title">Edible oils to enhance delivery of orally administered steroids 
+       </td>
+</tr>
+<tr itemprop="backwardReferences" itemscope="" repeat="">
+<td>
+<a href="/patent/WO2014085668A1/en">
+<span itemprop="publicationNumber">WO2014085668A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+<span itemprop="examinerCited">*</span>
+</td>
+<td itemprop="priorityDate">2012-11-30</td>
+<td itemprop="publicationDate">2014-06-05</td>
+<td><span itemprop="assigneeOriginal">The Regents Of The University Of California</span></td>
+<td itemprop="title">Anticonvulsant activity of steroids 
+       </td>
+</tr>
+</tbody>
+</table>
+</section>
+<section>
+<h2>Non-Patent Citations (5)</h2>
+<table>
+<caption>* Cited by examiner, † Cited by third party</caption>
+<thead>
+<tr>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="detailedNonPatentLiterature" itemscope="" repeat="">
+<td>
+<span itemprop="title">CAROLINE COISNE ET AL: "<a href='http://scholar.google.com/scholar?q="Cyclodextrins+as+Emerging+Therapeutic+Tools+in+the+Treatment+of+Cholesterol-Associated+Vascular+and+Neurodegenerative+Diseases"'>Cyclodextrins as Emerging Therapeutic Tools in the Treatment of Cholesterol-Associated Vascular and Neurodegenerative Diseases</a>", MOLECULES, vol. 21, no. 12, 20 December 2016 (2016-12-20), pages 1748 - 1, XP055548026, DOI: 10.3390/molecules21121748</span>
+<span itemprop="examinerCited">*</span>
+</td>
+</tr>
+<tr itemprop="detailedNonPatentLiterature" itemscope="" repeat="">
+<td>
+<span itemprop="title">GUENNOUN RACHIDA ET AL: "<a href='http://scholar.google.com/scholar?q="Intranasal+administration+of+progesterone%3A+A+potential+efficient+route+of+delivery+for+cerebroprotection+after+acute+brain+injuries"'>Intranasal administration of progesterone: A potential efficient route of delivery for cerebroprotection after acute brain injuries</a>", NEUROPHARMACOLOGY, ELSEVIER, AMSTERDAM, NL, vol. 145, 6 June 2018 (2018-06-06), pages 283 - 291, XP085560420, ISSN: 0028-3908, DOI: 10.1016/J.NEUROPHARM.2018.06.006</span>
+<span itemprop="examinerCited">*</span>
+</td>
+</tr>
+<tr itemprop="detailedNonPatentLiterature" itemscope="" repeat="">
+<td>
+<span itemprop="title">RONALD W. IRWIN ET AL: "<a href='http://scholar.google.com/scholar?q="Allopregnanolone+Preclinical+Acute+Pharmacokinetic+and+Pharmacodynamic+Studies+to+Predict+Tolerability+and+Efficacy+for+Alzheimer%3Fs+Disease"'>Allopregnanolone Preclinical Acute Pharmacokinetic and Pharmacodynamic Studies to Predict Tolerability and Efficacy for Alzheimer?s Disease</a>", PLOS ONE, vol. 10, no. 6, 3 June 2015 (2015-06-03), pages e0128313, XP055562355, DOI: 10.1371/journal.pone.0128313</span>
+<span itemprop="examinerCited">*</span>
+</td>
+</tr>
+<tr itemprop="detailedNonPatentLiterature" itemscope="" repeat="">
+<td>
+<span itemprop="title">See also references of <a href="/patent/WO2020206462A1#nplCitations">WO2020206462A1</a></span>
+<span itemprop="examinerCited">*</span>
+</td>
+</tr>
+<tr itemprop="detailedNonPatentLiterature" itemscope="" repeat="">
+<td>
+<span itemprop="title">ZOLKOWSKA DOROTA ET AL: "<a href='http://scholar.google.com/scholar?q="Efficacy+of+Intranasal+Allopregnanolone+in+a+Mouse+Seizure+Model"'>Efficacy of Intranasal Allopregnanolone in a Mouse Seizure Model</a>", EPILEPSY AND BEHAVIOR, ACADEMIC PRESS, SAN DIEGO, CA, US, vol. 101, 1 December 2019 (2019-12-01), XP085990494, ISSN: 1525-5050, [retrieved on 20200102], DOI: 10.1016/J.YEBEH.2019.08.013</span>
+<span itemprop="examinerCited">*</span>
+</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section>
+<h2>Also Published As</h2>
+<table>
+<thead>
+<tr>
+<th>Publication number</th>
+<th>Publication date</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/US20220202832A1/en">
+<span itemprop="publicationNumber">US20220202832A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2022-06-30</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/WO2020206462A1/en">
+<span itemprop="publicationNumber">WO2020206462A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2020-10-08</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/CA3136389A1/en">
+<span itemprop="publicationNumber">CA3136389A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2020-10-08</td>
+</tr>
+<tr itemprop="docdbFamily" itemscope="" repeat="">
+<td>
+<a href="/patent/EP3946358A1/en">
+<span itemprop="publicationNumber">EP3946358A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+</td>
+<td itemprop="publicationDate">2022-02-09</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section>
+<h2>Similar Documents</h2>
+<table>
+<thead>
+<tr>
+<th>Publication</th>
+<th>Publication Date</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/EP3946465A4/en">
+<span itemprop="publicationNumber">EP3946465A4</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2023-01-11" itemprop="publicationDate">2023-01-11</time>
+</td>
+<td itemprop="title">Immunotherapeutic compositions and use thereof 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/EP3946358A4/en">
+<span itemprop="publicationNumber">EP3946358A4</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2022-12-28" itemprop="publicationDate">2022-12-28</time>
+</td>
+<td itemprop="title">Allopregnanolone compositions and uses thereof 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/EP3843729A4/en">
+<span itemprop="publicationNumber">EP3843729A4</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2022-06-01" itemprop="publicationDate">2022-06-01</time>
+</td>
+<td itemprop="title">Novel compositions and methods 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/EP3982980A4/en">
+<span itemprop="publicationNumber">EP3982980A4</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2023-11-29" itemprop="publicationDate">2023-11-29</time>
+</td>
+<td itemprop="title">Neoantigen compositions and uses thereof 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/EP3808357A4/en">
+<span itemprop="publicationNumber">EP3808357A4</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2022-02-16" itemprop="publicationDate">2022-02-16</time>
+</td>
+<td itemprop="title">Composition and uses thereof 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/EP4181941A4/en">
+<span itemprop="publicationNumber">EP4181941A4</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2024-05-01" itemprop="publicationDate">2024-05-01</time>
+</td>
+<td itemprop="title">Compositions and uses thereof 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/EP3917320A4/en">
+<span itemprop="publicationNumber">EP3917320A4</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2022-11-09" itemprop="publicationDate">2022-11-09</time>
+</td>
+<td itemprop="title">Bacterialcidal methods and compositions 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/EP4054637A4/en">
+<span itemprop="publicationNumber">EP4054637A4</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2023-12-20" itemprop="publicationDate">2023-12-20</time>
+</td>
+<td itemprop="title">Carotenoid compositions and uses thereof 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/EP3919612A4/en">
+<span itemprop="publicationNumber">EP3919612A4</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2022-11-30" itemprop="publicationDate">2022-11-30</time>
+</td>
+<td itemprop="title">Composition and application thereof 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/EP3820996A4/en">
+<span itemprop="publicationNumber">EP3820996A4</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2022-04-27" itemprop="publicationDate">2022-04-27</time>
+</td>
+<td itemprop="title">Haloperoxidase compositions and uses thereof 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/AU2019904921A0/en">
+<span itemprop="publicationNumber">AU2019904921A0</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2020-01-16" itemprop="publicationDate">2020-01-16</time>
+</td>
+<td itemprop="title">Compositions and uses thereof 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/AU2019904920A0/en">
+<span itemprop="publicationNumber">AU2019904920A0</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2020-01-16" itemprop="publicationDate">2020-01-16</time>
+</td>
+<td itemprop="title">Compositions and uses thereof 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/AU2019904813A0/en">
+<span itemprop="publicationNumber">AU2019904813A0</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2020-01-16" itemprop="publicationDate">2020-01-16</time>
+</td>
+<td itemprop="title">Compositions and uses thereof 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/AU2019903417A0/en">
+<span itemprop="publicationNumber">AU2019903417A0</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2019-10-03" itemprop="publicationDate">2019-10-03</time>
+</td>
+<td itemprop="title">Compositions and uses thereof 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/HK40072777A/en">
+<span itemprop="publicationNumber">HK40072777A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2022-12-02" itemprop="publicationDate">2022-12-02</time>
+</td>
+<td itemprop="title">Neuroactive steroids and compositions thereof 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/AU2019903692A0/en">
+<span itemprop="publicationNumber">AU2019903692A0</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2019-10-17" itemprop="publicationDate">2019-10-17</time>
+</td>
+<td itemprop="title">Composition and uses thereof 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/HK40049539A/en">
+<span itemprop="publicationNumber">HK40049539A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2021-12-17" itemprop="publicationDate">2021-12-17</time>
+</td>
+<td itemprop="title">Senolytic compositions and uses thereof 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/HK40048040A/en">
+<span itemprop="publicationNumber">HK40048040A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2021-11-26" itemprop="publicationDate">2021-11-26</time>
+</td>
+<td itemprop="title">Fusosome compositions and uses thereof 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/HK40045690A/en">
+<span itemprop="publicationNumber">HK40045690A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2021-10-22" itemprop="publicationDate">2021-10-22</time>
+</td>
+<td itemprop="title">Fusosome compositions and uses thereof 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/HK40076659A/en">
+<span itemprop="publicationNumber">HK40076659A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2023-02-17" itemprop="publicationDate">2023-02-17</time>
+</td>
+<td itemprop="title">Biopharmacuetical compositions and related methods 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/HK40044873A/en">
+<span itemprop="publicationNumber">HK40044873A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2021-10-08" itemprop="publicationDate">2021-10-08</time>
+</td>
+<td itemprop="title">Erenumab compositions and uses thereof 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/HK40105651A/en">
+<span itemprop="publicationNumber">HK40105651A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2024-08-16" itemprop="publicationDate">2024-08-16</time>
+</td>
+<td itemprop="title">Anti-siglec compositions and uses thereof 
+       </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/AU2019904455A0/en">
+<span itemprop="publicationNumber">AU2019904455A0</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2019-12-12" itemprop="publicationDate">2019-12-12</time>
+</td>
+<td itemprop="title">Compositions and methods 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/AU2021902682A0/en">
+<span itemprop="publicationNumber">AU2021902682A0</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2021-09-09" itemprop="publicationDate">2021-09-09</time>
+</td>
+<td itemprop="title">Compositions and uses thereof 
+     </td>
+</tr>
+<tr itemprop="similarDocuments" itemscope="" repeat="">
+<td>
+<meta content="true" itemprop="isPatent"/>
+<a href="/patent/AU2021902267A0/en">
+<span itemprop="publicationNumber">AU2021902267A0</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+</td>
+<td>
+<time datetime="2021-08-05" itemprop="publicationDate">2021-08-05</time>
+</td>
+<td itemprop="title">Compositions and uses thereof 
+     </td>
+</tr>
+</tbody>
+</table>
+</section>
+<section>
+<h2>Legal Events</h2>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Code</th>
+<th>Title</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2020-10-09" itemprop="date">2020-10-09</time></td>
+<td itemprop="code">STAA</td>
+<td itemprop="title">Information on the status of an ep patent application or granted ep patent</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2022-01-07" itemprop="date">2022-01-07</time></td>
+<td itemprop="code">PUAI</td>
+<td itemprop="title">Public reference made under article 153(3) epc to a published international application that has entered the european phase</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">ORIGINAL CODE: 0009012</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2022-01-07" itemprop="date">2022-01-07</time></td>
+<td itemprop="code">STAA</td>
+<td itemprop="title">Information on the status of an ep patent application or granted ep patent</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">STATUS: REQUEST FOR EXAMINATION WAS MADE</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2022-02-09" itemprop="date">2022-02-09</time></td>
+<td itemprop="code">17P</td>
+<td itemprop="title">Request for examination filed</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20211014</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2022-02-09" itemprop="date">2022-02-09</time></td>
+<td itemprop="code">AK</td>
+<td itemprop="title">Designated contracting states</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Kind code of ref document</strong>:
+              <span itemprop="value">A1</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Designated state(s)</strong>:
+              <span itemprop="value">AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2022-07-13" itemprop="date">2022-07-13</time></td>
+<td itemprop="code">DAV</td>
+<td itemprop="title">Request for validation of the european patent (deleted)</td>
+<td>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2022-07-13" itemprop="date">2022-07-13</time></td>
+<td itemprop="code">DAX</td>
+<td itemprop="title">Request for extension of the european patent (deleted)</td>
+<td>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2022-11-18" itemprop="date">2022-11-18</time></td>
+<td itemprop="code">REG</td>
+<td itemprop="title">Reference to a national code</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref country code</strong>:
+              <span itemprop="value">DE</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ref legal event code</strong>:
+              <span itemprop="value">R079</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">PREVIOUS MAIN CLASS: A61K0031560000</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ipc</strong>:
+              <span itemprop="value">A61K0031570000</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2022-12-28" itemprop="date">2022-12-28</time></td>
+<td itemprop="code">A4</td>
+<td itemprop="title">Supplementary search report drawn up and despatched</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20221124</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2022-12-28" itemprop="date">2022-12-28</time></td>
+<td itemprop="code">RIC1</td>
+<td itemprop="title">Information provided on ipc code assigned before grant</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ipc</strong>:
+              <span itemprop="value">A61K   9/08        20060101ALI20221118BHEP</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ipc</strong>:
+              <span itemprop="value">A61P  25/00        20060101ALI20221118BHEP</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ipc</strong>:
+              <span itemprop="value">A61P  25/34        20060101ALI20221118BHEP</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ipc</strong>:
+              <span itemprop="value">A61P  25/32        20060101ALI20221118BHEP</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ipc</strong>:
+              <span itemprop="value">A61P  25/22        20060101ALI20221118BHEP</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ipc</strong>:
+              <span itemprop="value">A61P  25/08        20060101ALI20221118BHEP</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ipc</strong>:
+              <span itemprop="value">A61P  25/28        20060101ALI20221118BHEP</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ipc</strong>:
+              <span itemprop="value">A61K   9/12        20060101ALI20221118BHEP</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ipc</strong>:
+              <span itemprop="value">A61K  47/40        20060101ALI20221118BHEP</span>
+</p>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Ipc</strong>:
+              <span itemprop="value">A61K  31/57        20060101AFI20221118BHEP</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2025-04-04" itemprop="date">2025-04-04</time></td>
+<td itemprop="code">STAA</td>
+<td itemprop="title">Information on the status of an ep patent application or granted ep patent</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">STATUS: EXAMINATION IS IN PROGRESS</span>
+</p>
+</td>
+</tr>
+<tr itemprop="legalEvents" itemscope="" repeat="">
+<td><time datetime="2025-05-07" itemprop="date">2025-05-07</time></td>
+<td itemprop="code">17Q</td>
+<td itemprop="title">First examination report despatched</td>
+<td>
+<p itemprop="attributes" itemscope="" repeat="">
+<strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20250408</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</section>
+</article>
+</search-app>
+<script></script>
+<script src="//www.gstatic.com/feedback/api.js" type="text/javascript"></script>
+<script src="//www.gstatic.com/feedback/js/help/prod/service/lazy.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+      if (window.help && window.help.service) {
+        helpApi = window.help.service.Lazy.create(0, {apiKey: 'AIzaSyDTEI_0tLX4varJ7bwK8aT-eOI5qr3BmyI', locale: 'en-US'});
+        window.requestedSurveys = new Set();
+        window.requestSurvey = function(triggerId) {
+          if (window.requestedSurveys.has(triggerId)) {
+            return;
+          }
+          window.requestedSurveys.add(triggerId);
+          helpApi.requestSurvey({
+            triggerId: triggerId,
+            enableTestingMode: false,
+            callback: (requestSurveyCallbackParam) => {
+              if (!requestSurveyCallbackParam.surveyData) {
+                return;
+              }
+              helpApi.presentSurvey({
+                productData: {
+                  productVersion: window.version,
+                  customData: {
+                    "experiments": "",
+                  },
+                },
+                surveyData: requestSurveyCallbackParam.surveyData,
+                colorScheme: 1,
+                customZIndex: 10000,
+              });
+            }
+          });
+        };
+
+        window.requestSurvey('YXTwAsvoW0kedxbuTdH0RArc9VhT');
+      }
+    </script>
+<script src="/sw/null_loader.js"></script>
+</body>
+</html>
+

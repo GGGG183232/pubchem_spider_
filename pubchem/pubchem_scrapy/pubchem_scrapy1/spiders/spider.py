@@ -1,5 +1,4 @@
 """
-FDAJSON
 ***************************
 * PubChem 化合物 JSON + 2D/3D 数据爬取
 * 数据源: 本地 drug_catalogue.json
@@ -11,6 +10,7 @@ FDAJSON
 * 保存目录: E:\\PROJECT\\25_71_Robinagent\\pubchem_field\\{CID}\\
 ***************************
 """
+import pdb
 import scrapy
 import os
 import json
@@ -19,13 +19,22 @@ import patent_stil
 import pandas as pd
 import os
 import requests
-from datetime import datetime
-import csv
-
 # todo:???from spider.pubchem.pubchem_scrapy.spiders import settings
 # todo:???import settings
 
-def create_proxy_dict(proxy_str):  # 构建proxy
+
+
+def get_cid(name: str):
+    base_url = 'https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{}/property/CanonicalSMILES,title/JSON'
+    headers = {"content-type": "application/x-www-form-urlencoded"}
+    url = base_url.format(name)
+    res = requests.get(url, headers=headers)
+    data_dict = json.loads(res.text)
+    cid = data_dict['PropertyTable']['Properties'][0]["CID"]
+    smiles = data_dict['PropertyTable']['Properties'][0]["ConnectivitySMILES"]
+    return cid, smiles
+
+def create_proxy_dict(proxy_str):   # 构建proxy
     # Check if the input is a string and not empty
     if not isinstance(proxy_str, str) or not proxy_str.strip():
         logging.error("Input must be a non-empty string.")
@@ -41,10 +50,8 @@ def create_proxy_dict(proxy_str):  # 构建proxy
     }
 
     return proxy_dict
-
-
 class PubchemSpider(scrapy.Spider):
-    name = "FDAJSON"  # 用于调用，scrapy crawl pubchem爬取
+    name = "pubchem1"    # 用于调用，scrapy crawl pubchem爬取
     base_url_view = "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/{cid}/JSON/?response_type=save&response_basename=COMPOUND_CID_{cid}"
     base_url_2d = "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/CID/{cid}/record/JSON?record_type=2d&response_type=save&response_basename=Structure2D_COMPOUND_CID_{cid}"
     base_url_3d = "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/CID/{cid}/record/JSON?record_type=3d&response_type=save&response_basename=Conformer3D_COMPOUND_CID_{cid}"
@@ -55,42 +62,29 @@ class PubchemSpider(scrapy.Spider):
     logger.setLevel(logging.INFO)
 
     def __init__(self, json_path=None, output_root=None, *args, **kwargs):
+        print(114514)
         super(PubchemSpider, self).__init__(*args, **kwargs)
         # 默认的 drug_catalogue.json 路径
-        self.INPUT = r"E:\PROJECT\25_71_Robinagent\spider\pubchem\FDA_getcid\fda2cas.csv"
-        self.OUTPUT = r"E:\PROJECT\25_71_Robinagent\data_FDAJSON1"
-        self.log = r"E:\PROJECT\25_71_Robinagent\spider\pubchem\FDA_getcid\log"
-        current_time = datetime.now()
-        timestamp = current_time.strftime("%Y-%m-%d_%H-%M-%S")
-        filename = f'{timestamp}.csv'
+        self.INPUT = r"E:\PROJECT\25_71_Robinagent\spider\pubchem\pubchem_scrapy\pubchem_scrapy1\20250915_095558.csv"
+        self.OUTPUT = r"E:\PROJECT\25_71_Robinagent\data1"
         # todo:
         # self.INPUT = r"/data/spider/Goujinhe/drug_catalogue.json"
         # self.OUTPUT = r"/data/spider/Goujinhe/pubchem_json"
         self.crawl = {"basic_info": True, "2d": False, "3d": False, "patent": True, "paper": True}
-        self.json_path = self.INPUT
+        self.json_path = json_path or self.INPUT
         # 固定保存路径
-        self.output_root = output_root or self.OUTPUT
-        # 读取 JSON 文件，提取 pubchem_cid
+        self.cid_list = []
         df = pd.read_csv(self.INPUT)
-        drug_cids = df.iloc[:, 1]
-        cid_list = []
-        for drug_cid in drug_cids:
-            if pd.isna(drug_cid):
-                continue
-            else:
-                cid_list.append(str(int(drug_cid)))
-        self.cid_list = list(set(cid_list))
+        drug_name_column = df['drug_name']
+        for drug_name in drug_name_column:
+            cid = get_cid(drug_name)
+            self.cid_list.append(cid)
         self.logger.info(f"共加载 {len(self.cid_list)} 个 CID 来爬取 PubChem 数据")
-        header = [str(len(self.cid_list)), str(self.INPUT)]
-        self.filename = os.path.join(self.log, filename)
-        with open(os.path.join(self.log, filename), 'w', newline='', encoding='utf-8') as file:
-            writer = csv.writer(file)
-            writer.writerow(header)
 
     def start_requests(self):
         for cid in self.cid_list:
             self.logger.info(f"正在处理 CID: {cid}")
-            compound_dir = os.path.join(self.output_root, str(cid))
+            compound_dir = os.path.join(self.output_root, cid)
             os.makedirs(compound_dir, exist_ok=True)
 
             # 主 JSON
@@ -149,15 +143,12 @@ class PubchemSpider(scrapy.Spider):
             self.logger.info(f"CID {cid}{suffix} 的 JSON 数据已保存到 {json_path}")
         except Exception as e:
             self.logger.error(f"CID {cid}{suffix} 保存 JSON 失败: {e}")
-            data = ["FIELD_DOWNLOAD_FAIL", cid, json_path]
-            with open(self.filename, 'w', newline='', encoding='utf-8-sig') as file:
-                writer = csv.writer(file)
-                writer.writerows(data)
 
         yield {
             "cid": cid,
             "file": json_path
         }
+
 
     def save_file_patent(self, response):
         cid = response.meta['cid']
@@ -172,10 +163,8 @@ class PubchemSpider(scrapy.Spider):
             self.logger.info(f"CID 的 patent_csv 数据已保存到 {csv_path}")
         except Exception as e:
             self.logger.error(f"CID 保存 patent_csv 失败: {e}")
-            data = ["PATENT_DOWNLOAD_FAIL", cid, csv_path]
-            with open(self.filename, 'w', newline='', encoding='utf-8-sig') as file:
-                writer = csv.writer(file)
-                writer.writerows(data)
+
+
         try:
             df = pd.read_csv(csv_path)
             # 检查所需的列是否存在
@@ -186,46 +175,34 @@ class PubchemSpider(scrapy.Spider):
                 patent_info = {}  # 字典，键为专利号，值为专利名
                 patent_num = []  # 列表，只存专利号
                 # 遍历 DataFrame 的每一行
-
-
-                # todo:限制，每个药只爬10个专利
-                count = 0
                 for index, row in df.iterrows():
-                    if count > 11:
-                        break
-                    else:
-                        patent_number = str(row['publicationnumber']).replace("-", "")  # 获取专利号并移除破折号
-                        patent_title = str(row['title'])  # 获取专利名
-                        # 填充字典 patent_info
-                        patent_info[patent_number] = patent_title
-                        # 填充列表 patent_num
-                        patent_num.append(patent_number)
-                        count += 1
+                    patent_number = str(row['publicationnumber']).replace("-", "")  # 获取专利号并移除破折号
+                    patent_title = str(row['title'])  # 获取专利名
+                    # 填充字典 patent_info
+                    patent_info[patent_number] = patent_title
+                    # 填充列表 patent_num
+                    patent_num.append(patent_number)
                 print("专利信息字典 (patent_info):")
                 # print(patent_info)
                 print("\n专利号列表 (patent_num):")
-                print("patent_num=" + str(len(patent_num)))
+                # print(patent_num)
         except Exception as e:
             print(f"处理文件时发生错误: {e}")
         for patent in patent_num:
-            # res1 = requests.get(
-            #     r"https://www.kookeey.com/pickdynamicips?auth=ip&n=1&p=http&g=US&type=txt&sign=5ab92996e5458b42946b3196ac952b05&accessid=8966104&dl=\r\n")
+            res1 = requests.get(
+                r"https://www.kookeey.com/pickdynamicips?auth=ip&n=1&p=http&g=US&type=txt&sign=5ab92996e5458b42946b3196ac952b05&accessid=8966104&dl=\r\n")
             # print(res1.text)
+            res = patent_stil.getGooglePatentInfo(patent, language="auto", proxies=create_proxy_dict(res1.text))
+            # 下载PDF，通过res.pdf_url获取专利地址，并且下载。
+            pdf_path = os.path.join(r"E:\PROJECT\25_71_Robinagent\mypack", f"{patent}.pdf")
+            patent_stil.downloadGooglePdf(res.pdf_url, save_path=os.path.join(os.path.join(compound_dir, "patent"),f"{res.title}.pdf"))
 
             try:
-
-                res = patent_stil.getGooglePatentInfo(patent, language="auto")# , proxies=create_proxy_dict(res1.text))
-                # 下载PDF，通过res.pdf_url获取专利地址，并且下载。
-                pdf_path = os.path.join(r"E:\PROJECT\25_71_Robinagent\mypack", f"{patent}.pdf")
-                patent_stil.downloadGooglePdf(res.pdf_url, save_path=os.path.join(os.path.join(compound_dir, "patent"),
-                                                                                  f"{res.title}.pdf"))
-
-
                 # 获取专利信息。如果失败，res 可能会是 None
                 res = patent_stil.getGooglePatentInfo(
                     patent,
                     language="auto",
-                    # todo:proxies=create_proxy_dict(res1.text)
+                    proxies=create_proxy_dict(res1.text)
                 )
 
                 # 检查 res 是否为 None。如果为 None，则会触发下面的 except 块
@@ -244,10 +221,7 @@ class PubchemSpider(scrapy.Spider):
             except Exception as e:
                 # 如果 res 为 None，或者在处理过程中发生其他错误，这个 except 块会被执行
                 print(f"res = {patent} 下载失败: {e}")
-                data = ["PATENT_DOWNLOAD_FAIL", cid, os.path.join(os.path.join(compound_dir, "patent"), f"{res.title}.pdf")]
-                with open(self.filename, 'w', newline='', encoding='utf-8-sig') as file:
-                    writer = csv.writer(file)
-                    writer.writerows(data)
+
 
 
         yield {
@@ -267,5 +241,7 @@ class PubchemSpider(scrapy.Spider):
             self.logger.info(f"CID 的 paper_csv 数据已保存到 {csv_path}")
         except Exception as e:
             self.logger.error(f"CID 保存 paper_csv 失败: {e}")
+
+
 
         pass

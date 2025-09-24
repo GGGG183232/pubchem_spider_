@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="030b2d8e-6b84-4718-9197-77fe703ac6ca" name="更改" comment="" />
+    <list default="true" id="030b2d8e-6b84-4718-9197-77fe703ac6ca" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubchem/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubchem/pubchem_scrapy/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubchem/pubchem_scrapy/pubchem_scrapy1/FDA_getcid/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubchem/pubchem_scrapy/pubchem_scrapy1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubchem/pubchem_scrapy/pubchem_scrapy1/analyse_paper_source/Statistical journal sources.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubchem/pubchem_scrapy/pubchem_scrapy1/analyse_paper_source/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubchem/pubchem_scrapy/pubchem_scrapy1/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubchem/pubchem_scrapy/pubchem_scrapy1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubchem/pubchem_scrapy/pubchem_scrapy1/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubchem/pubchem_scrapy/pubchem_scrapy1/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubchem/pubchem_scrapy/pubchem_scrapy1/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubchem/pubchem_scrapy/pubchem_scrapy1/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubchem/pubchem_scrapy/pubchem_scrapy1/spiders/spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubchem/drug_cataloge/drug_catalogue.py" beforeDir="false" afterPath="$PROJECT_DIR$/pubchem/drug_cataloge/drug_catalogue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubchem/pubchem_scrapy/pubchem_scrapy/spiders/spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/pubchem/pubchem_scrapy/pubchem_scrapy/spiders/spider.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/2025spider",
+    "last_opened_file_path": "E:/PROJECT/25_71_Robinagent",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -37,6 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1755952128375</updated>
       <workItem from="1755952129556" duration="32000" />
+      <workItem from="1758609219044" duration="97000" />
     </task>
     <servers />
   </component>

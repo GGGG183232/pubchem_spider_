@@ -1,5 +1,5 @@
 """
-FDAJSON
+FDACSV
 ***************************
 * PubChem 化合物 JSON + 2D/3D 数据爬取
 * 数据源: 本地 drug_catalogue.json
@@ -19,8 +19,7 @@ import patent_stil
 import pandas as pd
 import os
 import requests
-from datetime import datetime
-import csv
+
 
 # todo:???from spider.pubchem.pubchem_scrapy.spiders import settings
 # todo:???import settings
@@ -44,7 +43,7 @@ def create_proxy_dict(proxy_str):  # 构建proxy
 
 
 class PubchemSpider(scrapy.Spider):
-    name = "FDAJSON"  # 用于调用，scrapy crawl pubchem爬取
+    name = "FDACSV"  # 用于调用，scrapy crawl pubchem爬取
     base_url_view = "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/{cid}/JSON/?response_type=save&response_basename=COMPOUND_CID_{cid}"
     base_url_2d = "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/CID/{cid}/record/JSON?record_type=2d&response_type=save&response_basename=Structure2D_COMPOUND_CID_{cid}"
     base_url_3d = "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/CID/{cid}/record/JSON?record_type=3d&response_type=save&response_basename=Conformer3D_COMPOUND_CID_{cid}"
@@ -57,12 +56,8 @@ class PubchemSpider(scrapy.Spider):
     def __init__(self, json_path=None, output_root=None, *args, **kwargs):
         super(PubchemSpider, self).__init__(*args, **kwargs)
         # 默认的 drug_catalogue.json 路径
-        self.INPUT = r"E:\PROJECT\25_71_Robinagent\spider\pubchem\FDA_getcid\fda2cas.csv"
-        self.OUTPUT = r"E:\PROJECT\25_71_Robinagent\data_FDAJSON1"
-        self.log = r"E:\PROJECT\25_71_Robinagent\spider\pubchem\FDA_getcid\log"
-        current_time = datetime.now()
-        timestamp = current_time.strftime("%Y-%m-%d_%H-%M-%S")
-        filename = f'{timestamp}.csv'
+        self.INPUT = r"E:\PROJECT\25_71_Robinagent\spider\pubchem\pubchem_scrapy\pubchem_scrapy1\FDA_getcid\20250915_095558.csv"
+        self.OUTPUT = r"E:\PROJECT\25_71_Robinagent\data"
         # todo:
         # self.INPUT = r"/data/spider/Goujinhe/drug_catalogue.json"
         # self.OUTPUT = r"/data/spider/Goujinhe/pubchem_json"
@@ -72,7 +67,7 @@ class PubchemSpider(scrapy.Spider):
         self.output_root = output_root or self.OUTPUT
         # 读取 JSON 文件，提取 pubchem_cid
         df = pd.read_csv(self.INPUT)
-        drug_cids = df.iloc[:, 1]
+        drug_cids = df["cid"]
         cid_list = []
         for drug_cid in drug_cids:
             if pd.isna(drug_cid):
@@ -81,11 +76,6 @@ class PubchemSpider(scrapy.Spider):
                 cid_list.append(str(int(drug_cid)))
         self.cid_list = list(set(cid_list))
         self.logger.info(f"共加载 {len(self.cid_list)} 个 CID 来爬取 PubChem 数据")
-        header = [str(len(self.cid_list)), str(self.INPUT)]
-        self.filename = os.path.join(self.log, filename)
-        with open(os.path.join(self.log, filename), 'w', newline='', encoding='utf-8') as file:
-            writer = csv.writer(file)
-            writer.writerow(header)
 
     def start_requests(self):
         for cid in self.cid_list:
@@ -149,10 +139,6 @@ class PubchemSpider(scrapy.Spider):
             self.logger.info(f"CID {cid}{suffix} 的 JSON 数据已保存到 {json_path}")
         except Exception as e:
             self.logger.error(f"CID {cid}{suffix} 保存 JSON 失败: {e}")
-            data = ["FIELD_DOWNLOAD_FAIL", cid, json_path]
-            with open(self.filename, 'w', newline='', encoding='utf-8-sig') as file:
-                writer = csv.writer(file)
-                writer.writerows(data)
 
         yield {
             "cid": cid,
@@ -172,10 +158,7 @@ class PubchemSpider(scrapy.Spider):
             self.logger.info(f"CID 的 patent_csv 数据已保存到 {csv_path}")
         except Exception as e:
             self.logger.error(f"CID 保存 patent_csv 失败: {e}")
-            data = ["PATENT_DOWNLOAD_FAIL", cid, csv_path]
-            with open(self.filename, 'w', newline='', encoding='utf-8-sig') as file:
-                writer = csv.writer(file)
-                writer.writerows(data)
+
         try:
             df = pd.read_csv(csv_path)
             # 检查所需的列是否存在
@@ -244,11 +227,6 @@ class PubchemSpider(scrapy.Spider):
             except Exception as e:
                 # 如果 res 为 None，或者在处理过程中发生其他错误，这个 except 块会被执行
                 print(f"res = {patent} 下载失败: {e}")
-                data = ["PATENT_DOWNLOAD_FAIL", cid, os.path.join(os.path.join(compound_dir, "patent"), f"{res.title}.pdf")]
-                with open(self.filename, 'w', newline='', encoding='utf-8-sig') as file:
-                    writer = csv.writer(file)
-                    writer.writerows(data)
-
 
         yield {
             "cid": cid,

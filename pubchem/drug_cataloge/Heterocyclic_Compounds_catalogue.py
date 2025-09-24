@@ -4,6 +4,20 @@ import re
 import urllib.parse
 import time
 import os
+import logging
+import os
+
+logger = logging.getLogger(__name__)
+
+# 设置日志的严重级别，低于此级别的日志消息将被忽略
+logger.setLevel(logging.INFO)
+
+# 创建一个文件处理器 (FileHandler)，用于将日志写入文件
+# 'a' 表示追加模式，如果文件已存在，则在末尾添加日志
+log_file_path = r'E:\PROJECT\25_71_Robinagent\spider\pubchem\drug_cataloge\log\Heterocyclic Compounds.log'
+file_handler = logging.FileHandler(log_file_path, mode='a', encoding='utf-8')
+logger.addHandler(file_handler)
+
 
 # --- 全局变量用于缓存 ---
 processed_nodes = set()  # 存储已经访问过的分类节点 ID。
@@ -17,10 +31,11 @@ REQUEST_TIMEOUT_SECONDS_DETAILS = 30  # 获取药物详细信息请求的超时�
 REQUEST_TIMEOUT_SECONDS_CLASSIFICATION = 30  # 获取分类数据请求的超时时间（秒）。
 
 # 药品目录文件路径
-DRUG_CATALOG_FILENAME = r"E:\PROJECT\25_71_Robinagent\spider\pubchem\drug_cataloge\drug_catalogue2.json"
+DRUG_CATALOG_FILENAME = r"E:\PROJECT\25_71_Robinagent\spider\pubchem\drug_cataloge\Heterocyclic Compounds.json"
 
 # 用于控制 JSON 数组的第一个元素前是否需要逗号
 is_first_entry = True
+
 
 
 # --- 函数：根据药品名称获取 PubChem CID ---
@@ -173,9 +188,10 @@ def traverse_classification(node_id=None, current_path=None):
 
     base_url = "https://pubchem.ncbi.nlm.nih.gov/classification_2/classification_2.fcgi"
     params = {
-        "hid": 96,
+        "hid": 1,
         "depth": 1,
-        "format": "json"
+        "format": "json",
+        "start": "node_926602"
     }
     if node_id and node_id != "root":
         params["start"] = node_id
@@ -199,13 +215,19 @@ def traverse_classification(node_id=None, current_path=None):
     actual_child_nodes = []
     if node_id is None or node_id == "root":
         actual_child_nodes = nodes_in_response
+        # print("node_id:   "+node_id)
+        # print(nodes_in_response)
     else:
         for node in nodes_in_response:
             if node_id in node.get("ParentID", []):
                 actual_child_nodes.append(node)
+                # print(node)
 
     for node in actual_child_nodes:
-        node_description = node["Information"]["Description"]["StringWithMarkup"][0]["String"]
+        # node_description = (node["Information"]["Name"]["StringWithMarkup"]["String"])
+        node_description = node["Information"]["Name"]["StringWithMarkup"]["String"]
+        if ', ' in node_description:
+            node_description = node_description.split(', ')[0]
         current_processing_node_id = node["NodeID"]
 
         new_path = current_path + [node_description]
@@ -252,16 +274,20 @@ def traverse_classification(node_id=None, current_path=None):
                                 f.write(",\n")  # 非第一个条目，前面加逗号换行
                             json.dump(drug_catalog_entry, f, ensure_ascii=False, indent=4)
                             is_first_entry = False  # 标记已写入第一个条目
-                        print(f"成功追加写入到 '{DRUG_CATALOG_FILENAME}'。")
+                        print(f"成功写入'{node_description}'")
+                        logger.info(f"成功写入'{node_description},cid = {pubchem_cid}'")
                     except IOError as e:
-                        print(f"错误: 无法追加写入药品目录信息到文件 '{DRUG_CATALOG_FILENAME}': {e}")
+                        print(f"错误: pubchem没有录入 '{node_description}': {e}")
+                        logger.info(f"错误: pubchem没有录入 '{node_description}': {e}")
                     except Exception as e:
                         print(f"错误: 追加写入药品目录信息时发生意外错误: {e}")
-
+                        logger.info(f"错误: pubchem没有录入 '{node_description}': {e}")
                 else:
                     print(f"警告: 未能获取 '{node_description}' (CID: {pubchem_cid}) 的原始详细信息 (PUG-View)。")
+                    logger.info(f"错误: pubchem没有录入 '{node_description}'")
             else:
                 print(f"警告: 未能获取 '{node_description}' 的 PubChem CID。")
+                logger.info(f"错误: pubchem没有录入 '{node_description}'")
         else:
             print(f"进入分类: {node_description} (NodeID: {current_processing_node_id})")
             traverse_classification(current_processing_node_id, new_path)
